@@ -15,26 +15,26 @@ if(typeof(String.prototype.trim) === "undefined")
     };
 }
 
+// insert the information contained in message into table
 function parseTableContent(message, table) {
     // turn table into a jquery object
     table = $(table);
     
     var lines = message.split(/\n|\r\n/);
-    var headerIndex = 0;
     var sepIndex = 1;
     
-    // find the table
+    // find the line that separates the table header and the table body
     for(var i = 0; i < lines.length; i++) {
         if(lines[i].search('-+-') != -1) {
-            headerIndex = i-1;
             sepIndex = i;
             break;
         }
     }
     
     // insert the table's caption
+    // handles no caption as well as multi-line captions
     var caption = '';
-    for(var i = 0; i < headerIndex; i++) {
+    for(var i = 0; i < sepIndex-1; i++) {
         caption += lines[i] + '\n';
     }
     table.append($('<caption></caption>').html(caption));
@@ -42,7 +42,7 @@ function parseTableContent(message, table) {
     // insert the table headers
     var tableHeader = $('<thead></thead>');
     var tableRow = $('<tr></tr>');
-    headers = lines[headerIndex].split('|');
+    headers = lines[sepIndex-1].split('|');
     for(var i = 0; i < headers.length; i++) {
         tableRow.append($('<th></th>').html(headers[i].trim()));
     }
@@ -57,8 +57,8 @@ function parseTableContent(message, table) {
             continue;
         }
         
-        tableRow = $('<tr></tr>');
         // insert all the data in the row
+        tableRow = $('<tr></tr>');
         var entries = lines[i].split('|');
         for(var j = 0; j < entries.length; j++) {
             tableRow.append($('<td></td>').html(entries[j].trim()));
@@ -68,6 +68,7 @@ function parseTableContent(message, table) {
     table.append(tableBody);
 }
 
+// receive table plaintext data from remote url
 function populateTable(url, tableElement) {
     var socket = new easyXDM.Socket({
         remote: url,
