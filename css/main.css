@@ -37,6 +37,7 @@ iframe.require-no-js {
     -webkit-transform: rotate(90deg) scaleX(-1);
     -o-transform: rotate(90deg) scaleX(-1);
     transform: rotate(90deg) scaleX(-1);
+    /* This doesn't work so well in IE */
     /*IE*/
     /*-ms-filter: fliph progid:DXImageTransform.Microsoft.BasicImage(rotation=1);*/
     /*filter: fliph progid:DXImageTransform.Microsoft.BasicImage(rotation=1);*/

@@ -1,26 +1,38 @@
-$(document).ready(function() {
-    // make all require-js class elements shown
-    $('.require-js').show();
-
-    // make all require-no-js class elements hidden
-    $('.require-no-js').hide();
-});
-
 // add a string trim function if it doesn't exist
-if(typeof(String.prototype.trim) === "undefined")
-{
-    String.prototype.trim = function() 
-    {
+if(typeof(String.prototype.trim) === "undefined") {
+    String.prototype.trim = function() {
         return String(this).replace(/^\s+|\s+$/g, '');
     };
 }
 
+$(document).ready(function() {
+    // make all require-js class elements shown
+    $('.require-js').show();
+    // make all require-no-js class elements hidden
+    $('.require-no-js').hide();
+});
+
+// if there was a problem with the javascript implementation,
+// this will revert to using iframes
+function revertToIframe() {
+    // make all require-js class elements hidden
+    $('.require-js').hide();
+    // make all require-no-js class elements shown
+    $('.require-no-js').show();
+};
+
 // insert the information contained in message into table
 function parseTableContent(message, table) {
+    // if we didn't get a response, revert to iframes
+    if(!message) {
+        revertToIframe();
+        return;
+    }
+    
     // turn table into a jquery object
     table = $(table);
     
-    var lines = message.split(/\n|\r\n/);
+    var lines = message.split(/\r?\n/);
     var sepIndex = 1;
     
     // find the line that separates the table header and the table body
@@ -71,12 +83,17 @@ function parseTableContent(message, table) {
 // receive table plaintext data from remote url
 function populateTable(url, tableElement) {
     var socket = new easyXDM.Socket({
-        remote: url,
+        remote: 'http://dl.dropbox.com/u/13441553/resources/remote_loader.html',
         onMessage: function(message, origin) {
             parseTableContent(message, tableElement);
+            // we won't be needing this anymore...
+            socket.destroy();
+            //TODO: cancel timer for revertToIframe
         },
         onReady: function() {
-            socket.postMessage('send me the content');
+            // when the socket is set up, send the url we want to grab
+            socket.postMessage(url);
+            //TODO: set timer for revertToIframe
         }
     });
 }

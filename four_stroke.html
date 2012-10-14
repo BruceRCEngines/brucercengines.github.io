@@ -59,11 +59,11 @@
             </div>
 
             <table id="engineTable" class="require-js table table-bordered table-condensed table-hover">
-                <caption>Mouse-over each rating to view its details.</caption>
+                <!-- <caption>Mouse-over each rating to view its details.</caption> -->
                 <!-- will be dynamically filled using javascript -->
             </table>
         
-            <iframe class="require-no-js" seamless frameborder="0" src="https://dl.dropbox.com/u/13441553/resources/four_stroke.html">
+            <iframe class="require-no-js" seamless frameborder="0" src="https://dl.dropbox.com/u/13441553/resources/4-stroke.txt">
                 <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
             </iframe>
 
@@ -77,13 +77,13 @@
 
         <script src="js/vendor/bootstrap.min.js"></script>
         
-        <script type="text/javascript" src="js/vendor/easyXDM.min.js"></script>
+        <script src="js/vendor/easyXDM.min.js"></script>
 
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
         
         <script>
-            populateTable("http://dl.dropbox.com/u/13441553/resources/four_stroke.html", engineTable);
+            populateTable("http://dl.dropbox.com/u/13441553/resources/4-stroke.txt", document.getElementById("engineTable"));
         </script>
 
         <script>

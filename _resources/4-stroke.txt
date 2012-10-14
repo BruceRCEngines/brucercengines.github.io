@@ -1,0 +1,32 @@
+BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION 
+------------------+-------+--------+-------+-------+---------------------
+ASP               | 52    | 8      | $100  | 164   |
+ASP               | 80    | 7      | $150  | 87    | Perfect!
+Magnum XL         | 52    | 4      | $65   | 182   | 
+Magnum XL         | 91    | 6      | $135  | 163   | Slightly darkened 
+Magnum XL         | 120   | 8      | $200  | 179   | 
+OS                | 40    | 9      | $110  | 125   | 
+OS Surpass        | 48    | 5      | $85   | 130   | A Little charmer!
+OS Surpass        | 52    | 7      | $135  | 79    | 
+OS Surpass        | 70    | 10     | $200  | 93    | 
+OS Surpass        | 70    | 7      | $160  | 180   | 
+OS Surpass        | 91    | 10     | $240  | 172   | 
+OS Surpass        | 91    | 10     | $225  | 170   | Light stain on head
+OS Surpass        | 120   | 10     | $290  | 65    | 
+OS Surpass        | 120   | 8      | $260  | 15    | Pumped version
+OS Surpass        | 120   | 6      | $200  | 137   | New Bearings 
+Saito             | 45    | 6      | $90   | 173   | 
+Saito             | 50    | 6      | $120  | 183   | Old Version of Gold Knight (no black body)
+Saito             | 72    | 8      | $165  | 188   | 
+Saito             | 91    | 7      | $190  | 200   | 
+Saito             | 120   | 9      | $250  | 174   | Includes flexible exhaust
+Saito             | 120   | 10     | $280  | 149   | Includes alum. mt.
+Saito Gold Knight | 120   | 10     | $300  | 181   | 
+Saito Gold Knight | 150   | 9      | $300  | 114   | 
+Thunder Tiger     | 91    | 10     | $190  | 71    | Made in 1996
+YS                | 61    | 7      | $160  | 189   | 
+YS                | 91    | 6      | $155  | 54    | 
+YS AC             | 120   | 7      | $225  | 126   | Idles at 1,400!
+YS FS             | 120   | 7      | $225  | 70    | 
+YS FS             | 120   | 5      | $195  | 81    | 
+YS NC             | 120   | 10     | $300  | 5     | 

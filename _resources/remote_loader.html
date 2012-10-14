@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <script src="http://www.brucercengines.com/js/vendor/easyXDM.min.js"></script>
+    <script>
+        function IO(url) {    //LA MOD String Version. A tiny ajax library.  by, DanDavis
+            var X = !window.XMLHttpRequest ? new ActiveXObject('Microsoft.XMLHTTP') : new XMLHttpRequest();
+            X.open('GET', url, false );
+            X.setRequestHeader('Content-Type', 'text/html')
+            X.send('');
+            return X.responseText;
+        }
+        
+        var socket = new easyXDM.Socket({
+            onMessage: function(url, origin) {
+                socket.postMessage(IO(url));
+            }
+        });
+    </script>
+</head>
+</html>
