@@ -3,6 +3,17 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+/* default is to hide these elements when javascript is not available */
+.require-js {
+    display:none;
+}
+
+iframe.require-no-js {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+   
 .flip-vertical-axis {
     -moz-transform: scaleX(-1);
     -webkit-transform: scaleX(-1);
@@ -26,6 +37,7 @@
     -webkit-transform: rotate(90deg) scaleX(-1);
     -o-transform: rotate(90deg) scaleX(-1);
     transform: rotate(90deg) scaleX(-1);
+    /* This doesn't work so well in IE */
     /*IE*/
     /*-ms-filter: fliph progid:DXImageTransform.Microsoft.BasicImage(rotation=1);*/
     /*filter: fliph progid:DXImageTransform.Microsoft.BasicImage(rotation=1);*/
@@ -37,7 +49,8 @@
     -moz-transform: rotate(90deg);
     -o-transform: rotate(90deg);
     /* for ie */
-    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+    -ms-transform:rotate(90deg);
+    filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 }
 
 .rotate-180 {
@@ -46,6 +59,7 @@
     -moz-transform: rotate(180deg);
     -o-transform: rotate(180deg);
     /* for ie */
+    -ms-transform:rotate(180deg);
     filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
 }
 
@@ -55,6 +69,7 @@
     -moz-transform: rotate(270deg);
     -o-transform: rotate(270deg);
     /* for ie */
+    -ms-transform:rotate(270deg);
     filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
 

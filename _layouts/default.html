@@ -30,10 +30,10 @@
         <div class="navbar navbar-fixed-top">
             <div class="navbar-inner">
                 <div class="container">
-                    <a class="brand" href="index.html">Bruce's RC Engines</a>
+                    <a class="brand" href="#">Bruce's RC Engines</a>
                     <ul class="nav">
-                        <li><a href="index.html">Home</a></li>
-                        <li class="active"><a href="#">2-Stroke Engines</a></li>
+                        <li class="active"><a href="#">Home</a></li>
+                        <li><a href="two_stroke.html">2-Stroke Engines</a></li>
                         <li><a href="four_stroke.html">4-Stroke Engines</a></li>
                         <li><a href="rating_info.html">Engine Rating System</a></li>
                         <li><a href="order_info.html">Ordering Info</a></li>
@@ -44,47 +44,16 @@
         </div>
 
         <div class="container">
-            <div class="pull-right" style="margin:-13px 45px 10px 0px">
-                <span style="margin-right:0.5em">
-                    Feel free to contact me with any questions or engine photo requests.
-                </span>
-                <i class="icon-share-alt flip-pos-diagonal-axis" style="margin-top: -3px"></i>
-            </div>
-
-            <div class="thumbnail"
-                 style="width:500px; text-align:center; margin:25px auto">
-                <img src="img/evolution_46.jpg" alt="Evolution 46 Engine"
-                     style="padding-bottom:0.5em" />
-                Featured 2-Stroke Engine: <strong>Evolution 46</strong>
-            </div>
-
-            <table id="engineTable" class="require-js table table-bordered table-condensed table-hover">
-                <!-- <caption>Mouse-over each rating to view its details.</caption> -->
-                <!-- will be dynamically filled using javascript -->
-            </table>
-        
-            <iframe class="require-no-js" seamless frameborder="0" src="https://dl.dropbox.com/u/76928840/2-stroke.txt">
-                <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
-            </iframe>
-
-            <footer>
-                <h3>Ready to order?  <a class="btn btn-info btn-large" href="order_info.html">Ordering Info</a></h3>
-            </footer>
+            {{ content }}
         </div> <!-- /container -->
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.1.min.js"><\/script>')</script>
 
         <script src="js/vendor/bootstrap.min.js"></script>
-    
-        <script src="js/vendor/easyXDM.min.js"></script>
 
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
-        
-        <script>
-            populateTable("http://dl.dropbox.com/u/76928840/2-stroke.txt", document.getElementById("engineTable"));
-        </script>
 
         <script>
             var _gaq=[['_setAccount','UA-35239977-1'],['_trackPageview']];
