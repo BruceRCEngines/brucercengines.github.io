@@ -83,7 +83,7 @@ function parseTableContent(message, table) {
 // receive table plaintext data from remote url
 function populateTable(url, tableElement) {
     var socket = new easyXDM.Socket({
-        remote: 'http://dl.dropbox.com/u/13441553/resources/remote_loader.html',
+        remote: 'https://dl.dropboxusercontent.com/u/13441553/resources/remote_loader.html',
         onMessage: function(message, origin) {
             parseTableContent(message, tableElement);
             // we won't be needing this anymore...
