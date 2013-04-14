@@ -11,11 +11,12 @@ To purchase an engine:
 -  Give me the NAME, SIZE, and SKU of your choice
 -  Include your name and address
 -  Postage is $8 in the United States
--  I accept checks, money orders, and Pay Pal.
--  To use Pay Pal you will need my name (Bruce Fischer) and email address (b-fischer@juno.com)
+-  I accept checks, money orders, and [PayPal]{: target="_blank"}
+-  To use [PayPal]{: target="_blank"} you will need my name (Bruce Fischer) and email address (b-fischer@juno.com)
 -  You may order by mail by sending your request and payment to:
 
         Bruce Fischer
         1208 Guildford Ct
         Iowa City, Iowa 52240
 
+[PayPal]: https://www.paypal.com/
