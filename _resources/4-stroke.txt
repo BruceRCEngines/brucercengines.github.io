@@ -1,32 +1,31 @@
-BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION 
+BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------+-------+--------+-------+-------+---------------------
-ASP               | 52    | 8      | $100  | 164   |
-ASP               | 80    | 7      | $150  | 87    | Perfect!
-Magnum XL         | 52    | 4      | $65   | 182   | 
-Magnum XL         | 91    | 6      | $135  | 163   | Slightly darkened 
-Magnum XL         | 120   | 8      | $200  | 179   | 
-OS                | 40    | 9      | $110  | 125   | 
+ASP               | 80    | 10     | $160  | 230   |
+Magnum XL         | 52    | 4      | $65   | 182   |
+Magnum XL         | 70    | 6      | $110  | 11    |
+Magnum XL         | 91    | 6      | $125  | 163   | Slightly darkened
+Magnum XL         | 91    | 10     | $160  | 185   |
+OS                | 40    | 9      | $110  | 125   |
 OS Surpass        | 48    | 5      | $85   | 130   | A Little charmer!
-OS Surpass        | 52    | 7      | $135  | 79    | 
-OS Surpass        | 70    | 10     | $200  | 93    | 
-OS Surpass        | 70    | 7      | $160  | 180   | 
-OS Surpass        | 91    | 10     | $240  | 172   | 
-OS Surpass        | 91    | 10     | $225  | 170   | Light stain on head
-OS Surpass        | 120   | 10     | $290  | 65    | 
+OS Surpass        | 70    | 10     | $200  | 190   |
+OS Surpass        | 70    | 8      | $160  | 156   |
+OS Surpass        | 91    | 10     | $240  | 172   |
+OS Surpass        | 91    | 6      | $160  | 233   |
 OS Surpass        | 120   | 8      | $260  | 15    | Pumped version
-OS Surpass        | 120   | 6      | $200  | 137   | New Bearings 
-Saito             | 45    | 6      | $90   | 173   | 
-Saito             | 50    | 6      | $120  | 183   | Old Version of Gold Knight (no black body)
-Saito             | 72    | 8      | $165  | 188   | 
-Saito             | 91    | 7      | $190  | 200   | 
-Saito             | 120   | 9      | $250  | 174   | Includes flexible exhaust
+OS Surpass        | 120   | 6      | $200  | 137   | New Bearings
+Saito             | 45    | 6      | $90   | 173   | pipe, no muffler
+Saito             | 65    | 8      | $140  | 208   |
+Saito             | 65    | 5      | $120  | 82    | Gold Knight
+Saito             | 72    | 6      | $140  | 9     |
+Saito             | 80    | 9      | $200  | 224   | Bench run once for 3 min.
+Saito             | 91    | 7      | $170  | 213   | New bearings
+Saito             | 120   | 9      | $250  | 67    | Beautiful!
 Saito             | 120   | 10     | $280  | 149   | Includes alum. mt.
-Saito Gold Knight | 120   | 10     | $300  | 181   | 
-Saito Gold Knight | 150   | 9      | $300  | 114   | 
-Thunder Tiger     | 91    | 10     | $190  | 71    | Made in 1996
-YS                | 61    | 7      | $160  | 189   | 
-YS                | 91    | 6      | $155  | 54    | 
-YS AC             | 120   | 7      | $225  | 126   | Idles at 1,400!
-YS FS             | 120   | 7      | $225  | 70    | 
-YS FS             | 120   | 5      | $195  | 81    | 
-YS NC             | 120   | 10     | $300  | 5     | 
+Saito - 2 Cylinder| 182   |Untested| $300  | 219   |
+Thunder Tiger     | 91    | 10     | $190  | 171   |
+YS                | 91    | 6      | $155  | 54    |
+YS AC             | 120   | 8      | $225  | 126   | Idles at 1,400!
+YS FS             | 120   | 8      | $225  | 103   |
+YS FS             | 120   | 5      | $195  | 26    |
+YS NC             | 120   | 10     | $300  | 5     |
+YS FZ             | 140   | 7      | $250  | 214   |
