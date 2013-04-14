@@ -1,7 +1,7 @@
 ---
 title: Four Stroke
 permalink: /four_stroke.html
-featured_engine_name: OS Surpass 80
+featured_engine_name: OS Surpass 70
 featured_engine_photo_url: img/os_surpass_70.jpg
 layout: engine_listings
 ---
