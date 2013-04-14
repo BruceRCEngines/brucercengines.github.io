@@ -1,12 +1,18 @@
 ---
 layout: default
 ---
-
       <div class="pull-right" style="margin:-13px 45px 10px 0px">
         <span style="margin-right:0.5em">
           Feel free to contact me with any questions or engine photo requests.
         </span>
         <i class="icon-share-alt flip-pos-diagonal-axis" style="margin-top:-3px"></i>
+      </div>
+
+      <div class="thumbnail"
+         style="width:500px; text-align:center; margin:25px auto">
+        <img src="{{ page.featured_engine_photo_url }}" alt="{{ page.featured_engine_name }} Engine"
+           style="padding-bottom:0.5em" />
+        Featured Engine: <strong>{{ page.featured_engine_name }}</strong>
       </div>
 
 {{ content }}

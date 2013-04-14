@@ -1,7 +1,7 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-   
+
 /* default is to hide these elements when javascript is not available */
 .require-js {
     display:none;
@@ -12,7 +12,7 @@ iframe.require-no-js {
     height: 500px;
     border: none;
 }
-   
+
 .flip-vertical-axis {
     -moz-transform: scaleX(-1);
     -webkit-transform: scaleX(-1);
@@ -74,4 +74,9 @@ iframe.require-no-js {
 
 .inline {
 	display:inline;
+}
+
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
 }
