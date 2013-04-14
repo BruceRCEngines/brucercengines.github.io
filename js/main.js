@@ -3,13 +3,6 @@ if(window.DEV) {
     window.document.title = 'DEV:' + window.document.title;
 }
 
-// add a string trim function if it doesn't exist
-if(typeof(String.prototype.trim) === "undefined") {
-    String.prototype.trim = function() {
-        return String(this).replace(/^\s+|\s+$/g, '');
-    };
-}
-
 $(document).ready(function() {
     // make all require-js class elements shown
     $('.require-js').show();
