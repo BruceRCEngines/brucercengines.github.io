@@ -1,9 +1,11 @@
 ---
 title: Two Stroke
 permalink: /two_stroke.html
+layout: engine_listings
+published: true
+
 featured_engine_name: Evolution 46
 featured_engine_photo_url: img/evolution_46.jpg
-layout: engine_listings
 ---
 
 | BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
