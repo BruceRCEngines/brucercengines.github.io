@@ -1,16 +1,9 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-/* default is to hide these elements when javascript is not available */
-.require-js {
-    display:none;
-}
-
-iframe.require-no-js {
-    width: 100%;
-    height: 500px;
-    border: none;
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
 }
 
 .flip-vertical-axis {
@@ -70,13 +63,4 @@ iframe.require-no-js {
     /* for ie */
     -ms-transform:rotate(270deg);
     filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
-}
-
-.inline {
-	display:inline;
-}
-
-body {
-    padding-top: 60px;
-    padding-bottom: 40px;
 }

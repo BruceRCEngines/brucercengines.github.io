@@ -1,4 +1,7 @@
+.gitignore
 _site/*
+CNAME
+google*.html
 
 #################
 ## Eclipse
