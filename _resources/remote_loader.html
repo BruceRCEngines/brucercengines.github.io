@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <script src="http://www.brucercengines.com/js/vendor/easyXDM.min.js"></script>
+    <script src="https://dl.dropboxusercontent.com/u/13441553/resources/easyXDM.min.js"></script>
     <script>
         function IO(url) {    //LA MOD String Version. A tiny ajax library.  by, DanDavis
             var X = !window.XMLHttpRequest ? new ActiveXObject('Microsoft.XMLHTTP') : new XMLHttpRequest();
@@ -12,8 +12,11 @@
             X.send('');
             return X.responseText;
         }
-        
+
         var socket = new easyXDM.Socket({
+            // restrict access to this provider
+            acl: ['http://www.brucercengines.com', 'http://ethack.github.com', 'http://brucercengines.github.com', 'http://ethack.github.io', 'http://brucercengines.github.io'],
+            // respond with the contents of the file given in url
             onMessage: function(url, origin) {
                 socket.postMessage(IO(url));
             }
