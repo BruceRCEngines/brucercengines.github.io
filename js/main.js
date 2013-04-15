@@ -33,3 +33,90 @@ function activateNavbarButton() {
 
     $(id).addClass('active');
 }
+
+function insertPicturesInTable(table) {
+    var columns = table.find('thead th').map(function() {
+        return $(this).text();
+    });
+
+    var iSku = $.inArray('SKU', columns);
+
+    table.find('thead tr').append($('<th>Photos</th>'));
+
+    table.find('tbody tr').each(function(i) {
+        var sku = $(this).find(':nth-child(' + (iSku + 1) + ')').text();
+        //var baseUrl = 'https://dl.dropboxusercontent.com/u/76928840/img/';      // Bruce
+        var baseUrl = 'https://dl.dropboxusercontent.com/u/13441553/img/';    // Ethan
+        var $td = $('<td></td>');
+        $td.append($('<a id="imgbtn_' + sku + '" href="#modal_' + sku + '" class="btn btn-primary btn-small" data-toggle="modal"><i class="icon-camera icon-white visible-phone"></i><span class="hidden-phone">View Photos</span></a>').hide());
+        $(this).append($td);
+        createModalCarousel(sku, baseUrl);
+    });
+}
+
+function createModalCarousel(id, photoUrlPrefix) {
+    //TODO change to string concatenation & one .append call
+    var modal = $('<div class="modal hide fade" data-keyboard="true"></div>').attr('id', 'modal_' + id);
+    var modalBody = $('<div class="modal-body"></div>');
+    var carousel = $('<div class="carousel slide" data-interval="false"></div>').attr('id', 'carousel_' + id);
+    var carouselInner = $('<div class="carousel-inner"></div>');
+    var carouselActiveItem = $('<div class="active item"></div>');
+    var img = new Image();
+
+    $('#hiddenContent').append(modal);
+    modal.append($('<button type="button" class="close" data-dismiss="modal">&times;</button>'));
+    modal.append(modalBody);
+    modalBody.append(carousel);
+    carousel.append(carouselInner);
+    carousel.append($('<a class="carousel-control left" href="#carousel_' + id + '" data-slide="prev">&lsaquo;</a>'));
+    carousel.append($('<a class="carousel-control right" href="#carousel_' + id + '" data-slide="next">&rsaquo;</a>'));
+    carouselInner.append(carouselActiveItem);
+    carouselActiveItem.append(img);
+
+    //TODO clean up all these callbacks
+    img.onload = function () {
+        // show the photo button if the photo exists
+        $('#imgbtn_' + id).show();
+
+        var img2 = new Image();
+        img2.onload = function () {
+            // if image loads, add the next item to the slider
+            var carouselItem = $('<div class="item"></div>');
+            carouselInner.append(carouselItem);
+            carouselItem.append(img2);
+        };
+        img2.onerror = function () {
+            // if image doesn't load remove the slide event listener
+            carousel.off('slide');
+        };
+
+        img2.src = photoUrlPrefix + id + '_' + 2 + '.jpg';
+    };
+    img.onerror = function () {
+        // if image doesn't load remove the slide event listener
+        carousel.off('slide');
+    };
+
+    carousel.on('slide', function loadNextImg(e) {
+        if( typeof loadNextImg.count == 'undefined' ) {
+            loadNextImg.count = 3;
+        }
+
+        var img = new Image();
+        img.onload = function () {
+            // if image loads, add the next item to the slider
+            var carouselItem = $('<div class="item"></div>');
+            carouselInner.append(carouselItem);
+            carouselItem.append(img);
+        };
+        img.onerror = function () {
+            // if image doesn't load remove the slide event listener
+            carousel.off('slide');
+        }
+
+        img.src = photoUrlPrefix + id + '_' + loadNextImg.count + '.jpg';
+        loadNextImg.count++;
+    });
+
+    img.src = photoUrlPrefix + id + '_' + 1 + '.jpg';
+}
