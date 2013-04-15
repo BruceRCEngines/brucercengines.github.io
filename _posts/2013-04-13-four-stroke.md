@@ -31,7 +31,7 @@ featured_engine_photo_url: img/os_surpass_70.jpg
 | Saito             | 91    | 7      | $170  | 213   | New bearings
 | Saito             | 120   | 9      | $250  | 67    | Beautiful!
 | Saito             | 120   | 10     | $280  | 149   | Includes alum. mt.
-| Saito - 2 Cylinder| 182   |Untested| $300  | 219   |
+| Saito - 2 Cylinder| 182   | 9      | $300  | 219   | Bench run twice.
 | Thunder Tiger     | 91    | 10     | $190  | 171   |
 | YS                | 91    | 6      | $155  | 54    |
 | YS AC             | 120   | 8      | $225  | 126   | Idles at 1,400!
