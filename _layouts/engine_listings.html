@@ -13,8 +13,15 @@ layout: default
         Featured Engine: <strong>{{ page.featured_engine_name }}</strong>
       </div>
 
+      <div id="content">
 {{ content }}
+      </div>
 
       <footer>
         <h3>Ready to order?  <a class="btn btn-info btn-large" href="order_info.html">Ordering Info</a></h3>
       </footer>
+
+      <script>
+        $engineTable = $('#content table');
+        insertPicturesInTable($engineTable);
+      </script>
