@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Two Stroke
 permalink: /two_stroke.html
 layout: engine_listings
