@@ -5,6 +5,7 @@ permalink: /two_stroke.html
 layout: engine_listings
 featured_engine_name: Evolution 46
 featured_engine_photo_url: img/evolution_46.jpg
+
 ---
 
 | BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -104,4 +105,3 @@ featured_engine_photo_url: img/evolution_46.jpg
 {: .table .table-bordered .table-condensed .table-hover}
 
 {% include ratings_abbr.md %}
-

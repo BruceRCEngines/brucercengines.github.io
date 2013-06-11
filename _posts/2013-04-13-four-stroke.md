@@ -5,6 +5,7 @@ permalink: /four_stroke.html
 layout: engine_listings
 featured_engine_name: OS Surpass 70
 featured_engine_photo_url: img/os_surpass_70.jpg
+
 ---
 
 | BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -74,4 +75,3 @@ featured_engine_photo_url: img/os_surpass_70.jpg
 {: .table .table-bordered .table-condensed .table-hover}
 
 {% include ratings_abbr.md %}
-
