@@ -45,7 +45,7 @@ function insertPicturesInTable(table) {
 
     table.find('tbody tr').each(function(i) {
         var sku = $(this).find(':nth-child(' + (iSku + 1) + ')').text();
-        var baseUrl = 'https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/result/';      // Bruce
+        var baseUrl = 'https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/resized/';      // Bruce
         //var baseUrl = 'https://dl.dropboxusercontent.com/u/13441553/img/';    // Ethan
         var $td = $('<td></td>');
         $td.append($('<a id="imgbtn_' + sku + '" href="#modal_' + sku + '" class="btn btn-primary btn-small" data-toggle="modal"><i class="icon-camera icon-white visible-phone"></i><span class="hidden-phone">View Photos</span></a>').hide());

@@ -1,3 +1,2 @@
-server: true
-auto: true
+# Set the markdown parser
 markdown: kramdown
