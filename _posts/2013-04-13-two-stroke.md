@@ -102,6 +102,8 @@ featured_engine_photo_url: img/evolution_46.jpg
 | Tiger Shark       | 46    | 10     | $65   | 58    |
 | Tower             | 75    | 6      | $70   | 111   |
 | Webra             | 40    | 6      | $50   | 204   |
-{: .table .table-bordered .table-condensed .table-hover}
 
-{% include ratings_abbr.md %}
+
+<script>
+  $('table').addClass('table table-bordered table-condensed table-hover');
+</script>

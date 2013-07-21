@@ -19,4 +19,8 @@ New engines have been inspected to be sure that all parts are present.  Dirty en
 | 3         | Poor.  Still runs, but has poor compression and/or poor idle.
 | 2         | Parts engine II.  All parts are present, but may not run.
 | 1         | Parts engine I.  Missing some parts.
-{: .table .table-striped .table-bordered}
+
+
+<script>
+  $('table').addClass('table table-striped table-bordered');
+</script>
