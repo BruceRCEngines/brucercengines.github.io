@@ -8,7 +8,7 @@ published: true
 New engines have been inspected to be sure that all parts are present.  Dirty engines have been cleaned.  All used engines have been test run and adjusted to achieve appropriate high end and idle speeds and smooth transition.  All engines have been given a rating according to the following chart.
 
 | Rating    | Description
-|-----------+--------------
+|-----------|--------------
 | 10        | New.  The engine has never been run and is expected to be perfect.
 | 9         | Bench run only.  There may be minor surface scratching, but is otherwise flawless.
 | 8         | Flown only a few times.  There may be minimal surface wear, but otherwise runs without fault.
