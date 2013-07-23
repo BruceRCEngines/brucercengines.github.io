@@ -7,7 +7,7 @@ published: true
 
 To purchase an engine:
 
--  Please email me at <a href="mailto:b-fischer@juno.com">b-fischer@juno.com</a>
+-  Please email me at <b-fischer@juno.com>
 -  Give me the NAME, SIZE, and SKU of your choice
 -  Include your name and address
 -  Postage is $8 in the United States
