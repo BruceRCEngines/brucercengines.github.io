@@ -5,7 +5,6 @@ permalink: /two_stroke.html
 layout: engine_listings
 featured_engine_name: Evolution 46
 featured_engine_photo_url: img/evolution_46.jpg
-
 ---
 
  BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -94,7 +93,7 @@ featured_engine_photo_url: img/evolution_46.jpg
  Thunder Tiger Pro | 46    | 7      | $60   | 37    | Runs as well as OS FX 
  Thunder Tiger Pro | 46    | 8      | $70   | 151   |
  Thunder Tiger Pro | 46    | 8      | $70   | 44    |
- Thunder Tiger Pro | 46    | 9      | $90   | 38    |New with rebuilt carb.
+ Thunder Tiger Pro | 46    | 9      | $90   | 38    | New with rebuilt carb.
  Thunder Tiger Pro | 61    | 6      | $70   | 216   | Cosmetic scars
  Thunder Tiger Pro | 61    | 8      | $90   | 193   |
  Thunder Tiger Pro | 61    | 8      | $90   | 115   |
@@ -102,8 +101,5 @@ featured_engine_photo_url: img/evolution_46.jpg
  Tiger Shark       | 46    | 10     | $65   | 58    |
  Tower             | 75    | 6      | $70   | 111   |
  Webra             | 40    | 6      | $50   | 204   |
+{: .table .table-bordered .table-condensed .table-hover}
 
-
-<script>
-  $('table').addClass('table table-bordered table-condensed table-hover');
-</script>

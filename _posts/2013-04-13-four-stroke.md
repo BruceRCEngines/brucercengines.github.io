@@ -5,7 +5,6 @@ permalink: /four_stroke.html
 layout: engine_listings
 featured_engine_name: OS Surpass 70
 featured_engine_photo_url: img/os_surpass_70.jpg
-
 ---
 
  BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -69,11 +68,8 @@ featured_engine_photo_url: img/os_surpass_70.jpg
  YS FS             | 120   | 6      | $200  | 76    |
  YS FS             | 120   | 4      | $160  | 93    |
  YS FZ             | 110   | 8      | $190  | 132   |
- YS FZ             | 140   | 8      | $270  | 112
+ YS FZ             | 140   | 8      | $270  | 112   |
  YS FZ             | 140   | 7      | $250  | 214   |
  YS NC             | 120   | 10     | $280  | 5     |
+{: .table .table-bordered .table-condensed .table-hover}
 
-
-<script>
-  $('table').addClass('table table-bordered table-condensed table-hover');
-</script>
