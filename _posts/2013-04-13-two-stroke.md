@@ -3,8 +3,8 @@ published: true
 title: Two Stroke
 permalink: /two_stroke.html
 layout: engine_listings
+featured_engine_photo_url: https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/2-stroke.jpg
 featured_engine_name: Evolution 46
-featured_engine_photo_url: img/evolution_46.jpg
 ---
 
  BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION

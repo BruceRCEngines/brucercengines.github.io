@@ -3,8 +3,8 @@ published: true
 title: Four Stroke
 permalink: /four_stroke.html
 layout: engine_listings
+featured_engine_photo_url: https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/4-stroke.jpg
 featured_engine_name: OS Surpass 70
-featured_engine_photo_url: img/os_surpass_70.jpg
 ---
 
  BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION

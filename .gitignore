@@ -1,6 +1,7 @@
 google*.html
 CNAME
 _site/*
+util/*
 
 #################
 ## Eclipse
