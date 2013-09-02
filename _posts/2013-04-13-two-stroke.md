@@ -7,7 +7,7 @@ featured_engine_name: Evolution 46
 featured_engine_photo_url: img/evolution_46.jpg
 ---
 
- BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
+BRAND              | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 -------------------|-------|--------|-------|-------|---------------------
  ASP               | 40    | 5      | $40   | 42    | Perry carb
  ASP               | 40    | 8      | $55   | 99    | Red Head
@@ -37,7 +37,7 @@ featured_engine_photo_url: img/evolution_46.jpg
  Magnum Pro        | 45    | 5      | $50   | 35    |
  Magnum Pro        | 45    | 9      | $55   | 120   | One muffler hole retapped
  Magnum Pro        | 45    | 4      | $40   | 100   |      
- Magnum XL         | 40A   | 8      | $50   | 39    | Idles at 1700!!!
+ Magnum XL         | 40A   | 8      | $50   | 39    | Idles at 1,700!!!
  Magnum XL         | 40    | 10     | $55   | 22    |
  Magnum XL         | 46    | 7      | $50   | 47    | Newbearings
  Magnum XL         | 46A   | 10     | $65   | 50    |
@@ -102,4 +102,3 @@ featured_engine_photo_url: img/evolution_46.jpg
  Tower             | 75    | 6      | $70   | 111   |
  Webra             | 40    | 6      | $50   | 204   |
 {: .table .table-bordered .table-condensed .table-hover}
-
