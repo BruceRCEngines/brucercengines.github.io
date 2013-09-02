@@ -72,4 +72,3 @@ featured_engine_photo_url: img/os_surpass_70.jpg
  YS FZ             | 140   | 7      | $250  | 214   |
  YS NC             | 120   | 10     | $280  | 5     |
 {: .table .table-bordered .table-condensed .table-hover}
-
