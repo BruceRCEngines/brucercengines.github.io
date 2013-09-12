@@ -3,13 +3,13 @@ published: true
 title: Two Stroke
 permalink: /two_stroke.html
 layout: engine_listings
-featured_engine_photo_url: https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/2-stroke.jpg
+featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/2-stroke.jpg"
 featured_engine_name: Evolution 46
 ---
 
- BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
+BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 -------------------|-------|--------|-------|-------|---------------------
- ASP               | 40    | 5      | $40   | 42    | Perry carb
+ ASP               | 40    | 5      | $40   | 42    | regular carb
  ASP               | 40    | 8      | $55   | 99    | Red Head
  ASP               | 46    | 10     | $65   | 14    |
  ASP               | 46    | 8      | $60   | 102   | Idles at 1,700! 
