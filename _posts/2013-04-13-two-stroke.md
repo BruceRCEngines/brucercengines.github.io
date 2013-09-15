@@ -19,14 +19,18 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  ASP               | 75    | 8      | $80   | 79    |
  ASP               | 91    | 7      | $95   | 167   |
  CS (Carlson)      | 46    | 10     | $65   | 4     | Carlson Engine
- Enya III          | 60    | 7      | $65   | 138   | Double ring                   
+ Enya III          | 60    | 7      | $65   | 138   | Double ring
+ Evolution         | 45    | 6      | $60   | 129   |                             
  Evolution         | 45    | 7      | $60   | 19    |
+ Evolution         | 46    | 7      | $60   | 156   | 
  Evolution         | 46    | 8      | $65   | 97    |
  Evolution         | 46    | 10     | $80   | 3     |
  Evolution         | 46    | 7      | $60   | 158   |      
  Evolution         | 46    | 7      | $60   | 166   | Thunder Tiger carb
+ HB                | 15    | 8      | $35   | 178   |                          
  HB (PDP)          | 40    | 6      | $50   | 83    | PDP
  HB                | 61    | 10     | $100  | 13    |
+ HB                | 61    | 7      | $65   | 141   |
  HB Gold Cup       | 61    | 7      | $75   | 223   |
  Irvine            | 40    | 10     | $75   | 52    |
  Irvine            | 61    | 6      | $60   | 48    |
@@ -36,7 +40,7 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  Magnum Pro        | 45    | 7      | $55   | 6     |
  Magnum Pro        | 45    | 6      | $50   | 44    |
  Magnum Pro        | 45    | 5      | $50   | 35    |
- Magnum Pro        | 45    | 9      | $55   | 120   | One muffler hole retapped
+ Magnum Pro        | 45    | 9      | $60   | 120   | One muffler hole retapped
  Magnum Pro        | 45    | 4      | $40   | 100   |      
  Magnum XL         | 40A   | 8      | $50   | 39    | Idles at 1,700!!!
  Magnum XL         | 40    | 10     | $55   | 22    |
