@@ -9,7 +9,7 @@ featured_engine_name: Evolution 46
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 -------------------|-------|--------|-------|-------|---------------------
- ASP               | 40    | 5      | $40   | 42    | regular carb
+ ASP               | 40    | 5      | $40   | 42    | Perry carb
  ASP               | 40    | 8      | $55   | 99    | Red Head
  ASP               | 46    | 10     | $65   | 14    |
  ASP               | 46    | 8      | $60   | 102   | Idles at 1,700! 
