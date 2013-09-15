@@ -55,24 +55,37 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  OS Max AX         | 46    | 10     | $110  | 80    |
  OS Max AX         | 55    | 10     | $130  | 16    |
  OS Max FP         | 25    | 8      | $40   | 29    |
- OS Max FP         | 40    | 6      | $40   | 84    |
  OS Max FP         | 40    | 7      | $45   | 10    |
  OS Max FP         | 40    | 6      | $40   | 12    |
  OS Max FP         | 40A   | 8      | $45   | 106   |
+ OS Max FP         | 40    | 8      | $45   | 66    |                 
  OS Max FP         | 60    | 8      | $70   | 88    |
  OS Max FX         | 40    | 8      | $60   | 56    |
  OS Max FX         | 40    | 8      | $60   | 33    |
  OS Max FX         | 46    | 6      | $60   | 96    |
  OS Max FX         | 46    | 6      | $60   | 45    |
- OS Max FX         | 61    | 8      | $110  | 116   |
+ OS Max FX         | 46    | 6      | $55   | 211   |
+ OS Max FX         | 46    | 7      | $65   | 228   |
+ OS Max FX         | 46    | 7      | $65   | 175   |
+ OS Max FX         | 46    | 9      | $80   | 157   |
+ OS Max FX         | 46    | 10     | $90   | 80    |                             
+ OS Max FX         | 61    | 6      | $80   | 139   |
+ OS Max FX         | 61    | 7      | $90   | 140   |                              
  OS Max FX         | 61    | 7      | $90   | 206   | New bearings
- OS Max H          | 50    | 6      | $65   | 215   |
- OS Max LA         | 40    | 6      | $50   | 91    |
+ OS Max FX         | 91    | 7      | $145  | 123   |                                    
+ OS Max H          | 50    | 6      | $55   | 215   |
+ OS Max H Gold Head| 60    | 7      | $65   | 169   | THE engine of the 70s                         
+ OS Max LA         | 40    | 8      | $50   | 91    |
+ OS Max LA         | 40    | 7      | $45   | 189   |
+ OS Max LA         | 40    | 8      | $50   | 188   |
+ OS Max SF         | 40    | 8      | $60   | 135   |
+ OS Max SF         | 46    | 7      | $70   | 132   |                                   
  OS Max SF         | 46    | 5      | $45   | 32    |
  OS Max SF         | 61    | 8      | $115  | 104   |
  OS Max SF         | 61    | 8      | $110  | 55    |
+ OS Max SF         | 61    | 6      | $80   | 200   |                             
  OS Max SF         | 61    | 5      | $65   | 75    | Broken fin. Great runner
- OS Max SR         | 60    | 9      | $120  | 155   | Perry carb
+ OS Max SR         | 40    | 8      | $60   | 186   |
  RJL (Kraft)       | 61    | 10     | $130  | 117   |
  SK                | 46    | 9      | $60   | 18    |
  SK                | 50    | 6      | $65   | 177   |
@@ -80,13 +93,17 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  SK                | 80    | 8      | $80   | 220   |
  Super Tiger       | 34G   | 6      | $40   | 34    |
  Super Tiger       | 40    | 8      | $50   | 121   | Made in Italy
+ Super Tiger       | 45    | 7      | $55   | 132   | Made in Italy
+ Super Tiger       | 45    | 10     | $70   | 73    | Made in Italy                                   
  Super Tiger       | 51    | 7      | $65   | 25    |
  Super Tiger       | 61    | 8      | $70   | 127   |
  Super Tiger       | 61    | 7      | $65   | 194   | Made in Italy
  Super Tiger       | 61    | 9      | $75   | 7     |
  Super Tiger       | 61    | 9      | $75   | 101   |
+ Super Tiger       | 61    | 7      | $70   | 227   | Made in Italy 
+ Super Tiger       | 61    | 7      | $70   | 155   | Made in Italy                           
  Super Tiger       | 61    | 7      | $70   | 95    | Made in Italy
- Super Tiger       | 61    | 2      | $25   | 23    | Parts--Will not run
+ Super Tiger       | 75    | 5      | $70   | 128   |
  Super Tiger       | 90    | 8      | $100  | 94    |
  Thunder Tiger GP  | 40    | 10     | $50   | 40    | Used muffler
  Thunder Tiger GP  | 40    | 10     | $60   | 74    |
@@ -95,15 +112,21 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  Thunder Tiger GP  | 61    | 9      | $80   | 109   |
  Thunder Tiger GP  | 61    | 7      | $70   | 114   |
  Thunder Tiger GP  | 65    | 8      | $80   | 192   |
- Thunder Tiger Pro | 46    | 7      | $60   | 37    | Runs as well as OS FX 
+ Thunder Tiger Pro | 25    | 8      | $45   | 165   |                            
+ Thunder Tiger Pro | 46    | 7      | $60   | 37    | Runs as well as OS FX
+ Thunder Tiger Pro | 46    | 8      | $70   | 191   |                       
  Thunder Tiger Pro | 46    | 8      | $70   | 151   |
  Thunder Tiger Pro | 46    | 8      | $70   | 44    |
  Thunder Tiger Pro | 46    | 9      | $90   | 38    | New with rebuilt carb.
+ Thunder Tiger Pro | 46    | 6      | $55   | 134   |                             
  Thunder Tiger Pro | 61    | 6      | $70   | 216   | Cosmetic scars
+ Thunder Tiger Pro | 61    | 8      | $90   | 142   |                       
  Thunder Tiger Pro | 61    | 8      | $90   | 193   |
  Thunder Tiger Pro | 61    | 8      | $90   | 115   |
- Tiger Shark       | 40    | 7      | $40   | 41    |
+ Thunder Tiger Pro | 61    | 8      | $95   | 122   |                            
+ Tiger Shark       | 40    | 7      | $40   | 41    |                   
  Tiger Shark       | 46    | 10     | $65   | 58    |
+ Tiger Shark       | 75    | 5      | $60   | 145                          
  Tower             | 75    | 6      | $70   | 111   |
  Webra             | 40    | 6      | $50   | 204   |
 {: .table .table-bordered .table-condensed .table-hover}
