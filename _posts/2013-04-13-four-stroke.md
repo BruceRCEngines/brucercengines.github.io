@@ -3,13 +3,13 @@ published: true
 title: Four Stroke
 permalink: /four_stroke.html
 layout: engine_listings
-featured_engine_photo_url: https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/4-stroke.jpg
+featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/4-stroke.jpg"
 featured_engine_name: OS Surpass 70
 ---
 
- BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
+BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 -------------------|-------|--------|-------|-------|---------------------
- ASP               | 80    | 10     | $160  | 230   |
+ ASP               | 50    | 10     | $160  | 230   |
  Magnum XL         | 52    | 4      | $65   | 182   |
  Magnum XL         | 70    | 6      | $110  | 11    |
  Magnum XL         | 91    | 7      | $135  | 17    |
