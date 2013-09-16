@@ -52,7 +52,7 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  MFA               | 61    | 9      | $75   | 59    | OS SF clone. Great engine
  Megatech          | 46    | 10     | $60   | 24    |
  Megatech          | 46    | 10     | $60   | 63    |
- OS Max AX         | 46    | 10     | $110  | 80    |
+ OS Max AX         | 46    | 8      | $90   | 80    |
  OS Max AX         | 55    | 10     | $130  | 16    |
  OS Max FP         | 25    | 8      | $40   | 29    |
  OS Max FP         | 40    | 7      | $45   | 10    |
