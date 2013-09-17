@@ -98,18 +98,4 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  YS FZ             | 140   | 7      | $260  | 214   |
  YS FZ             | 140   | 8      | $290  | 112   | 
  YS FZ             | 140   | 7      | $280  | 118   |   
- 
- 
- 
- 
- 
- 
- 
- 
- YS FS             | 120   | 6      | $200  | 76    |
- YS FS             | 120   | 4      | $160  | 93    |
- YS FZ             | 110   | 8      | $190  | 132   |
- YS FZ             | 140   | 8      | $270  | 112   |
- YS FZ             | 140   | 7      | $250  | 214   |
- YS NC             | 120   | 10     | $280  | 5     |
 {: .table .table-bordered .table-condensed .table-hover}
