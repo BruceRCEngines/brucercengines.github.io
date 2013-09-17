@@ -25,6 +25,8 @@ function activateNavbarButton() {
         id = '#2-stroke';
     } else if (page == 'four_stroke.html') {
         id = '#4-stroke';
+    } else if (page == 'gasoline.html') {
+        id = '#gasoline';
     } else if (page == 'rating_info.html') {
         id = '#rating';
     } else if (page == 'order_info.html') {
