@@ -47,10 +47,9 @@ function insertPicturesInTable(table) {
 
     table.find('tbody tr').each(function(i) {
         var sku = $(this).find(':nth-child(' + (iSku + 1) + ')').text();
-        var baseUrl = 'https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/resized/';      // Bruce
-        //var baseUrl = 'https://dl.dropboxusercontent.com/u/13441553/img/';    // Ethan
+        var baseUrl = 'https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/resized/';
         var $td = $('<td></td>');
-        $td.append($('<a id="imgbtn_' + sku + '" href="#modal_' + sku + '" class="btn btn-primary btn-small" data-toggle="modal"><i class="icon-camera icon-white visible-phone"></i><span class="hidden-phone">View Photos</span></a>').hide());
+        $td.append($('<a id="imgbtn_' + sku + '" href="#modal_' + sku + '" class="btn disabled btn-small" data-toggle="modal"><i class="icon-camera icon-white visible-phone"></i><span class="hidden-phone">None Available</span></a>'));
         $(this).append($td);
         createModalCarousel(sku, baseUrl);
     });
@@ -65,7 +64,6 @@ function createModalCarousel(id, photoUrlPrefix) {
     var carouselActiveItem = $('<div class="active item"></div>');
     var img = new Image();
 
-    $('#hiddenContent').append(modal);
     modal.append($('<button type="button" class="close" data-dismiss="modal">&times;</button>'));
     modal.append(modalBody);
     modalBody.append(carousel);
@@ -78,7 +76,8 @@ function createModalCarousel(id, photoUrlPrefix) {
     //TODO clean up all these callbacks
     img.onload = function () {
         // show the photo button if the photo exists
-        $('#imgbtn_' + id).show();
+        $('#hiddenContent').append(modal);
+        $('#imgbtn_' + id).html('<i class="icon-camera icon-white visible-phone"></i><span class="hidden-phone">View Photos</span>').removeClass('disabled').addClass('btn-primary').show();
 
         var img2 = new Image();
         img2.onload = function () {
