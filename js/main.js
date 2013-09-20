@@ -49,7 +49,7 @@ function insertPicturesInTable(table) {
         var sku = $(this).find(':nth-child(' + (iSku + 1) + ')').text();
         var baseUrl = 'https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/resized/';
         var $td = $('<td></td>');
-        $td.append($('<a id="imgbtn_' + sku + '" href="#modal_' + sku + '" class="btn disabled btn-small" data-toggle="modal"><i class="icon-camera icon-white visible-phone"></i><span class="hidden-phone">None Available</span></a>'));
+        $td.append($('<a id="imgbtn_' + sku + '" href="#modal_' + sku + '" class="btn disabled btn-small" data-toggle="modal"><i class="icon-camera icon-white visible-phone"></i><span class="hidden-phone">Photos Unavailable</span></a>'));
         $(this).append($td);
         createModalCarousel(sku, baseUrl);
     });
