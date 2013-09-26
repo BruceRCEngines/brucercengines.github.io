@@ -83,7 +83,6 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  Thunder Tiger     | 91    | 10     | $200  | 71    |
  Thunder Tiger     | 91    | 10     | $190  | 171   |
  YS                | 53    | 8      | $175  | 116   | Wow, what power!                                        
- YS                | 91    | 6      | $155  | 54    |
  YS FZ             | 110   | 8      | $190  | 132   |                                  
  YS AC             | 120   | 8      | $225  | 126   | Idles at 1,400!
  YS FS             | 120   | 8      | $225  | 103   |
