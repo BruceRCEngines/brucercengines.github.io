@@ -54,12 +54,12 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  Megatech          | 46    | 10     | $60   | 63    |
  OS Max AX         | 46    | 8      | $90   | 80    |
  OS Max AX         | 55    | 10     | $130  | 16    |
- OS Max FP         | 25    | 8      | $40   | 29    |
  OS Max FP         | 40    | 7      | $45   | 10    |
  OS Max FP         | 40    | 6      | $40   | 12    |
  OS Max FP         | 40A   | 8      | $45   | 106   |
  OS Max FP         | 40    | 8      | $45   | 66    |                 
  OS Max FP         | 60    | 8      | $70   | 88    |
+ OS Max FP         | 60    | 10     | $80   | 234   |                                  
  OS Max FX         | 40    | 8      | $60   | 56    |
  OS Max FX         | 40    | 8      | $60   | 33    |
  OS Max FX         | 46    | 6      | $60   | 96    |
@@ -71,7 +71,6 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  OS Max FX         | 46    | 10     | $90   | 80    |                             
  OS Max FX         | 61    | 6      | $80   | 139   |
  OS Max FX         | 61    | 7      | $90   | 140   |                              
- OS Max FX         | 61    | 7      | $90   | 206   | New bearings
  OS Max FX         | 91    | 7      | $145  | 123   |                                    
  OS Max H          | 50    | 6      | $55   | 215   |
  OS Max H Gold Head| 60    | 7      | $65   | 169   | THE engine of the 70s                         
