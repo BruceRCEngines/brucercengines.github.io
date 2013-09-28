@@ -63,7 +63,6 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  Saito             | 65    | 7      | $140  | 161   |                                      
  Saito             | 65    | 5      | $120  | 82    | Gold Knight
  Saito             | 72    | 7      | $170  | 80    |
- Saito             | 80    | 9      | $200  | 222   | Bence run once
  Saito             | 80    | 9      | $200  | 119   |                                    
  Saito             | 91    | 7      | $170  | 213   | New bearings
  Saito             | 91    | 8      | $200  | 81    |
