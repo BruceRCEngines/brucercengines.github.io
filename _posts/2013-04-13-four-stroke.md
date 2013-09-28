@@ -21,9 +21,11 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  OS Surpass        | 26    | 10     | $125  | 196   |                               
  OS                | 40    | 9      | $110  | 125   |
  OS Surpass        | 40    | 10     | $135  | 60    |
+ OS Surpass        | 40    | 10     | $135  | 62    |                              
  OS Surpass        | 48    | 5      | $85   | 130   | A Little charmer!
  OS Surpass        | 48    | 6      | $95   | 80    |                                  
  OS Surpass        | 48    | 10     | $150  | 64    |
+ OS Surpass II     | 52    | 10     | $150  | 199   |                          
  OS Surpass II     | 52    | 8      | $145  | 163   | 
  OS Surpass        | 52    | 10     | $165  | 199   |                              
  OS Surpass        | 70    | 10     | $200  | 190   |
@@ -33,9 +35,10 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  OS Surpass        | 70    | 8      | $160  | 202   |
  OS Surpass        | 70    | 8      | $160  | 209   |
  OS Surpass        | 70    | 8      | $160  | 90    |
- OS Surpass II     | 70    | 8      | $165  | 78    |                          
+ OS Surpass II     | 70    | 8      | $165  | 78    |
+ OS Surpass II     | 91    | 10     | $250  | 124   |                           
  OS Surpass        | 91    | 5      | $150  | 218   | New muffler
- OSSurpass         | 91    | 8      | $200  | 87    |                    
+ OS Surpass        | 91    | 8      | $200  | 87    |                    
  OS Surpass        | 91    | 9      | $220  | 203   |
  OS Surpass        | 91    | 6      | $160  | 233   |
  OS Surpass        | 91    | 9      | $215  | 190   |
