@@ -24,8 +24,7 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  OS Surpass        | 40    | 10     | $135  | 62    |                              
  OS Surpass        | 48    | 5      | $85   | 130   | A Little charmer!
  OS Surpass        | 48    | 6      | $95   | 80    |                                  
- OS Surpass        | 48    | 10     | $150  | 64    |
- OS Surpass II     | 52    | 10     | $150  | 199   |                          
+ OS Surpass        | 48    | 10     | $150  | 64    |                          
  OS Surpass II     | 52    | 8      | $145  | 163   | 
  OS Surpass        | 52    | 10     | $165  | 199   |                              
  OS Surpass        | 70    | 10     | $200  | 190   |
@@ -63,6 +62,7 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  Saito             | 65    | 7      | $140  | 161   |                                      
  Saito             | 65    | 5      | $120  | 82    | Gold Knight
  Saito             | 72    | 7      | $170  | 80    |
+ Saito             | 80    | 9      | $200  | 222   | Bench run once                                   
  Saito             | 80    | 9      | $200  | 119   |                                    
  Saito             | 91    | 7      | $170  | 213   | New bearings
  Saito             | 91    | 8      | $200  | 81    |
