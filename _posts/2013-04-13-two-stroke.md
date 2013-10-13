@@ -7,7 +7,12 @@ featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website
 featured_engine_name: Evolution 46
 ---
 
- BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
+
+     Used RC engines often outlive a flyers need. I come across many that make wonderful power units when they are
+     cleaned, repaired, and adjusted.  They are much less expensive that new engines. Below are listed those that have
+     many hours of useful life.
+
+BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 -------------------|-------|--------|-------|-------|---------------------
  ASP               | 40    | 5      | $40   | 42    | Perry carb
  ASP               | 40    | 8      | $55   | 99    | Red Head
