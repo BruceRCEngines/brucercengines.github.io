@@ -21,10 +21,10 @@ featured_engine_name: OS Surpass 70
  OS Surpass        | 26    | 10     | $125  | 196   |                               
  OS                | 40    | 9      | $110  | 125   |
  OS Surpass        | 40    | 10     | $135  | 60    |
- OS Surpass        | 40    | 10     | $135  | 62    |
+ OS Surpass        | 40    | 10     | $135  | 62    |                              
  OS Surpass        | 48    | 5      | $85   | 130   | A Little charmer!
  OS Surpass        | 48    | 6      | $95   | 80    |                                  
- OS Surpass        | 48    | 10     | $150  | 64    |
+ OS Surpass        | 48    | 10     | $150  | 64    |                          
  OS Surpass II     | 52    | 8      | $145  | 163   | 
  OS Surpass        | 52    | 10     | $165  | 199   |                              
  OS Surpass        | 70    | 10     | $200  | 190   |
@@ -34,9 +34,10 @@ featured_engine_name: OS Surpass 70
  OS Surpass        | 70    | 8      | $160  | 202   |
  OS Surpass        | 70    | 8      | $160  | 209   |
  OS Surpass        | 70    | 8      | $160  | 90    |
- OS Surpass II     | 70    | 8      | $165  | 78    |                          
+ OS Surpass II     | 70    | 8      | $165  | 78    |
+ OS Surpass II     | 91    | 10     | $250  | 124   |                           
  OS Surpass        | 91    | 5      | $150  | 218   | New muffler
- OSSurpass         | 91    | 8      | $200  | 87    |                    
+ OS Surpass        | 91    | 8      | $200  | 87    |                    
  OS Surpass        | 91    | 9      | $220  | 203   |
  OS Surpass        | 91    | 6      | $160  | 233   |
  OS Surpass        | 91    | 9      | $215  | 190   |
@@ -61,8 +62,8 @@ featured_engine_name: OS Surpass 70
  Saito             | 65    | 7      | $140  | 161   |                                      
  Saito             | 65    | 5      | $120  | 82    | Gold Knight
  Saito             | 72    | 7      | $170  | 80    |
- Saito             | 80    | 9      | $200  | 222   | Bence run once
- Saito             | 80    | 9      | $200  | 119   |                                    
+ Saito             | 80    | 9      | $200  | 222   | Bench run once
+ Saito             | 80    | 9      | $200  | 119   |
  Saito             | 91    | 7      | $170  | 213   | New bearings
  Saito             | 91    | 8      | $200  | 81    |
  Saito             | 91    | 9      | $230  | 152   | Beautiful 
@@ -83,8 +84,7 @@ featured_engine_name: OS Surpass 70
  Thunder Tiger     | 91    | 10     | $200  | 71    |
  Thunder Tiger     | 91    | 10     | $190  | 171   |
  YS                | 53    | 8      | $175  | 116   | Wow, what power!                                        
- YS                | 91    | 6      | $155  | 54    |
- YS FZ             | 110   | 8      | $190  | 132   |                                  
+ YS FZ             | 110   | 8      | $190  | 235   |                                  
  YS AC             | 120   | 8      | $225  | 126   | Idles at 1,400!
  YS FS             | 120   | 8      | $225  | 103   |
  YS FS             | 120   | 7      | $210  | 1     |                                       
