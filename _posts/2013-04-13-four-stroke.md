@@ -7,7 +7,7 @@ featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website
 featured_engine_name: OS Surpass 70
 ---
 
-BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
+ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 -------------------|-------|--------|-------|-------|---------------------
  ASP               | 80    | 10     | $160  | 230   |
  Enya              | 46    | 8      | $100  | 184   |                                       
@@ -98,4 +98,4 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  YS FZ             | 140   | 7      | $260  | 214   |
  YS FZ             | 140   | 8      | $290  | 112   | 
  YS FZ             | 140   | 7      | $280  | 118   |   
-{: .table .table-bordered .table-condensed .table-hover}
+{: .table .table-bordered .table-condensed .table-hover .footable}

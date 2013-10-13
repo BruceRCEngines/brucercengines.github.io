@@ -7,7 +7,7 @@ featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website
 featured_engine_name: Evolution 46
 ---
 
-BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
+ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 -------------------|-------|--------|-------|-------|---------------------
  ASP               | 40    | 5      | $40   | 42    | Perry carb
  ASP               | 40    | 8      | $55   | 99    | Red Head
@@ -129,4 +129,4 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  Tiger Shark       | 75    | 5      | $60   | 145                          
  Tower             | 75    | 6      | $70   | 111   |
  Webra             | 40    | 6      | $50   | 204   |
-{: .table .table-bordered .table-condensed .table-hover}
+{: .table .table-bordered .table-condensed .table-hover .footable}
