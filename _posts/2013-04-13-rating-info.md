@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-New engines have been inspected to be sure that all parts are present.  Dirty engines have been cleaned.  All used engines have been test run and adjusted to achieve appropriate high end and idle speeds and smooth transition.  All engines have been given a rating according to the following chart.
+> New engines have been inspected to be sure that all parts are present.  Dirty engines have been cleaned.  All used engines have been test run and adjusted to achieve appropriate high end and idle speeds and smooth transition.  All engines have been given a rating according to the following chart.
 
  Rating    | Description
 -----------|--------------
