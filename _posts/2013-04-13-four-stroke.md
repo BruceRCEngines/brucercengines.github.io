@@ -7,7 +7,12 @@ featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website
 featured_engine_name: OS Surpass 70
 ---
 
- BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
+
+    Four stroke engines tickle the fancy of many of us because they are simply "neat." Their sound stirs the
+    imagination and they carry the airplane around the sky in a more realistice fashon.  But they are expensive.  A lot       of money can be saved by buying used RC engines, if you can find a dependable used engine. I try to make all of my 
+    used engines relaible by repair, testing, and rating of them so you will know what you are getting before you buy.
+
+BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 -------------------|-------|--------|-------|-------|---------------------
  ASP               | 80    | 10     | $160  | 230   |
  Enya              | 46    | 8      | $100  | 184   |                                       
