@@ -4,7 +4,7 @@ title: Two Stroke
 permalink: /two_stroke.html
 layout: engine_listings
 featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/2-stroke.jpg"
-featured_engine_name: 
+featured_engine_name: "OS 61 SF"
 ---
 
 > Used RC engines often outlive a flyer's need. I come across many that make wonderful power units when they are cleaned, repaired, and adjusted.  They are much less expensive than new engines. Below are listed those that still have many hours of useful life.
