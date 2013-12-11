@@ -44,7 +44,6 @@ OS Surpass        | 91    | 8      | $185  | 148   |
 OS Surpass II     | 91    | 8/6    | $150  | 154   |Rapired by Clarence Lee
 OS Surpass II     | 91    | 8      | $200  | 243   |
 OS Surpass II     | 91    | 8      | $200  | 86    |
-OS Surpass II     | 91    | 10     | $240  | 124   |
 OS Surpass        | 120   | 6      | $180  | 197   |
 OS Surpass        | 120   | 7      | $190  | 9     |                           
 OS Surpass        | 120   | 7      | $230  | 187   | Pumped version
@@ -78,6 +77,7 @@ Thunder Tiger     | 91    | 10     | $190  | 171   |
 YS                | 53    | 8      | $165  | 116   | Wow, what power!                                        
 YS FZ             | 110   | 8      | $185  | 235   |                                  
 YS AC             | 120   | 8      | $205  | 126   | Idles at 1,400!
+YS FS             | 120   | 8      | $205  | 103                                   
 YS FS             | 120   | 7      | $195  | 1     |                                       
 YS FS             | 120   | 9      | $225  | 201   |
 YS FS             | 120   | 7      | $195  | 136   |
