@@ -4,7 +4,7 @@ title: Two Stroke
 permalink: /two_stroke.html
 layout: engine_listings
 featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/2-stroke.jpg"
-featured_engine_name: "OS 61 SF"
+featured_engine_name: OS 61 SF
 ---
 
 > Used RC engines often outlive a flyer's need. I come across many that make wonderful power units when they are cleaned, repaired, and adjusted.  They are much less expensive than new engines. Below are listed those that still have many hours of useful life.
@@ -12,7 +12,6 @@ featured_engine_name: "OS 61 SF"
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
 ASP               | 40    | 5      | $40   | 42    | Perry carb
-ASP               | 40    | 8      | $55   | 99    | Red Head
 ASP               | 46    | 10     | $65   | 14    |
 ASP               | 46    | 8      | $60   | 102   | Idles at 1,700! 
 ASP               | 52    | 8      | $65   | 108   |
@@ -20,8 +19,7 @@ ASP               | 61    | 8      | $70   | 27    | Six flights on it.
 ASP               | 75    | 8      | $80   | 79    |
 ASP               | 91    | 7      | $95   | 167   |
 CS (Carlson)      | 46    | 10     | $65   | 4     | Carlson Engine
-Enya III          | 60    | 7      | $65   | 138   | Double ring
-Evolution         | 45    | 6      | $60   | 129   |                             
+Enya III          | 60    | 7      | $65   | 138   | Double ring                             
 Evolution         | 45    | 7      | $60   | 19    |
 Evolution         | 46    | 7      | $60   | 156   | 
 Evolution         | 46    | 8      | $65   | 97    |
@@ -34,21 +32,16 @@ HB                | 61    | 7      | $65   | 141   |
 HB Gold Cup       | 61    | 7      | $75   | 223   |
 Irvine            | 40    | 10     | $75   | 52    |
 Irvine            | 61    | 6      | $60   | 48    |
-K & B             | 61    | 5      | $50   | 92    | Perry carb. 72 vintage
-Magnum GP SE      | 65    | 8      | $70   | 240   |                   
+K & B             | 61    | 5      | $50   | 92    | Perry carb. 72 vintage                   
 Magnum Pro        | 45    | 8      | $55   | 73    | Runs like an OS 46 FX
 Magnum Pro        | 45    | 7      | $55   | 6     |
-Magnum Pro        | 45    | 5      | $50   | 35    |
 Magnum Pro        | 45    | 4      | $40   | 100   |      
-Magnum XL         | 40    | 8      | $50   | 39    | Idles at 1,700!!!
 Magnum XL         | 40    | 10     | $55   | 22    |
 Magnum XL         | 46A   | 10     | $65   | 50    |
 Magnum XL         | 46A   | 10     | $65   | 21    |
 Magnum XLS        | 46    | 10     | $65   | 49    |
-Magnum XLS        | 46    | 8      | $60   | 110   |
 MFA               | 61    | 9      | $75   | 59    | OS SF clone. Great engine
 Megatech          | 46    | 10     | $60   | 24    |
-Megatech          | 46    | 10     | $60   | 63    |
 OS Max AX         | 46    | 8      | $90   | 98    |
 OS Max AX         | 55    | 10     | $130  | 16    |
 OS Max FP         | 40    | 8      | $45   | 66    |                 
@@ -58,8 +51,6 @@ OS Max FX         | 40    | 8      | $60   | 56    |
 OS Max FX         | 40    | 8      | $60   | 33    |
 OS Max FX         | 46    | 6      | $60   | 96    |
 OS Max FX         | 46    | 6      | $60   | 45    |
-OS Max FX         | 46    | 6      | $55   | 211   |
-OS Max FX         | 46    | 7      | $65   | 228   |
 OS Max FX         | 46    | 7      | $65   | 175   |
 OS Max FX         | 46    | 9      | $80   | 157   |                             
 OS Max FX         | 61    | 6      | $80   | 139   |
@@ -68,26 +59,23 @@ OS Max FX         | 91    | 7      | $145  | 123   |
 OS Max H          | 50    | 6      | $55   | 215   |
 OS Max H Gold Head| 60    | 7      | $65   | 169   | THE engine of the 70s                         
 OS Max LA         | 40    | 8      | $50   | 91    |
-OS Max LA         | 40    | 7      | $45   | 189   |
 OS Max LA         | 40    | 8      | $50   | 188   |
 OS Max SF         | 40    | 8      | $60   | 135   |
 OS Max SF         | 46    | 7      | $70   | 132   |                                   
 OS Max SF         | 46    | 5      | $45   | 32    |
 OS Max SF         | 61    | 8      | $115  | 104   |
 OS Max SF         | 61    | 6      | $80   | 200   |                             
-OS Max SF         | 61    | 5      | $60   | 75    | Broken fin. Great runner
+OS Max SF         | 61    | 8      | $100  | 241   | Insignificent speck chip on the muffler mount
 OS Max SR         | 40    | 8      | $60   | 186   |
 RJL (Kraft)       | 61    | 10     | $130  | 117   |
 SK                | 50    | 6      | $65   | 177   |
 SK                | 60    | 8      | $70   | 221   |
 SK                | 80    | 8      | $80   | 220   |
 Super Tiger       | 34G   | 6      | $40   | 34    |
-Super Tiger       | 40    | 8      | $50   | 121   | Made in Italy
 Super Tiger       | 45    | 7      | $55   | 132   | Made in Italy
 Super Tiger       | 45    | 10     | $70   | 73    | Made in Italy                                   
 Super Tiger       | 51    | 7      | $65   | 25    |
 Super Tiger       | 61    | 8      | $70   | 127   |
-Super Tiger       | 61    | 7      | $65   | 194   | Made in Italy
 Super Tiger       | 61    | 9      | $75   | 7     |
 Super Tiger       | 61    | 9      | $75   | 101   |
 Super Tiger       | 61    | 7      | $70   | 227   | Made in Italy 
