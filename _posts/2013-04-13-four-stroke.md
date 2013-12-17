@@ -27,7 +27,7 @@ OS Surpass        | 48    | 5      | $85   | 130   | A Little charmer!
 OS Surpass        | 48    | 6      | $95   | 80    |                                                            
 OS Surpass II     | 52    | 8      | $135  | 163   |
 OS Surpass        | 52    | 8      | $130  | 238   |                                  
-OS Surpass        | 70    | 10     | $200  | 190   |
+OS Surpass        | 70    | 10     | $200  | 189   |
 OS Surpass        | 70    | 8      | $160  | 113   |
 OS Surpass        | 70    | 7      | $150  | 143   |   
 OS Surpass        | 70    | 8      | $160  | 202   |
