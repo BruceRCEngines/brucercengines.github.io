@@ -12,7 +12,6 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  ASP               | 80    | 10     | $160  | 230   |
  Enya              | 46    | 8      | $100  | 184   |                                       
  Magnum XL         | 52    | 4      | $65   | 182   |
- Magnum XL         | 70    | 6      | $100  | 11    |
  Magnum XL         | 91    | 7      | $110  | 17    |
  Magnum XL         | 91    | 7      | $110  | 147   |
  Magnum XL         | 91    | 10     | $150  | 226   |
@@ -24,8 +23,10 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  OS Surpass        | 48    | 5      | $85   | 130   | A Little charmer!
  OS Surpass        | 48    | 6      | $95   | 80    |
  OS Surpass II     | 52    | 8      | $135  | 163   |                            
- OS Surpass        | 52    | 8      | $130  | 238   |                               
- OS Surpass        | 70    | 10     | $200  | 190   |
+ OS Surpass        | 52    | 8      | $130  | 238   |
+ OS Surpass        | 52    | 10     | $150  | 247   |                   
+ OS Surpass        | 70    | 10     | $200  | 189   |
+ OS Surpass        | 70    | 10     | $200  | 2     |                                   
  OS Surpass        | 70    | 8      | $160  | 113   |
  OS Surpass        | 70    | 7      | $150  | 143   |   
  OS Surpass        | 70    | 8      | $160  | 202   |
@@ -41,7 +42,7 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  OS Surpass        | 91    | 8      | $185  | 148   |
  OS Surpass II     | 91    | 8/6    | $150  | 154   |Rapired by Clarence Lee
  OS Surpass II     | 91    | 8      | $200  | 243   |
- OS Surpass II     | 91    | 8      | $210  | 86    |
+ OS Surpass II     | 91    | 8      | $200  | 86    |
  OS Surpass II     | 91    | 10     | $240  | 124   |
  OS Surpass        | 120   | 6      | $180  | 197   |
  OS Surpass        | 120   | 7      | $190  | 9     |                           
@@ -50,8 +51,7 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  OS Surpass        | 120   | 8      | $250  | 179   | Pumped Version                        
  Saito             | 45    | 7      | $100  | 164   |                           
  Saito             | 45    | 6      | $90   | 173   |
- Saito             | 45    | 7      | $100  | 180   |
- Saito             | 56    | 8      | $130  | 242   |                               
+ Saito             | 50    | 10     | $150  | 247   | Gold Knight                                                                    
  Saito             | 65    | 8      | $150  | 208   |
  Saito             | 65    | 7      | $140  | 161   |                                      
  Saito             | 65    | 5      | $120  | 82    | Gold Knight
@@ -61,34 +61,26 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
  Saito             | 91    | 7      | $170  | 213   | New bearings
  Saito             | 91    | 7      | $170  | 236   |
  Saito             | 91    | 9      | $210  | 152   | Beautiful 
- Saito             | 100   | 8      | $210  | 160   |
  Saito             | 100   | 8      | $210  | 183   |
- Saito             | 120   | 6      | $180  | 2     |
  Saito             | 120   | 8      | $210  | 85    |
  Saito             | 120   | 9      | $220  | 67    |                                
  Saito             | 120   | 6      | $180  | 8     |
- Saito             | 120   | 8      | $225  | 107   | Includes alum. mt.
- Saito             | 120   | 10     | $275  | 149   | Includes alum. mt.
- Saito             | 120   | 8      | $220  | 174   |                                                    
+ Saito             | 120   | 8      | $225  | 107   | Includes alum. mt.                                                    
  Thunder Tiger     | 75    | 7      | $150  | 100   |
  Thunder Tiger     | 91    | 8      | $170  | 225   |                        
  Thunder Tiger     | 91    | 10     | $200  | 71    |
- Thunder Tiger     | 91    | 10     | $190  | 171   |
- YS                | 53    | 8      | $165  | 116   | Wow, what power!                                        
+ Thunder Tiger     | 91    | 10     | $190  | 171   |                                        
  YS FZ             | 110   | 8      | $185  | 235   |                                  
  YS AC             | 120   | 8      | $205  | 126   | Idles at 1,400!
  YS FS             | 120   | 8      | $205  | 103   |
  YS FS             | 120   | 7      | $195  | 1     |                                       
- YS FS             | 120   | 9      | $225  | 201   |
  YS FS             | 120   | 7      | $195  | 136   |
  YS FS             | 120   | 7      | $195  | 245   |
- Ys FS             | 120   | 8      | $205  | 246   |                                   
- YS FS             | 120   | 6      | $185  | 76    | 
+ Ys FS             | 120   | 8      | $205  | 246   |                                    
  YS FS             | 120   | 6      | $185  | 93    |                                  
- YS FS             | 120   | 6      | $185  | 150   |
+ YS FS             | 120   | 7      | $195  | 150   |
  YS FS             | 120   | 6      | $185  | 212   |
  YS FS             | 120   | 5      | $175  | 26    |
  YS FZ             | 140   | 7      | $250  | 214   |
- YS FZ             | 140   | 8      | $270  | 112   | 
- YS FZ             | 140   | 7      | $260  | 118   |   
+   
 {: .table .table-bordered .table-condensed .table-hover .footable}
