@@ -1,0 +1,76 @@
+---
+title: Contact
+permalink: /contact.html
+layout: default
+published: true
+---
+
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	form {background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+
+<div class="tabbable"> <!-- Only required for left/right tabs -->
+  <ul class="nav nav-tabs">
+    <li class="active"><a href="#tab1" data-toggle="tab">Send a Message</a></li>
+    <li><a href="#tab2" data-toggle="tab">Join the Mailing List</a></li>
+  </ul>
+  <div class="tab-content">
+    <div class="tab-pane active" id="tab1">
+      <form method="POST" action="http://api.formspree.com/brucercengines@gmail.com">
+          <h2>Send me a message</h2>
+          
+          <div class="form-group">
+              <label for="inputName">Name</label>
+              <input name="name" type="text" class="form-control" id="inputName" placeholder="Enter your name">
+          </div>
+
+          <div class="form-group">
+              <label for="inputEmail">Email address</label>
+              <input name="_replyto" type="email" class="form-control" id="inputEmail" placeholder="Enter your email">
+          </div>
+
+          <div class="form-group">
+              <label for="textArea">Message</label>
+              <textarea name="message" class="form-control" id="textArea" rows="3"></textarea>    
+          </div>
+  
+          <button type="submit" class="btn btn-primary">Send</button>
+
+      </form>
+    </div>
+    <div class="tab-pane" id="tab2">
+      <!-- Begin MailChimp Signup Form -->
+      <div id="mc_embed_signup">
+        <form action="http://brucercengines.us3.list-manage.com/subscribe/post?u=3e06607911ad362c22bba1daa&amp;id=13d051941a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <h2>Subscribe to the mailing list</h2>
+          <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div> -->
+          <div class="mc-field-group">
+            <label for="mce-FNAME">First Name </label>
+            <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Enter your name">
+          </div>
+          <div class="mc-field-group">
+            <label for="mce-LNAME">Last Name </label>
+            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Enter your name">
+          </div>
+          <div class="mc-field-group">
+            <label for="mce-EMAIL">Email Address  <!-- <span class="asterisk">*</span> -->
+            </label>
+            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter your email">
+          </div>
+          <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+          </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;"><input type="text" name="b_3e06607911ad362c22bba1daa_13d051941a" value=""></div>
+          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary"></div>
+        </form>
+      </div>
+      <!--End mc_embed_signup-->
+    
+    </div>
+  </div>
+</div>
+

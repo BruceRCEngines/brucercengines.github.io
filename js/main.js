@@ -31,6 +31,8 @@ function activateNavbarButton() {
         id = '#rating';
     } else if (page == 'order_info.html') {
         id = '#ordering';
+    } else if (page == 'contact.html') {
+        id = '#contact';
     }
 
     $(id).addClass('active');

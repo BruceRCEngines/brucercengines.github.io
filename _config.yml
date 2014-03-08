@@ -1,2 +1,2 @@
-# Using kramdown because of inline attribute lists
+# Using kramdown because of inline attribute lists which are needed to properly generate the CSS for the tables
 markdown: kramdown
