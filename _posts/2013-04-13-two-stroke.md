@@ -68,11 +68,9 @@ Thunder Tiger Pro | 46    | 8      | $70   | 191   |
 Thunder Tiger Pro | 46    | 8      | $70   | 151   |
 Thunder Tiger Pro | 46    | 8      | $70   | 44    |
 Thunder Tiger Pro | 46    | 9      | $90   | 38    | New with rebuilt carb.
-Thunder Tiger Pro | 46    | 6      | $55   | 134   |
 Thunder Tiger Pro | 46    | 10     | $95   | 6     |
 Thunder Tiger Pro | 61    | 8      | $90   | 142   |
-Thunder Tiger Pro | 61    | 8      | $90   | 193   |
-Thunder Tiger Pro | 61    | 8      | $90   | 115   |
 Thunder Tiger Pro | 61    | 8      | $95   | 122   |
-Webra             | 40    | 6      | $50   | 204   |
+Webra             | 40    | 6      | $45   | 204   |
+Webra             | 40    | 10     | $70   | 75    |                                       
 {: .table .table-bordered .table-condensed .table-hover .footable}
