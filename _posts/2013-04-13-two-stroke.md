@@ -11,19 +11,12 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
-ASP               | 40    | 5      | $40   | 42    | Perry carb
-ASP               | 61    | 8      | $70   | 27    | Six flights on it.
+ASP               | 61    | 8      | $60   | 27    | Six flights on it.
 ASP               | 75    | 8      | $80   | 79    |
-ASP               | 91    | 7      | $95   | 167   |
-CS (Carlson)      | 46    | 10     | $65   | 4     | Magnum made
 Enya III          | 60    | 7      | $65   | 138   | Double ring
-Evolution         | 45    | 7      | $60   | 19    |
 Evolution         | 46    | 7      | $60   | 156   |
 Evolution         | 46    | 8      | $65   | 97    |
 Evolution         | 46    | 10     | $80   | 3     |
-Evolution         | 46    | 7      | $60   | 158   |
-Evolution         | 46    | 7      | $60   | 166   | Thunder Tiger carb
-HB (PDP)          | 40    | 6      | $55   | 83    | PDP
 HB                | 61    | 10     | $100  | 13    |
 HB                | 61    | 7      | $65   | 141   |
 HB Gold Cup       | 61    | 7      | $75   | 223   |
