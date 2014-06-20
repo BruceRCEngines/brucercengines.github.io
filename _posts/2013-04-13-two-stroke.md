@@ -13,34 +13,34 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
 ASP               | 61    | 8      | $60   | 27    | Six flights on it.
 ASP               | 75    | 8      | $80   | 79    |                       
-Evolution         | 46    | 7      | $60   | 156   |
+CS                | 46    | 10     | $60   | 4     |
+Enya IV           | 15    | 8      | $45   | 12    | May be a 9 rating.
+Enya III          | 60    | 7      | $65   | 138   | Double ring
+Evolution         | 45    | 6      | $50   | 24    | Alpha 
 Evolution         | 46    | 8      | $65   | 97    |
 Evolution         | 46    | 10     | $80   | 3     |
+Evolution         | 46    | 7      | $55   | 22    |
 HB                | 61    | 10     | $100  | 13    |
 HB                | 61    | 7      | $60   | 141   |
 HP Gold Cup       | 61    | 7      | $75   | 223   |
-Irvine            | 40    | 10     | $75   | 52    |
 Irvine            | 61    | 6      | $60   | 48    |
-K & B             | 61    | 5      | $50   | 92    | Perry carb. 72 vintage
-Magnum Pro SE     | 46    | 8      | $60   | 102   |
+Kraft             | 61    | 5      | $45   | 29    |  From the makers of Kraft Radios
+Magnum GP         | 25    | 7      | $30   | JP1   |
+Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum XL         | 46    | 10     | $65   | 50    |
-Magnum XL         | 46    | 10     | $65   | 21    |
-Magnum XLS        | 46    | 10     | $65   | 49    |
 MFA               | 61    | 9      | $75   | 59    | OS SF clone. Great engine
-Megatech          | 46    | 10     | $60   | 24    |
-OS Max FP         | 40    | 8      | $45   | 66    |
+OS Max F          | 45    | 6      | $45   | 26    |
 OS Max FP         | 40    | 8      | $45   | 10    |
-OS Max FP         | 60    | 8      | $70   | 88    |
+OS Max FP         | 40    | 7      | $40   | 9     |
 OS Max FX         | 40    | 8      | $60   | 56    |
 OS Max FX         | 40    | 8      | $60   | 33    |
 OS Max FX         | 61    | 6      | $80   | 139   |
 OS Max FX         | 61    | 7      | $90   | 140   |
-OS Max FX         | 91    | 7      | $145  | 123   |
-OS Max H Gold Head| 60    | 7      | $65   | 169   | THE engine of the 70s
-OS Max SF         | 46    | 7      | $70   | 132   |
-OS Max SF         | 46    | 5      | $45   | 32    |
+OS Max FX         | 91    | 7      | $125  | 123   |
+OS Max H Gold Head| 60    | 7      | $60   | 169   | THE engine of the 70s
+OS Max SF         | 4     | 7      | $50   | 32    |
+OS Max SF         | 46    | 7      | $60   | 133   |
 OS Max SF         | 61    | 8      | $115  | 104   |
-OS Max SF         | 61    | 6      | $80   | 200   |
 OS Max SR         | 40    | 8      | $60   | 186   |
 RJL (Kraft)       | 61    | 10     | $130  | 117   |
 SK                | 60    | 8      | $70   | 221   |
