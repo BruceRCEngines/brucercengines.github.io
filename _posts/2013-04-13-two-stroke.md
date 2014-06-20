@@ -45,29 +45,23 @@ OS Max SF         | 61    | 8      | $115  | 104   |
 OS Max SR         | 40    | 8      | $60   | 186   |
 SK                | 60    | 8      | $70   | 221   |
 SK                | 80    | 8      | $80   | 220   |
-Super Tiger       | 34G   | 6      | $40   | 34    |
-Super Tiger       | 45    | 7      | $55   | 132   | Made in Italy
-Super Tiger       | 45    | 10     | $60   | 73    | Made in Italy
+Super Tiger       | 34G   | 6      | $35   | 34    |
 Super Tiger       | 51    | 7      | $65   | 25    |
 Super Tiger       | 61    | 8      | $70   | 127   |
 Super Tiger       | 61    | 9      | $75   | 7     |
 Super Tiger       | 61    | 7      | $70   | 227   | Made in Italy
 Super Tiger       | 61    | 7      | $70   | 155   | Made in Italy
 Super Tiger       | 61    | 7      | $70   | 95    | Made in Italy
-Super Tiger       | 75    | 5      | $70   | 128   |
 Super Tiger       | 90    | 8      | $100  | 94    |
-Thunder Tiger GP  | 40    | 10     | $50   | 40    | Used muffler
-Thunder Tiger GP  | 40    | 10     | $60   | 74    |
-Thunder Tiger GP  | 42    | 10     | $60   | 51    |
+Thunder Tiger GP  | 42    | 10     | $50   | 51    |
 Thunder Tiger GP  | 65    | 8      | $80   | 192   |
-Thunder Tiger Pro | 46    | 7      | $60   | 37    | Runs as well as OS FX
-Thunder Tiger Pro | 46    | 8      | $70   | 191   |
 Thunder Tiger Pro | 46    | 8      | $70   | 151   |
 Thunder Tiger Pro | 46    | 8      | $70   | 44    |
 Thunder Tiger Pro | 46    | 9      | $90   | 38    | New with rebuilt carb.
 Thunder Tiger Pro | 46    | 10     | $95   | 6     |
-Thunder Tiger Pro | 61    | 8      | $90   | 142   |
+Thunder Tiger Pro | 61    | 8      | $90   | 142   | With a Perry Pump
 Thunder Tiger Pro | 61    | 8      | $95   | 122   |
+Thunder Tiger Pro | 61    | 8      | $90   | 115   |               
 Webra             | 40    | 6      | $45   | 204   |
 Webra             | 40    | 10     | $70   | 75    |                                       
 {: .table .table-bordered .table-condensed .table-hover .footable}
