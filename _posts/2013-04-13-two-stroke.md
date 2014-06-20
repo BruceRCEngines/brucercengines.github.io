@@ -25,6 +25,7 @@ HB                | 61    | 7      | $60   | 141   |
 HP Gold Cup       | 61    | 7      | $75   | 223   |
 Irvine            | 61    | 6      | $60   | 48    |
 Kraft             | 61    | 5      | $45   | 29    |  From the makers of Kraft Radios
+RJL (Kraft)       | 61    | 10     | $130  | 117   |  Modern built Kraft                      
 Magnum GP         | 25    | 7      | $30   | JP1   |
 Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum XL         | 46    | 10     | $65   | 50    |
@@ -42,7 +43,6 @@ OS Max SF         | 4     | 7      | $50   | 32    |
 OS Max SF         | 46    | 7      | $60   | 133   |
 OS Max SF         | 61    | 8      | $115  | 104   |
 OS Max SR         | 40    | 8      | $60   | 186   |
-RJL (Kraft)       | 61    | 10     | $130  | 117   |
 SK                | 60    | 8      | $70   | 221   |
 SK                | 80    | 8      | $80   | 220   |
 Super Tiger       | 34G   | 6      | $40   | 34    |
