@@ -15,9 +15,13 @@ Magnum XL         | 91    | 7      | $110  | 17    |
 Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
 Magnum XL         | 91    | 10     | $140  | 185   |
 Magnum XL         | 91    | 10     | $140  | 231   |
-OS Surpass        | 40    | 10     | $135  | 60    |
+OS Surpass        | 26    | 9      | $150  | 28    |
+OS Surpass II     | 30    | 7      | $115  | 30    | 
+OS Surpass        | 40    | 7      | $110  | 21    |                           
 OS Surpass        | 40    | 10     | $135  | 62    |
 OS Surpass        | 48    | 6      | $95   | 80    |
+OS Surpass        | 48    | 7      | $105  | 15    |
+OS Surpass        | 48    | 8      | $115  | 14    |  
 OS Surpass II     | 52    | 8      | $135  | 163   |
 OS Surpass II     | 52    | 8      | $135  | 105   |
 OS Surpass        | 52    | 10     | $150  | 10    |
@@ -26,9 +30,9 @@ OS Surpass        | 70    | 10     | $200  | 2     |
 OS Surpass        | 70    | 7      | $150  | 145   |
 OS Surpass        | 70    | 7      | $150  | 143   |
 OS Surpass        | 70    | 8      | $160  | 202   |
-OS Surpass        | 70    | 8      | $160  | 209   |
 OS Surpass        | 70    | 8      | $165  | 90    |
 OS Surpass II     | 70    | 8      | $175  | 78    |
+OS Surpass II     | 70    | 10     | $190  | 114   |
 OS Surpass        | 91    | 8      | $190  | 87    |
 OS Surpass        | 91    | 9      | $205  | 190   |
 OS Surpass        | 91    | 10     | $230  | 31    |
@@ -42,21 +46,22 @@ OS Surpass        | 120   | 6      | $180  | 197   |
 OS Surpass        | 120   | 7      | $230  | 181   | Pumped version
 OS Surpass        | 120   | 8      | $250  | 179   | Pumped Version
 Saito             | 45    | 7      | $100  | 164   |
-Saito             | 50    | 10     | $150  | 247   | Gold Knight
 Saito             | 65    | 8      | $150  | 208   |
 Saito             | 65    | 5      | $120  | 82    | Gold Knight
+Saito             | 65    | 7      | $140  | 161   |   
 Saito             | 72    | 7      | $160  | 244   | Gold Knight
+Saito             | 72    | 7      | $160  | 18    |
+Saito             | 72    | 8      | $180  | 19    |
 Saito             | 80    | 9      | $200  | 222   | Bench run once
 Saito             | 80    | 9      | $190  | 119   |
+Saito             | 82    | 8      | $200  | 20    |
 Saito             | 91    | 7      | $170  | 213   | New bearings
 Saito             | 91    | 7      | $170  | 236   |
 Saito             | 91    | 9      | $210  | 152   | Beautiful
-Saito             | 100   | 8      | $200  | 183   |
+Saito             | 91    | 8      | $200  | 16    | Has geared thrust washer and weighted nose hub
 Saito             | 120   | 8      | $230  | 85    |
 Saito             | 120   | 6      | $180  | 8     |
-Saito             | 120   | 8      | $225  | 107   | Includes alum. mt.
-Thunder Tiger     | 75    | 7      | $150  | 100   |                             
-Thunder Tiger     | 91    | 8      | $170  | 225   |
+Saito             | 120   | 8      | $225  | 107   | Includes alum. mt.                             
 Thunder Tiger     | 91    | 10     | $200  | 71    |
 Thunder Tiger     | 91    | 10     | $190  | 171   |
 YS FZ             | 110   | 8      | $185  | 235   |
