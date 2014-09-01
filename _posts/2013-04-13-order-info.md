@@ -5,6 +5,8 @@ layout: default
 published: true
 ---
 
+> Please feel free to browse or contact me with any questions. However, I will be unable to process any orders until after September 25th.
+
 To purchase an engine:
 
 -  Please email me at <a href="mailto:b-fischer@juno.com">b-fischer@juno.com</a> 
