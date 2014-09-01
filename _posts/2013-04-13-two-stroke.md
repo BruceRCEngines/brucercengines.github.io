@@ -13,61 +13,54 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
 ASP               | 61    | 8      | $60   | 27    | Six flights on it.
 ASP               | 75    | 8      | $80   | 79    |                       
-Evolution         | 46    | 7      | $60   | 156   |
+CS                | 46    | 10     | $60   | 4     |
+Enya IV           | 15    | 8      | $45   | 12    | May be a 9 rating.
+Enya III          | 60    | 7      | $65   | 138   | Double ring
+Evolution         | 45    | 6      | $50   | 24    | Alpha 
 Evolution         | 46    | 8      | $65   | 97    |
 Evolution         | 46    | 10     | $80   | 3     |
+Evolution         | 46    | 7      | $55   | 22    |
 HB                | 61    | 10     | $100  | 13    |
-HB                | 61    | 7      | $60   | 141   |
 HP Gold Cup       | 61    | 7      | $75   | 223   |
-Irvine            | 40    | 10     | $75   | 52    |
 Irvine            | 61    | 6      | $60   | 48    |
-K & B             | 61    | 5      | $50   | 92    | Perry carb. 72 vintage
-Magnum Pro SE     | 46    | 8      | $60   | 102   |
+Kraft             | 61    | 5      | $45   | 29    |  From the makers of Kraft Radios                     
+Magnum GP         | 25    | 7      | $30   | JP1   |
+Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum XL         | 46    | 10     | $65   | 50    |
-Magnum XL         | 46    | 10     | $65   | 21    |
-Magnum XLS        | 46    | 10     | $65   | 49    |
 MFA               | 61    | 9      | $75   | 59    | OS SF clone. Great engine
-Megatech          | 46    | 10     | $60   | 24    |
-OS Max FP         | 40    | 8      | $45   | 66    |
+OS Max F          | 45    | 6      | $45   | 26    |
 OS Max FP         | 40    | 8      | $45   | 10    |
-OS Max FP         | 60    | 8      | $70   | 88    |
+OS Max FP         | 40    | 7      | $40   | 9     |
 OS Max FX         | 40    | 8      | $60   | 56    |
-OS Max FX         | 40    | 8      | $60   | 33    |
+OS Max FX         | 40    | 8      | $55   | 33    |
 OS Max FX         | 61    | 6      | $80   | 139   |
+OS Max FX         | 61    | 7      | $90   | 36    |
+OS Max FX         | 61    | 9      | $125  | 61    |May never have been run.                                 
 OS Max FX         | 61    | 7      | $90   | 140   |
-OS Max FX         | 91    | 7      | $145  | 123   |
-OS Max H Gold Head| 60    | 7      | $65   | 169   | THE engine of the 70s
-OS Max SF         | 46    | 7      | $70   | 132   |
-OS Max SF         | 46    | 5      | $45   | 32    |
+OS Max FX         | 61    | 7      | $90   | 141   |                                    
+OS Max SF         | 4     | 7      | $50   | 32    |
+OS Max SF         | 46    | 7      | $60   | 133   |
 OS Max SF         | 61    | 8      | $115  | 104   |
-OS Max SF         | 61    | 6      | $80   | 200   |
 OS Max SR         | 40    | 8      | $60   | 186   |
-RJL (Kraft)       | 61    | 10     | $130  | 117   |
+RJK (Kraft)       | 61    | 10     | $130  | 117   |                             
 SK                | 60    | 8      | $70   | 221   |
 SK                | 80    | 8      | $80   | 220   |
-Super Tiger       | 34G   | 6      | $40   | 34    |
-Super Tiger       | 45    | 7      | $55   | 132   | Made in Italy
-Super Tiger       | 45    | 10     | $60   | 73    | Made in Italy
+Super Tiger       | 34G   | 6      | $35   | 34    |
 Super Tiger       | 51    | 7      | $65   | 25    |
 Super Tiger       | 61    | 8      | $70   | 127   |
 Super Tiger       | 61    | 9      | $75   | 7     |
 Super Tiger       | 61    | 7      | $70   | 227   | Made in Italy
 Super Tiger       | 61    | 7      | $70   | 155   | Made in Italy
 Super Tiger       | 61    | 7      | $70   | 95    | Made in Italy
-Super Tiger       | 75    | 5      | $70   | 128   |
 Super Tiger       | 90    | 8      | $100  | 94    |
-Thunder Tiger GP  | 40    | 10     | $50   | 40    | Used muffler
-Thunder Tiger GP  | 40    | 10     | $60   | 74    |
-Thunder Tiger GP  | 42    | 10     | $60   | 51    |
+Super Tiger       | 90    | 8      | $110  | 193   | Made in Italy                                 
+Thunder Tiger GP  | 42    | 10     | $50   | 51    |
 Thunder Tiger GP  | 65    | 8      | $80   | 192   |
-Thunder Tiger Pro | 46    | 7      | $60   | 37    | Runs as well as OS FX
-Thunder Tiger Pro | 46    | 8      | $70   | 191   |
 Thunder Tiger Pro | 46    | 8      | $70   | 151   |
 Thunder Tiger Pro | 46    | 8      | $70   | 44    |
 Thunder Tiger Pro | 46    | 9      | $90   | 38    | New with rebuilt carb.
-Thunder Tiger Pro | 46    | 10     | $95   | 6     |
-Thunder Tiger Pro | 61    | 8      | $90   | 142   |
-Thunder Tiger Pro | 61    | 8      | $95   | 122   |
+Thunder Tiger Pro | 61    | 8      | $90   | 142   | With a Perry Pump
+Thunder Tiger Pro | 61    | 8      | $95   | 122   |               
 Webra             | 40    | 6      | $45   | 204   |
 Webra             | 40    | 10     | $70   | 75    |                                       
 {: .table .table-bordered .table-condensed .table-hover .footable}
