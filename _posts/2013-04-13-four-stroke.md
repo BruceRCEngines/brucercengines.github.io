@@ -51,24 +51,33 @@ OS Surpass II     | 91    | 7      | $180  | 146   |
 OS Surpass II     | 91    | 8/6    | $150  | 154   | Rapired by Clarence Lee
 OS Surpass II     | 91    | 8      | $200  | 243   |
 OS Surpass II     | 91    | 8      | $190  | 86    |
+OS Surpass II     | 91    | 8      | $200  | 143   |                            
 OS Surpass        | 120   | 6      | $180  | 197   |
 OS Surpass        | 120   | 7      | $230  | 181   | Pumped version
 OS Surpass        | 120   | 8      | $250  | 179   | Pumped Version
-Saito             | 45    | 6      | $$85  | 23    | Built from two engines                                     
+Saito             | 45    | 6      | $75   | 23    | Built from two engines                                     
 Saito             | 45    | 7      | $100  | 164   |
 Saito             | 65    | 8      | $150  | 208   |
 Saito             | 65    | 5      | $120  | 82    | Gold Knight
 Saito             | 65    | 7      | $140  | 161   |   
-Saito             | 72    | 7      | $160  | 244   | Gold Knight
 Saito             | 72    | 7      | $160  | 18    |
 Saito             | 72    | 8      | $180  | 19    |
+Saito             | 72    | 10     | $200  | 128   |                                      
 Saito             | 80    | 9      | $200  | 222   | Bench run once
 Saito             | 80    | 9      | $190  | 119   |
 Saito             | 82    | 8      | $200  | 20    |
 Saito             | 91    | 7      | $170  | 213   | New bearings
 Saito             | 91    | 7      | $170  | 236   |
+Saito             | 91    | 7      | $170  | 159   | Gold Knight
+Saito             | 91    | 8      | $200  | 158   |                                      
 Saito             | 91    | 9      | $210  | 152   | Beautiful
 Saito             | 91    | 8      | $200  | 16    | Has geared thrust washer and weighted nose hub
+Saito             | 91    | 10     | $210  | 156   | Has some shelf petina                                       
+Saito             | 100   | 7      | $180  | 216   |
+Saitp             | 100   | 7      | $190  | 219   |                                     
+Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes
+Saito             | 100   | 8      | $210  | 218   |                                        
+Saito             | 100   | 9      | $230  | 157   | Older muffler                                     
 Saito             | 120   | 8      | $230  | 85    |
 Saito             | 120   | 6      | $180  | 8     |
 Saito             | 120   | 8      | $225  | 107   | Includes alum. mt.                             
@@ -82,10 +91,10 @@ YS FS             | 120   | 7      | $195  | 136   |
 YS SF             | 120   | 7      | $195  | 245   |
 YS SF             | 120   | 8      | $205  | 246   |
 YS FS             | 120   | 6      | $185  | 93    |
-YS FS             | 120   | 6      | $185  | 237   | Replaced carb elbow                                   
+YS FS             | 120   | 6      | $190  | 237   | Replaced carb elbow                                   
 YS FS             | 120   | 7      | $195  | 150   |
 YS FS             | 120   | 7      | $200  | 241   | 
-YS SY             | 120   | 7      | $195  | 242   |
+YS FS             | 120   | 7      | $195  | 242   |
 YS FS             | 120   | 8      | $215  | 240   |Has muffler rather than stack                                 
 YS FZ             | 140   | 7      | $250  | 214   |
 {: .table .table-bordered .table-condensed .table-hover .footable}
