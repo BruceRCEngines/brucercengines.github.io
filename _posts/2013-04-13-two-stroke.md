@@ -62,7 +62,7 @@ Thunder Tiger GP  | 65    | 8      | $80   | 192   |
 Thunder Tiger Pro | 46    | 8      | $70   | 151   |
 Thunder Tiger Pro | 46    | 8      | $70   | 44    |
 Thunder Tiger Pro | 46    | 9      | $90   | 38    | New with rebuilt carb.
-Thunder Tiger Pro | 61    | 8      | $90   | 142   | With a Perry Pump
+Thunder Tiger Pro | 61    | 8      | $90   | 142   |
 Thunder Tiger Pro | 61    | 8      | $95   | 122   |               
 Webra             | 40    | 6      | $45   | 204   |
 Webra             | 40    | 10     | $70   | 75    |                                       
