@@ -23,9 +23,11 @@ Evolution         | 46    | 7      | $55   | 22    |
 HB                | 61    | 10     | $100  | 13    |
 HP Gold Cup       | 61    | 7      | $75   | 223   |
 Irvine            | 61    | 6      | $60   | 48    |
-Kraft             | 61    | 5      | $45   | 29    |  From the makers of Kraft Radios                     
+Kraft             | 61    | 5      | $45   | 29    | From the makers of Kraft Radios
+Kraft(RKJ)        | 61    | 10     | $130  | 117   | Now known as RKJ 
 Magnum GP         | 25    | 7      | $30   | JP1   |
 Magnum GP         | 40    | 10     | $50   | 11    |
+Magnum GP         | 44    | 10     | $55   | 38    |                               
 Magnum XL         | 46    | 10     | $65   | 50    |
 MFA               | 61    | 9      | $75   | 59    | OS SF clone. Great engine
 OS Max F          | 45    | 6      | $45   | 26    |
@@ -35,14 +37,15 @@ OS Max FX         | 40    | 8      | $60   | 56    |
 OS Max FX         | 40    | 8      | $55   | 33    |
 OS Max FX         | 61    | 6      | $80   | 139   |
 OS Max FX         | 61    | 7      | $90   | 36    |
-OS Max FX         | 61    | 9      | $125  | 61    |May never have been run.                                 
+OS Max FX         | 61    | 9      | $125  | 61    | May never have been run.                                 
 OS Max FX         | 61    | 7      | $90   | 140   |
-OS Max FX         | 61    | 7      | $90   | 141   |                                    
+OS Max FX         | 61    | 7      | $90   | 141   |
+OS MAX FX         | 61    | 10     | $140  | 137   |Box rough, engine great!                                   
 OS Max SF         | 4     | 7      | $50   | 32    |
 OS Max SF         | 46    | 7      | $60   | 133   |
 OS Max SF         | 61    | 8      | $115  | 104   |
-OS Max SR         | 40    | 8      | $60   | 186   |
-RJK (Kraft)       | 61    | 10     | $130  | 117   |                             
+OS Max SF         | 61    | 7      | $125  | 61    |                                   
+OS Max SR         | 40    | 8      | $60   | 186   |                             
 SK                | 60    | 8      | $70   | 221   |
 SK                | 80    | 8      | $80   | 220   |
 Super Tiger       | 34G   | 6      | $35   | 34    |
