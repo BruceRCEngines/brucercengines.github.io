@@ -32,7 +32,6 @@ OS Max FX         | 40    | 8      | $60   | 56    |
 OS Max FX         | 40    | 8      | $55   | 33    |
 OS Max FX         | 40    | 7      | $45   | 45    |
 OS Max SF         | 40    | 7      | $50   | 32    |
-OS Max SR         | 40    | 8      | $60   | 186   |
 OS Max F          | 45    | 6      | $45   | 26    | 
 OS Max AX         | 46    | 10     | $105  | 8     |
 OS Max FX         | 46    | 10     | $90   | 41    | Used muffler
