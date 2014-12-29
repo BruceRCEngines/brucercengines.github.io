@@ -25,7 +25,6 @@ OS Surpass        | 48    | 8      | $125  | 14    |
 OS Surpass II     | 52    | 8      | $135  | 163   |
 OS Surpass II     | 52    | 8      | $135  | 105   |
 OS Surpass II     | 52    | 9      | $140  | 39    | Never run. Shelf wear. No box.                              
-OS Surpass        | 52    | 10     | $150  | 134   |
 OS Surpass        | 52    | 10     | $150  | 40    |                
 OS Surpass        | 70    | 10     | $200  | 189   |
 OS Surpass        | 70    | 10     | $200  | 2     |
@@ -35,9 +34,7 @@ OS Surpass        | 70    | 8      | $160  | 204   |
 OS Surpass        | 70    | 8      | $165  | 90    |
 OS Surpass II     | 70    | 8      | $175  | 78    |
 OS Surpass II     | 70    | 10     | $190  | 114   |
-OS Surpass        | 91    | 6      | $160  | 149   |
-OS Surpass        | 91    | 7      | $170  | 153   |
-OS Surpass        | 91    | 7      | $170  | 135   |                             
+OS Surpass        | 91    | 7      | $170  | 153   |                             
 OS Surpass        | 91    | 7      | $180  | 145   |
 OS Surpass        | 91    | 7      | $180  | 144   |                               
 OS Surpass        | 91    | 8      | $190  | 87    |
@@ -45,8 +42,7 @@ OS Surpass        | 91    | 9      | $205  | 190   |
 OS Surpass        | 91    | 10     | $230  | 31    |
 OS Surpass        | 91    | 10     | $230  | 5     |
 OS Surpass        | 91    | 10     | $240  | 65    | Box in excellent condition.                                
-OS Surpass        | 91    | 9      | $210  | 170   | Light shelf petina
-OS Surpass        | 91    | 10     | $220  | 156   |    
+OS Surpass        | 91    | 9      | $210  | 170   | Light shelf petina    
 OS Surpass        | 91    | 8      | $185  | 148   |
 OS Surpass II     | 91    | 7      | $180  | 146   |                       
 OS Surpass II     | 91    | 8      | $200  | 243   |
