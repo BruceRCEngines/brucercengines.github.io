@@ -35,8 +35,7 @@ OS Max SF         | 40    | 7      | $50   | 32    |
 OS Max F          | 45    | 6      | $45   | 26    | 
 OS Max AX         | 46    | 10     | $105  | 8     |
 OS Max FX         | 46    | 10     | $90   | 41    | Used muffler
-OS Max SF         | 46    | 6      | $50   | 42    | 
-OS Max SF         | 46    | 7      | $60   | 133   | 
+OS Max SF         | 46    | 6      | $50   | 42    |  
 OS Max FX         | 61    | 7      | $90   | 141   |                                  
 OS Max SF         | 61    | 8      | $115  | 104   |
 RJL (Kraft)       | 61    | 10     | $130  | 117   |                               
