@@ -16,7 +16,6 @@ CS                | 46    | 10     | $60   | 4     |
 Evolution         | 45    | 6      | $50   | 24    | Alpha 
 Evolution         | 46    | 8      | $65   | 97    |
 Evolution         | 46    | 10     | $80   | 3     |
-Evolution         | 46    | 7      | $55   | 22    |
 Fox Eagle II      | 61    | 7      | $75   | 49    | Power House!                                    
 HB                | 61    | 10     | $100  | 13    |
 HP Gold Cup       | 61    | 7      | $75   | 223   |                                              
@@ -35,8 +34,7 @@ OS Max SF         | 40    | 7      | $50   | 32    |
 OS Max F          | 45    | 6      | $45   | 26    | 
 OS Max AX         | 46    | 10     | $105  | 8     |
 OS Max FX         | 46    | 10     | $90   | 41    | Used muffler
-OS Max SF         | 46    | 6      | $50   | 42    |  
-OS Max FX         | 61    | 7      | $90   | 141   |                                  
+OS Max SF         | 46    | 6      | $50   | 42    |                                    
 OS Max SF         | 61    | 8      | $115  | 104   |
 RJL (Kraft)       | 61    | 10     | $130  | 117   |                               
 SK                | 60    | 8      | $70   | 221   |
