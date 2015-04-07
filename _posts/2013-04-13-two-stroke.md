@@ -14,8 +14,7 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ASP               | 75    | 8      | $80   | 79    |                       
 CS                | 46    | 10     | $60   | 4     |
 Evolution         | 45    | 6      | $50   | 24    | Alpha 
-Evolution         | 46    | 8      | $65   | 97    |
-Evolution         | 46    | 10     | $80   | 3     |                                    
+Evolution         | 46    | 8      | $65   | 97    |                                    
 HB                | 61    | 10     | $100  | 13    |
 HP Gold Cup       | 61    | 7      | $75   | 223   |                                              
 Magnum GP         | 25    | 7      | $30   | JP1   |
@@ -25,13 +24,11 @@ Magnum XL         | 46    | 10     | $65   | 50    |
 MFA               | 61    | 9      | $75   | 59    | OS SF clone. Great engine      
 OS Max FP         | 40    | 7      | $40   | 9     |
 OS Max FX         | 40    | 8      | $60   | 56    |
-OS Max FX         | 40    | 8      | $55   | 33    |
 OS Max FX         | 40    | 7      | $45   | 45    |
 OS Max SF         | 40    | 7      | $50   | 32    |
 OS Max SR         | 40    | 8      | $60   | 186   |                                        
 OS Max AX         | 46    | 10     | $105  | 8     |
 OS Max FX         | 46    | 10     | $90   | 41    | Used muffler
-OS Max SF         | 46    | 6      | $50   | 42    |
 OS Max SF         | 46    | 7      | $60   | 133   |                                  
 OS Max SF         | 61    | 8      | $115  | 104   |
 OS Max FX         | 61    | 10     | $140  | 103   | New, but no box                                 
