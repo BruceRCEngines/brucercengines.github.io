@@ -42,11 +42,11 @@ OS Surpass II     | 91    | 8      | $200  | 243   |
 OS Surpass II     | 91    | 8      | $190  | 86    |
 OS Surpass II     | 91    | 8      | $200  | 143   |                            
 OS Surpass        | 120   | 6      | $180  | 197   |
-OS Surpass        | 120   | 7      | $230  | 181   | Pumped version
-OS Surpass        | 120   | 8      | $250  | 179   | Pumped Version                                    
+OS Surpass        | 120   | 7      | $210  | 181   | Pumped version
+OS Surpass        | 120   | 8      | $230  | 179   | Pumped Version                                    
 Saito             | 45    | 7      | $100  | 164   | Box excellent                                       
 Saito             | 65    | 8      | $150  | 208   |
-Saito             | 65    | 5      | $120  | 82    | Gold Knight   
+Saito             | 65    | 6      | $140  | 82    | Gold Knight   
 Saito             | 72    | 7      | $160  | 81    |
 Saito             | 72    |untested| $180  | 162   |                                  
 Saito             | 80    | 9      | $200  | 222   | Bench run once
@@ -57,7 +57,7 @@ Saito             | 100   | 7      | $190  | 219   |
 Saito             | 100   | 8      | $210  | 218   |                                     
 Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes                                     
 Saito             | 120   | 8      | $230  | 85    |           
-Saito             | 120   | 8      | $225  | 107   | Includes alum. mt.
+Saito             | 120   | 8      | $225  | 107   | Includes alum. mt. and has exhaust stack instead of muffler
 Saito             | 120   | 7      | $180  | 84    |                                        
 Thunder Tiger     | 91    | 10     | $200  | 71    |
 Thunder Tiger     | 91    | 10     | $200  | 171   |           
