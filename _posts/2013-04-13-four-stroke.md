@@ -21,7 +21,6 @@ OS Surpass        | 48    | 7      | $110  | 6     |
 OS Surpass        | 48    | 7      | $115  | 15    |
 OS Surpass        | 48    | 8      | $125  | 14    |  
 OS Surpass II     | 52    | 8      | $135  | 163   |
-OS Surpass II     | 52    | 8      | $135  | 105   |
 OS Surpass        | 52    | 10     | $150  | 134   |                           
 OS Surpass        | 70    | 10     | $200  | 189   |
 OS Surpass        | 70    | 10     | $200  | 2     |
