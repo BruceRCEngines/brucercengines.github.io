@@ -14,9 +14,9 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 Magnum XL         | 30    | 10     | $100  | 230   | Cute!                            
 Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
 Magnum XL         | 91    | 10     | $140  | 231   |
+OS Surpass        | 26    | 9      | $135  | 17    |                                     
 OS Surpass        | 26    | 9      | $140  | 18    | Exhaust stack instead of muffler   
-OS Surpass II     | 30    | 7      | $115  | 30    | 
-OS Surpass        | 40    | 6      | $90   | 60    |                           
+OS Surpass II     | 30    | 7      | $115  | 30    |                            
 OS Surpass        | 40    | 7      | $110  | 21    |
 OS Surpass        | 48    | 7      | $110  | 6     |   
 OS Surpass        | 48    | 7      | $115  | 15    |
@@ -58,7 +58,8 @@ Saito             | 100   | 8      | $210  | 218   |
 Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes
 Saito             | 120   | 8      | $230  | 85    |           
 Saito             | 120   | 8      | $225  | 107   | Includes alum. mt. and has exhaust stack instead of muffler
-Saito             | 120   | 7      | $180  | 84    |                                        
+Saito             | 120   | 7      | $180  | 84    |
+Saito             | 125a  | 10     | $250  | 88    |                             
 Thunder Tiger     | 91    | 10     | $200  | 71    |
 Thunder Tiger     | 91    | 10     | $200  | 171   |           
 YS AC             | 91    | 7      | $180  | 239   |
