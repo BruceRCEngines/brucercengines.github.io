@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-> Please feel free to browse or contact me with any questions. However, I will be unable to process any orders until after September 25th.
+> Please feel free to browse or contact me with any questions. 
 
 To purchase an engine:
 
@@ -22,4 +22,3 @@ To purchase an engine:
         Iowa City, Iowa 52240
 
 - Click here to go to Paypal: <a href="https://www.paypal.com/" target="_blank"><img src="img/paypal.gif"></a>
-
