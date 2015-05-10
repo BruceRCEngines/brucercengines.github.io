@@ -18,6 +18,7 @@ Evolution         | 46    | 8      | $65   | 97    |
 HB                | 61    | 10     | $100  | 13    |
 HP Gold Cup       | 61    | 7      | $75   | 223   |                                              
 Magnum GP         | 25    | 7      | $30   | JP1   |
+Magnum GP         | 25    | 10     | $40   | 10    | no box                                       
 Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum GP         | 44    | 10     | $55   | 52    |                               
 Magnum XL         | 46    | 10     | $65   | 50    |                                
@@ -35,7 +36,7 @@ OS Max FX         | 61    | 10     | $140  | 103   | New, but no box
 RJL (Kraft)       | 61    | 10     | $130  | 117   |                               
 SK                | 60    | 8      | $70   | 221   |
 SK                | 80    | 8      | $80   | 220   |
-Super Tiger       | 51    | 7      | $65   | 25    |
+Super Tiger       | 45    | 8      | $60   | 27    |                                    
 Super Tiger       | 61    | 8      | $70   | 127   |
 Super Tiger       | 61    | 9      | $75   | 7     |
 Super Tiger       | 61    | 7      | $70   | 227   | Made in Italy
