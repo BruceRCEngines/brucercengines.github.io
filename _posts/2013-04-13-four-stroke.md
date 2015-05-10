@@ -11,6 +11,7 @@ featured_engine_name: Saito 125a
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
+Magnum XL         | 30    | 10     | $100  | 230   | Cute!                            
 Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
 Magnum XL         | 91    | 10     | $140  | 231   |
 OS Surpass        | 26    | 9      | $140  | 18    | Exhaust stack instead of muffler   
@@ -45,7 +46,6 @@ OS Surpass        | 120   | 6      | $180  | 197   |
 OS Surpass        | 120   | 7      | $210  | 181   | Pumped version
 OS Surpass        | 120   | 8      | $230  | 179   | Pumped Version                                    
 Saito             | 45    | 7      | $100  | 164   | Box excellent                                       
-Saito             | 65    | 8      | $150  | 208   |
 Saito             | 65    | 6      | $140  | 82    | Gold Knight   
 Saito             | 72    | 7      | $160  | 81    |
 Saito             | 72    |untested| $180  | 162   |                                  
