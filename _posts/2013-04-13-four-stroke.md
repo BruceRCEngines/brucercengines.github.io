@@ -71,6 +71,7 @@ YS SF             | 120   | 7      | $195  | 244   |
 YS SF             | 120   | 8      | $205  | 246   |                                  
 YS FS             | 120   | 7      | $195  | 150   |
 YS FS             | 120   | 7      | $200  | 241   | 
-YS FS             | 120   | 8      | $215  | 240   | Has muffler rather than stack 
+YS FS             | 120   | 8      | $215  | 240   | Has muffler rather than stack
+YS NC             | 120   | 8      | $210  | 248   |                              
 YS FS             | 140   | 6      | $240  | 214   |  
 {: .table .table-bordered .table-condensed .table-hover .footable}
