@@ -9,6 +9,7 @@ featured_engine_name: Saito 125a
 
 
 
+
 > Four stroke engines tickle the fancy of many of us because they are simply "neat." Their sound stirs the imagination, and they carry the airplane around the sky in a more realistic fashon.  But they are expensive.  A lot of money can be saved by buying used RC engines, if you can find a dependable used engine. I try to make all of my used engines relaible through repair, testing, and rating so you will know what you are getting before you buy.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -18,7 +19,7 @@ Magnum XL         | 30    | 10     | $100  | 230   | Cute!
 Magnum XL         | 52    |  7     | $90   | 42    |                                 
 Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
 Magnum XL         | 91    | 10     | $140  | 231   |
-OS Surpass        | 26    | 9      | $135  | 17    |                                     
+OS Surpass        | 26    | 9      | $135  | 17    |
 OS Surpass        | 26    | 9      | $140  | 18    | Exhaust stack instead of muffler                              
 OS Surpass        | 40    | 7      | $110  | 21    |
 OS Surpass        | 48    | 7      | $110  | 6     |   
