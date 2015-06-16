@@ -7,16 +7,18 @@ featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website
 featured_engine_name: Saito 125a
 ---
 
+
 > Four stroke engines tickle the fancy of many of us because they are simply "neat." Their sound stirs the imagination, and they carry the airplane around the sky in a more realistic fashon.  But they are expensive.  A lot of money can be saved by buying used RC engines, if you can find a dependable used engine. I try to make all of my used engines relaible through repair, testing, and rating so you will know what you are getting before you buy.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
-Magnum XL         | 30    | 10     | $100  | 230   | Cute!                            
+Enya              | 80    | 7      | $150  | 62    |                               
+Magnum XL         | 30    | 10     | $100  | 230   | Cute! 
+Magnum XL         | 52    |  7     | $90   | 42    |                                 
 Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
 Magnum XL         | 91    | 10     | $140  | 231   |
 OS Surpass        | 26    | 9      | $135  | 17    |                                     
-OS Surpass        | 26    | 9      | $140  | 18    | Exhaust stack instead of muffler   
-OS Surpass II     | 30    | 7      | $115  | 30    |                            
+OS Surpass        | 26    | 9      | $140  | 18    | Exhaust stack instead of muffler                              
 OS Surpass        | 40    | 7      | $110  | 21    |
 OS Surpass        | 48    | 7      | $110  | 6     |   
 OS Surpass        | 48    | 7      | $115  | 15    |
@@ -30,7 +32,8 @@ OS Surpass        | 70    | 8      | $165  | 90    |
 OS Surpass II     | 70    | 10     | $190  | 114   |
 OS Surpass        | 91    | 7      | $170  | 153   |                             
 OS Surpass        | 91    | 7      | $180  | 145   |
-OS Surpass        | 91    | 7      | $180  | 144   |                               
+OS Surpass        | 91    | 7      | $180  | 144   |
+OS Surpass        | 91    | 8      | $170  | 141   | Not fully run in.                                
 OS Surpass        | 91    | 8      | $190  | 87    |
 OS Surpass        | 91    | 9      | $205  | 190   |
 OS Surpass        | 91    | 10     | $230  | 31    |
@@ -46,10 +49,9 @@ OS Surpass        | 120   | 6      | $180  | 197   |
 OS Surpass        | 120   | 7      | $210  | 181   | Pumped version
 OS Surpass        | 120   | 8      | $230  | 179   | Pumped Version                                    
 Saito             | 45    | 7      | $100  | 164   | Box excellent                                       
-Saito             | 65    | 6      | $140  | 82    | Gold Knight   
+Saito             | 65    | 6      | $120  | 82    | Gold Knight   
 Saito             | 72    | 7      | $160  | 81    |
-Saito             | 72    |untested| $180  | 162   |                                  
-Saito             | 80    | 9      | $200  | 222   | Bench run once
+Saito             | 72    |untested| $180  | 162   |             
 Saito             | 80    | 9      | $190  | 119   |
 Saito             | 91    | 7      | $170  | 236   |            
 Saito             | 100   | 7      | $180  | 216   |
@@ -61,16 +63,20 @@ Saito             | 120   | 8      | $225  | 107   | Includes alum. mt. and has 
 Saito             | 120   | 7      | $180  | 84    |
 Saito             | 125a  | 10     | $250  | 88    |                             
 Thunder Tiger     | 91    | 10     | $200  | 71    |
-Thunder Tiger     | 91    | 10     | $200  | 171   |           
+Thunder Tiger     | 91    | 10     | $200  | 171   |
+YS FZ             | 53    | 8      | $160  | 184   |
+YS FZ             | 63    | 7      | $160  | 188   |                                     
 YS AC             | 91    | 7      | $180  | 239   |
-YS AC             | 91    | 8      | $200  | 238   |                                         
+YS AC             | 91    | 8      | $200  | 238   |
+YS FZ             | 110   | 8      | $210  | 234   |New bearings and ring.                                    
 YS FS             | 120   | 7      | $195  | 136   |
 YS SF             | 120   | 7      | $195  | 245   |
 YS SF             | 120   | 7      | $195  | 1     |                                     
 YS SF             | 120   | 7      | $195  | 244   |  
 YS SF             | 120   | 8      | $205  | 246   |                                  
 YS FS             | 120   | 7      | $195  | 150   |
-YS FS             | 120   | 7      | $200  | 241   | 
+YS FS             | 120   | 7      | $200  | 241   |
+YS FS             | 120   | 8      | $200  | 235   |                                     
 YS FS             | 120   | 8      | $215  | 240   | Has muffler rather than stack
 YS NC             | 120   | 8      | $210  | 248   |                              
 YS FS             | 140   | 6      | $240  | 214   |  
