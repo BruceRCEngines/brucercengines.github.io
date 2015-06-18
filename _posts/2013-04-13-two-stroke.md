@@ -8,6 +8,7 @@ featured_engine_name: OS 61 SF
 ---
 
 
+
 > Used RC engines often outlive a flyer's need. I come across many that make wonderful power units when they are cleaned, repaired, and adjusted.  They are much less expensive than new engines. Below are listed those that still have many hours of useful life.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -30,7 +31,7 @@ OS Max FP         | 40    | 7      | $40   | 9     |
 OS Max FX         | 40    | 8      | $60   | 56    |
 OS Max FX         | 40    | 7      | $45   | 45    |
 OS Max FX         | 46    | 7      | $60   | 54    | Idles at 1,700 wow! 
-OS Max FX         | 46    | 10     | $41   | 41    | Engine new, but muffler used.
+OS Max FX         | 46    | 10     | $90   | 41    | Engine new, but muffler used.
 OS Max FX         | 61    | 10     | $140  | 103   | Engine new but no box      
 OS Max SF         | 40    | 7      | $50   | 32    |
 OS Max SF         | 46    | 7      | $60   | 133   |
