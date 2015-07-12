@@ -9,18 +9,15 @@ featured_engine_name: OS 61 SF
 
 
 
+
 > Used RC engines often outlive a flyer's need. I come across many that make wonderful power units when they are cleaned, repaired, and adjusted.  They are much less expensive than new engines. Below are listed those that still have many hours of useful life.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
-------------------|-------|--------|-------|-------|---------------------
-ASP               | 75    | 8      | $75   | 79    |                       
-CS                | 46    | 10     | $60   | 4     |
-Evolution         | 45    | 6      | $45   | 24    | Alpha 
+------------------|-------|--------|-------|-------|---------------------                      
 Evolution         | 46    | 8      | $65   | 97    |
 Evolution         | 61    | 10     | $90   | 96    |                              
 HB                | 61    | 10     | $90   | 13    |
-HP Gold Cup       | 61    | 7      | $70   | 223   |                                              
-Kraft (RJL)       | 61    | 10     | $130  | 117   |                            
+HP Gold Cup       | 61    | 7      | $70   | 223   |                                                                          
 Magnum GP         | 25    | 10     | $40   | 10    | no box                                       
 Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum GP         | 44    | 10     | $55   | 52    |
