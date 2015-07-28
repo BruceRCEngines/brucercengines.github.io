@@ -7,7 +7,8 @@ featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website
 featured_engine_name: OS 61 SF
 ---
 
-> Used RC engines often outlive a flyer's need. I come across many that make wonderful power units when they are cleaned, repaired, and adjusted.  They are much less expensive than new engines. Below are listed those that still have many hours of useful life.
+
+> I have had people tell me that the future of RC flying lies with electric motors or gasoline engines. But I find that a two stroke engine is still a very effecient, reliable, and inexpensive way to fly a medium sized airplane. A sport flyer would be remiss not to consider two stroke nitro engines for their project. Listed here are a number of preowned new and used options that might interest you.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
