@@ -12,6 +12,7 @@ featured_engine_name: Saito 125a
 
 
 
+
 > Four stroke engines tickle the fancy of many of us because they are simply "neat." Their sound stirs the imagination, and they carry the airplane around the sky in a more realistic fashon.  But they are expensive.  A lot of money can be saved by buying used RC engines, if you can find a dependable used engine. I try to make all of my used engines relaible through repair, testing, and rating so you will know what you are getting before you buy.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -83,5 +84,5 @@ YS FS             | 120   | 8      | $200  | 235   |
 YS FS             | 120   | 8      | $215  | 240   | Has bulb muffler instead of exhaust stack                      
 YS NC             | 120   | 8      | $210  | 248   |                              
 YS FZ             | 140   | 6      | $240  | 214   |
-YS FZ             | 140   | 8      | $275  | 213   | Wrap around muffler with smoke capabilities.                                     
+YS FZ             | 140   | 8      | $290  | 213   | Wrap around muffler with smoke capabilities.                                     
 {: .table .table-bordered .table-condensed .table-hover .footable}
