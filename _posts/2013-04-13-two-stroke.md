@@ -13,6 +13,7 @@ featured_engine_name: OS 61 SF
 
 
 
+
 > I have had people tell me that the future of power for RC airplanes lies with electric motors or gasoline engines. But I find that two stroke nitro engines are still a very effecient, reliable, and inexpensive way to fly medium sized planes. A sport flyer would be remiss not to conside two stroke notro engines for power. Listed here are a number of preowned new and used options that might interest you.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -54,7 +55,6 @@ Thunder Tiger Pro | 46    | 9      | $80   | 38    | New with rebuilt carb.
 Thunder Tiger Pro | 46    | 7      | $65   | 36    |
 Thunder Tiger Pro | 46    | 8      | $75   | 40    |
 Thunder Tiger Pro | 61    | 9      | $110  | 46    |                            
-Thunder Tiger Pro | 61    | 9      | $90   | 98    | OS carb and muffler.
 Webra             | 60    | 7      | $65   | 12    | Light weight 60. A fovorite of the 1970's
 {: .table .table-bordered .table-condensed .table-hover .footable}
 {: .table .table-bordered .table-condensed .table-hover .footable}
