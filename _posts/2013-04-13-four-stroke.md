@@ -7,18 +7,9 @@ featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website
 featured_engine_name: Saito 125a
 ---
 
-
-
-
-
-
-
-
-
 > Four stroke engines tickle the fancy of many of us because they are simply "neat." Their sound stirs the imagination, and they carry the airplane around the sky in a more realistic fashon.  But they are expensive.  A lot of money can be saved by buying used RC engines, if you can find a dependable used engine. I try to make all of my used engines relaible through repair, testing, and rating so you will know what you are getting before you buy.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
-
 ------------------|-------|--------|-------|-------|---------------------
 Enya              | 80    | 7      | $150  | 62    |                                
 Magnum XL         | 52    | 7      | $90   | 42    |                                 
@@ -57,7 +48,7 @@ Saito             | 100   | 7      | $180  | 216   |
 Saito             | 100   | 7      | $190  | 219   |                                   
 Saito             | 100   | 8      | $210  | 218   |
 Saito             | 100   | 7      | $180  | 212   |                                        
-Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes                           
+Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes
 Saito             | 120   | 7      | $180  | 84    |
 Saito             | 125a  | 10     | $250  | 88    |                             
 Thunder Tiger     | 91    | 10     | $190  | 71    |                                 
@@ -73,5 +64,5 @@ YS FS             | 120   | 7      | $210  | 247   | Flexible header tubing and 
 YS FS             | 120   | 7      | $200  | 233   |
 YS FS             | 120   | 7      | $200  | 241   | 
 YS FS             | 120   | 8      | $200  | 235   |                                        
-YS FZ             | 140   | 8      | $290  | 213   | Wrap around muffler with smoke capabilities.                                     
+YS FZ             | 140   | 8      | $290  | 213   | Wrap around muffler with smoke capabilities. 
 {: .table .table-bordered .table-condensed .table-hover .footable}
