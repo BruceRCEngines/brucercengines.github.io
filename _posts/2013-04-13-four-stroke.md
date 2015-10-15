@@ -7,6 +7,7 @@ featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website
 featured_engine_name: Saito 125a
 ---
 
+
 > Four stroke engines tickle the fancy of many of us because they are simply "neat." Their sound stirs the imagination, and they carry the airplane around the sky in a more realistic fashon.  But they are expensive.  A lot of money can be saved by buying used RC engines, if you can find a dependable used engine. I try to make all of my used engines relaible through repair, testing, and rating so you will know what you are getting before you buy.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -23,7 +24,8 @@ OS Surpass        | 48    | 8      | $125  | 14    |
 OS Surpass II     | 52    | 8      | $135  | 163   |                           
 OS Surpass        | 70    | 10     | $200  | 189   |
 OS Surpass        | 70    | 10     | $200  | 2     |
-OS Surpass        | 70    | 10     | $200  | 201   |                                 
+OS Surpass        | 70    | 10     | $200  | 201   |
+OS Surpass        | 70    | 7      | $155  | 204   |                                     
 OS Surpass II     | 70    | 10     | $200  | 114   |                             
 OS Surpass        | 91    | 7      | $180  | 145   |
 OS Surpass        | 91    | 7      | $180  | 144   |                                
