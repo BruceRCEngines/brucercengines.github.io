@@ -20,10 +20,12 @@ featured_engine_name: OS 61 SF
 
 
 
+
 > I have had people tell me that the future of power for RC airplanes lies with electric motors or gasoline engines. But I find that two stroke nitro engines are still a very effecient, reliable, and inexpensive way to fly medium sized planes. A sport flyer would be remiss not to consider two stroke nitro engines for power. Listed here are a number of preowned new and used options that might interest you.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
+ASP               | 46    | 7      | $50   | 3     |                                          
 CS                | 46    | 10     | $60   | 4     |
 Evolution         | 45    | 6      | $40   | 24    |                                   
 Evolution         | 46    | 8      | $60   | 97    |
@@ -43,8 +45,11 @@ OS Max FP         | 40    | 7      | $40   | 9     |
 OS Max FX         | 40    | 8      | $55   | 56    |
 OS Max FX         | 40    | 7      | $45   | 45    |
 OS Max FX         | 46    | 7      | $60   | 54    | Idles at 1,700 wow! 
+OS Max FX         | 46    | 7      | $60   | 46    |                                    
 OS Max FX         | 46    | 10     | $90   | 97    |
-OS Max FX         | 46    | 10     | $90   | 41    |                                            
+OS Max FX         | 46    | 10     | $90   | 41    |
+OS Max FX         | 61    | 7      | $90   | 102   |
+OS Max FX         | 61    | 7      | $80   | 139   |                                
 OS Max FX         | 61    | 10     | $140  | 103   | Engine new but no box
 OS Max LA         | 40    | 7      | $45   | 55    |                                        
 OS Max SF         | 61    | 7      | $95   | 131   |
@@ -60,6 +65,7 @@ Super Tiger       | 90    | 8      | $95   | 94    |
 Thunder Tiger Pro | 46    | 8      | $70   | 151   |
 Thunder Tiger Pro | 46    | 9      | $80   | 38    | New with rebuilt carb.
 Thunder Tiger Pro | 46    | 8      | $75   | 40    |
+Thunder Tiger Pro | 61    | 6      | $70   | 49    |                            
 Thunder Tiger Pro | 61    | 9      | $100  | 99    |
 Thunder Tiger Pro | 61    | 8      | $90   | 140   |                           
 Tiger Shark       | 60    | 8      | $70   | 221   |                                         
