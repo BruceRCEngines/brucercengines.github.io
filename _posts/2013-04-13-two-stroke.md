@@ -22,6 +22,7 @@ featured_engine_name: OS 61 SF
 
 
 
+
 > I have had people tell me that the future of power for RC airplanes lies with electric motors or gasoline engines. But I find that two stroke nitro engines are still a very effecient, reliable, and inexpensive way to fly medium sized planes. A sport flyer would be remiss not to consider two stroke nitro engines for power. Listed here are a number of preowned new and used options that might interest you.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -38,7 +39,7 @@ HP Gold Cup       | 61    | 7      | $70   | 223   |
 Magnum GP         | 25    | 10     | $40   | 10    | no box                                       
 Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum GP         | 44    | 10     | $55   | 52    |
-Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once. Has Evolution 61 muffler.                                  
+Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once.                                  
 Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and OS carb.                                       
 OS Max AX         | 55    | 8      | $120  | 58    |                               
@@ -51,7 +52,7 @@ OS Max FX         | 46    | 10     | $90   | 97    |
 OS Max FX         | 46    | 10     | $90   | 41    |
 OS Max FX         | 61    | 7      | $90   | 102   |
 OS Max FX         | 61    | 7      | $80   | 139   |                                
-OS Max FX         | 61    | 10     | $140  | 103   | Engine new but no box
+OS Max FX         | 61    | 10     | $140  | 103   | Engine new but no box. Has a Bissen pitts stlyle muffler.
 OS Max LA         | 40    | 7      | $45   | 55    |                                        
 OS Max SF         | 61    | 7      | $100  | 131   |
 OS Max SF         | 61    | 9      | $130  | 106   | Best 60 size engine in my inventory!                                      
