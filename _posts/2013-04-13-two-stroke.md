@@ -27,13 +27,13 @@ featured_engine_name: OS 61 SF
 
 
 
+
 > I have had people tell me that the future of power for RC airplanes lies with electric motors or gasoline engines. But I find that two stroke nitro engines are still a very effecient, reliable, and inexpensive way to fly medium sized planes. A sport flyer would be remiss not to consider two stroke nitro engines for power. Listed here are a number of preowned new and used options that might interest you.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
 ASP               | 46    | 7      | $50   | 3     |                                          
-CS                | 46    | 10     | $60   | 4     |
-Evolution         | 45    | 6      | $40   | 24    |            
+CS                | 46    | 10     | $60   | 4     |            
 Evolution         | 46    | 8      | $60   | 97    |
 Evolytion         | 46    | 7      | $60   | 166   | It humms!                                     
 Evolution NT      | 61    | 10     | $90   | 96    |
@@ -48,11 +48,13 @@ Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once.
 Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and OS carb.                                       
 OS Max AX         | 55    | 8      | $120  | 58    |                               
-OS Max FP         | 40    | 7      | $40   | 9     |                                       
+OS Max FP         | 40    | 7      | $40   | 9     |
+OS Max FX         | 25    | 7      | $50   | 51    |                                 
 OS Max FX         | 40    | 8      | $55   | 56    |
 OS Max FX         | 40    | 7      | $45   | 45    |
 OS Max FX         | 46    | 7      | $60   | 54    | Idles at 1,700 wow! 
-OS Max FX         | 46    | 7      | $60   | 46    |                                    
+OS Max FX         | 46    | 7      | $60   | 46    |
+OS Max FX         | 46    | 7      | $60   | 44    |                                  
 OS Max FX         | 46    | 10     | $90   | 41    |
 OS Max FX         | 61    | 7      | $90   | 102   |
 OS Max FX         | 61    | 7      | $80   | 139   |                                
@@ -64,9 +66,9 @@ RJL (Kraft)       | 61    | 10     | $120  | 117   |
 SK                | 50    | 7      | $60   | 7     |                                                
 SK                | 80    | 8      | $80   | 220   |
 Super Tiger       | 51    | 7      | $65   | 194   |                                       
-Super Tiger       | 90    | 8      | $95   | 94    |                                 
+Super Tiger       | 90    | 8      | $95   | 94    |
+Super Tiger       | 90    | 8      | $100  | 91    |                               
 Thunder Tiger Pro | 46    | 8      | $70   | 151   |
-Thunder Tiger Pro | 46    | 9      | $80   | 38    | New with rebuilt carb.
 Thunder Tiger Pro | 46    | 8      | $75   | 40    |                            
 Thunder Tiger Pro | 61    | 9      | $100  | 99    |
 Thunder Tiger Pro | 61    | 8      | $95   | 140   |                           
