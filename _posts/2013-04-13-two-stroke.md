@@ -28,14 +28,16 @@ featured_engine_name: OS 61 SF
 
 
 
+
 > I have had people tell me that the future of power for RC airplanes lies with electric motors or gasoline engines. But I find that two stroke nitro engines are still a very effecient, reliable, and inexpensive way to fly medium sized planes. A sport flyer would be remiss not to consider two stroke nitro engines for power. Listed here are a number of preowned new and used options that might interest you.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
 ASP               | 46    | 7      | $50   | 3     |                                          
-CS                | 46    | 10     | $60   | 4     |            
-Evolution         | 46    | 8      | $60   | 97    |
-Evolytion         | 46    | 7      | $60   | 166   | It humms!                                     
+CS                | 46    | 10     | $60   | 4     |
+Enya              | 29    | 10     | $55   | 8     |                                             
+Evolytion         | 46    | 7      | $60   | 166   | It humms! 
+Evolution         | 46    | 8      | $60   | 97                                  
 Evolution NT      | 61    | 10     | $90   | 96    |
 Evolution NT      | 61    | 10     | $95   | 92    | 
 Evolution         | 61    | 7      | $70   | 95    |           
@@ -43,24 +45,23 @@ HB                | 61    | 10     | $85   | 13    |
 HP Gold Cup       | 61    | 7      | $70   | 223   |
 Magnum GP         | 25    | 10     | $40   | 10    | no box                                       
 Magnum GP         | 40    | 10     | $50   | 11    |
-Magnum GP         | 44    | 10     | $55   | 52    |
 Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once.                                  
 Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and OS carb.                                       
 OS Max AX         | 55    | 8      | $120  | 58    |                               
-OS Max FP         | 40    | 7      | $40   | 9     |
 OS Max FX         | 25    | 7      | $50   | 51    |                                 
 OS Max FX         | 40    | 8      | $55   | 56    |
 OS Max FX         | 40    | 7      | $45   | 45    |
-OS Max FX         | 46    | 7      | $60   | 54    | Idles at 1,700 wow! 
 OS Max FX         | 46    | 7      | $60   | 46    |
 OS Max FX         | 46    | 7      | $60   | 44    |                                  
 OS Max FX         | 46    | 10     | $90   | 41    |
+OS Max FX         | 61    | 10     | $140  | 103   | Engine new but no box. Has a Bissen pitts style muffler.
 OS Max FX         | 61    | 7      | $90   | 102   |
-OS Max FX         | 61    | 7      | $80   | 139   |                                
-OS Max FX         | 61    | 10     | $140  | 103   | Engine new but no box. Has a Bissen pitts stlyle muffler.
-OS Max LA         | 40    | 7      | $45   | 55    |                                        
-OS Max SF         | 61    | 7      | $100  | 131   |
+OS Max FX         | 61    | 7      | $80   | 139   |
+OS Max LA         | 25    | 8      | $45   | 53    |                                     
+OS Max LA         | 40    | 7      | $45   | 55    |
+OS Max SF         | 61    | 8      | $110  | 104   | Impressive engine!
+OS Max SF         | 61    | 7      | $100  | 131   | 
 OS Max SF         | 61    | 9      | $130  | 106   | Best 60 size engine in my inventory!                                      
 RJL (Kraft)       | 61    | 10     | $120  | 117   |
 SK                | 50    | 7      | $60   | 7     |                                                
@@ -70,8 +71,8 @@ Super Tiger       | 90    | 8      | $95   | 94    |
 Super Tiger       | 90    | 8      | $100  | 91    |                               
 Thunder Tiger Pro | 46    | 8      | $70   | 151   |
 Thunder Tiger Pro | 46    | 8      | $75   | 40    |                            
-Thunder Tiger Pro | 61    | 9      | $100  | 99    |
-Thunder Tiger Pro | 61    | 8      | $95   | 140   |                           
+Thunder Tiger Pro | 61    | 8      | $95   | 140   |
+Thunder Tiger Pro | 61    | 9      | $100  | 99    |                       
 Tiger Shark       | 60    | 8      | $70   | 221   |                                         
 Tower             | 46    | 7      | $60   | 43    |                                         
 Webra             | 61    | 7      | $65   | 12    | Light weight 60. A fovorite of the 1970's
