@@ -31,6 +31,7 @@ featured_engine_name: OS 61 SF
 
 
 
+
 > I have had people tell me that the future of power for RC airplanes lies with electric motors or gasoline engines. But I find that two stroke nitro engines are still a very effecient, reliable, and inexpensive way to fly medium sized planes. A sport flyer would be remiss not to consider two stroke nitro engines for power. Listed here are a number of preowned new and used options that might interest you.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -49,7 +50,8 @@ Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once.                                  
 Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 52    | 10     | $85   | 70    |                                 
-Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and OS carb.                                       
+Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and OS carb. 
+MDS               | 40    | 6      | $35   | JP4   |                                           
 OS Max AX         | 55    | 8      | $120  | 58    |                               
 OS Max FX         | 25    | 7      | $50   | 51    |                                 
 OS Max FX         | 40    | 8      | $55   | 56    |
