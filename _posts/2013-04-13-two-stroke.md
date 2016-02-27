@@ -32,11 +32,12 @@ featured_engine_name: OS 61 SF
 
 
 
+
 > I have had people tell me that the future of power for RC airplanes lies with electric motors or gasoline engines. But I find that two stroke nitro engines are still a very effecient, reliable, and inexpensive way to fly medium sized planes. A sport flyer would be remiss not to consider two stroke nitro engines for power. Listed here are a number of preowned new and used options that might interest you.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
-------------------|-------|--------|-------|-------|---------------------
-ASP               | 46    | 7      | $50   | 3     |                                          
+------------------|-------|--------|-------|-------|--------------------
+ASP               | 46    | 7      | $50   | 3     |               
 CS                | 46    | 10     | $60   | 4     |
 Enya              | 29    | 10     | $55   | 8     |                                             
 Evolution         | 46    | 8      | $60   | 97    |
@@ -55,7 +56,6 @@ MDS               | 40    | 6      | $35   | JP4   |
 OS Max AX         | 55    | 8      | $120  | 58    |                               
 OS Max FX         | 25    | 7      | $50   | 51    |                                 
 OS Max FX         | 40    | 8      | $55   | 56    |
-OS Max FX         | 46    | 10     | $90   | 98    |
 OS Max FX         | 61    | 7      | $80   | 139   |
 OS Max LA         | 25    | 8      | $45   | 53    |                                     
 OS Max LA         | 40    | 7      | $45   | 55    |
