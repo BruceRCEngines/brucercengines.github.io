@@ -16,6 +16,7 @@ featured_engine_name: Saito 125a
 
 
 
+
 > Four stroke engines tickle the fancy of many of us because they are simply "neat." Their sound stirs the imagination, and they carry the airplane around the sky in a more realistic fashon.  But they are expensive.  A lot of money can be saved by buying used RC engines, if you can find a dependable used engine. I try to make all of my used engines relaible through repair, testing, and rating so you will know what you are getting before you buy.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -29,9 +30,7 @@ OS Surpass        | 26    | 9      | $135  | 17    |
 OS Surpass        | 26    | 8      | $130  | 166   |                                  
 OS Surpass        | 40    | 7      | $105  | 21    |  
 OS Surpass        | 48    | 7      | $115  | 15    |  
-OS Surpass II     | 52    | 8      | $135  | 163   |
 OS Surpass        | 70    | 9      | $180  | 191   |                                  
-OS Surpass        | 70    | 10     | $200  | 189   |
 OS Surpass        | 70    | 10     | $200  | 2     |
 OS Surpass        | 70    | 10     | $200  | 201   |                                        
 OS Surpass II     | 70    | 10     | $200  | 114   |                          
@@ -46,19 +45,19 @@ OS Surpass        | 91    | 9      | $200  | 170   | Light shelf petina
 OS Surpass        | 91    | 8      | $185  | 148   |
 OS Surpass II     | 91    | 7      | $180  | 146   |                       
 OS Surpass II     | 91    | 8      | $200  | 243   |
-OS Surpass II     | 91    | 8      | $190  | 86    |
+OS Surpass II     | 91    | 8      | $200  | 86    |
 OS Surpass        | 120   | 8      | $200  | 180   |                               
 OS Surpass        | 120   | 7      | $195  | 181   | Pumped version
 OS Surpass        | 120   | 8      | $220  | 179   | Pumped Version                                     
-Saito             | 45    | 7      | $95   | 164   | Box excellent
+Saito             | 45    | 6      | $80   | 34    | 
 Saito             | 72    | 8      | $180  | 162   |                                            
 Saito             | 72    | 10     | $200  | 160   |                                     
 Saito             | 91    | 8      | $180  | 158   |                                                    
 Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes
 Saito             | 120   | 7      | $180  | 84    | Top painted black
-Saito             | 125a  | 10     | $250  | 88    |                             
-Thunder Tiger     | 91    | 10     | $190  | 71    |                                 
-YS FZ             | 53    | 8      | $150  | 184   |                                 
+Saito             | 120   | 8      | $225  | 107   | Aluminum Mt. included    
+Thunder Tiger     | 91    | 10     | $190  | 71    |
+YS FZ             | 53    | 6      | $130  | 183   |                                 
 YS AC             | 91    | 7      | $180  | 239   |
 YS FZ             | 110   | 8      | $210  | 234   | New bearings and ring.                                    
 YS SF             | 120   | 7      | $195  | 245   |                                       
