@@ -73,7 +73,7 @@ YS FS             | 120   | 7      | $210  | 247   | Adjustable 45 degree header
 YS FS             | 120   | 8      | $200  | 235   |
 YS FS             | 120   | 8      | $225  | 251   | Bulb muffler.  Fantastic performance.
 YS FS             | 120   | 10     | $240  | 242   | Boxed scuffed.
-Ys NC             | 120   | 10     | $250  | 240   |   
+Ys NC             | 120   | 10     | $250  | 248   |   
 YS Sport          | 140   | 8      | $290  | 213   | Wrap around muffler with smoke capabilities.
 YS Sport          | 140   | 6      | $245  | 214   |                                        
 {: .table .table-bordered .table-condensed .table-hover .footable}
