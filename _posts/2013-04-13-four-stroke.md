@@ -59,7 +59,7 @@ Saito             | 80    | 9      | $200  | 119   |
 Saito             | 80    | 9      | $200  | 120   |
 Saito             | 91    | 8      | $180  | 158   |                                                    
 Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes
-Saito             | 100   | 9      | $230  | 214   |
+Saito             | 100   | 9      | $230  | 212   |
 Saito             | 100   | 9      | $230  | 157   | Used muffler 
 Saito             | 120   | 7      | $180  | 84    | Top painted black
 Saito             | 120   | 8      | $225  | 107   | Aluminum Mt. included    
@@ -72,7 +72,7 @@ YS SF             | 120   | 8      | $205  | 246   |
 YS SF             | 120   | 8      | $180  | 233   | Discount for darkened color                                         
 YS FS             | 120   | 7      | $210  | 247   | Adjustable 45 degree header and muffler 
 YS FS             | 120   | 8      | $200  | 235   |
-YS FS             | 120   | 8      | $225  | 251   | Bulb muffler.  Fantastic performance.
+YS FS             | 120   | 8      | $225  | 238   | Bulb muffler.  Fantastic performance.
 YS FS             | 120   | 10     | $240  | 242   | Boxed scuffed.
 Ys NC             | 120   | 10     | $250  | 248   |   
 YS Sport          | 140   | 8      | $290  | 213   | Wrap around muffler with smoke capabilities.
