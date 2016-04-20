@@ -29,7 +29,6 @@ Enya              | 80    | 7      | $150  | 62    |
 Magnum XL         | 30    | 10     | $130  | 22    | Cute!
 Magnum XL         | 30    | 10     | $130  | 23    | Also cute                                
 Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
-Magnum XL         | 91    | 10     | $140  | 231   |
 OS Surpass        | 26    | 9      | $135  | 17    |
 OS Surpass        | 26    | 8      | $130  | 166   |                                  
 OS Surpass        | 40    | 7      | $105  | 21    |  
@@ -44,8 +43,7 @@ OS Surpass        | 91    | 9      | $200  | 190   |
 OS Surpass        | 91    | 10     | $230  | 172   |                                
 OS Surpass        | 91    | 10     | $220  | 31    |
 OS Surpass        | 91    | 10     | $220  | 5     |
-OS Surpass        | 91    | 10     | $230  | 65    | Box in excellent condition.                                
-OS Surpass        | 91    | 9      | $200  | 170   | Light shelf petina    
+OS Surpass        | 91    | 10     | $230  | 65    | Box in excellent condition.                                    
 OS Surpass        | 91    | 8      | $185  | 148   |
 OS Surpass II     | 91    | 7      | $180  | 146   |                       
 OS Surpass II     | 91    | 8      | $200  | 86    |
@@ -61,8 +59,7 @@ Saito             | 91    | 8      | $180  | 158   |
 Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes
 Saito             | 100   | 9      | $230  | 212   |
 Saito             | 100   | 9      | $230  | 157   | Used muffler 
-Saito             | 120   | 7      | $180  | 84    | Top painted black
-Saito             | 120   | 8      | $225  | 107   | Aluminum Mt. included    
+Saito             | 120   | 7      | $180  | 84    | Top painted black    
 Thunder Tiger     | 91    | 10     | $175  | 71    |
 YS FZ             | 53    | 6      | $130  | 183   |                                 
 YS AC             | 91    | 7      | $180  | 239   |
@@ -74,7 +71,8 @@ YS FS             | 120   | 7      | $210  | 247   | Adjustable 45 degree header
 YS FS             | 120   | 8      | $200  | 235   |
 YS FS             | 120   | 8      | $225  | 238   | Bulb muffler.  Fantastic performance.
 YS FS             | 120   | 10     | $240  | 242   | Boxed scuffed.
-Ys NC             | 120   | 10     | $250  | 248   |   
+Ys NC             | 120   | 10     | $250  | 248   |
+YS NC             | 120   | 10     | $250  | 249   |   
 YS Sport          | 140   | 8      | $290  | 213   | Wrap around muffler with smoke capabilities.
 YS Sport          | 140   | 6      | $245  | 214   |                                        
 {: .table .table-bordered .table-condensed .table-hover .footable}
