@@ -45,9 +45,9 @@ Evolution         | 46    | 8      | $60   | 97    |
 Evolution NT      | 61    | 10     | $95   | 96    |
 Evolution NT      | 61    | 10     | $95   | 92    | 
 Evolution NT      | 61    | 10     | $95   | 90    |
-K & B             | 61    | 7      | $45   | 59    | Muffler is patched, but engine is great!
 HB                | 25    |  8     | $40   | 1     |       
 HB                | 61    | 10     | $85   | 13    |
+K & B             | 61    | 7      | $45   | 59    | Muffler is patched, but engine is great!
 Magnum GP         | 25    | 10     | $40   | 10    | no box                                       
 Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once.                                  
@@ -57,6 +57,7 @@ Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and 
 MDS               | 40    | 5      | $30   | JP4   |                                                                          
 OS Max FX         | 25    | 7      | $50   | 51    |                                 
 OS Max FX         | 40    | 8      | $55   | 56    |
+OS Max FX         | 46    | 10     | $95   | 57
 OS Max FX         | 46    | 7      | $60   | 52    |
 OS Max LA         | 25    | 8      | $45   | 53    |                                     
 OS Max LA         | 40    | 7      | $45   | 55    |
@@ -68,9 +69,7 @@ SK                | 80    | 8      | $80   | 220   |
 Super Tiger       | 45    | 7      | $65   | 195   | Made in Italy
 Super Tiger       | 51    | 7      | $65   | 194   |
 Super Tiger       | 75    | 10     | $100  | 108   |                                 
-Super Tiger       | 90    | 8      | $95   | 94    |
 Super Tiger       | 90    | 8      | $100  | 91    |                               
-Thunder Tiger Pro | 46    | 8      | $70   | 151   |
 Thunder Tiger Pro | 46    | 8      | $75   | 40    |
 Thunder Tiger Pro | 61    | 7      | $80   | 80    |  Scratches on the thrust washer   
 Thunder Tiger Pro | 61    | 8      | $90   | 140   |
