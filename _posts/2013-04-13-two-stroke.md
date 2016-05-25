@@ -53,7 +53,8 @@ Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once.                                  
 Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 52    | 10     | $85   | 70    |                                 
-Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and OS carb. 
+Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and OS carb.
+OS Max AX         | 46    | 10     | $100  | 60    | 
 MDS               | 40    | 5      | $30   | JP4   |                                                                          
 OS Max FX         | 25    | 7      | $50   | 51    |                                 
 OS Max FX         | 40    | 8      | $55   | 56    |
@@ -63,7 +64,8 @@ OS Max LA         | 25    | 8      | $45   | 53    |
 OS Max LA         | 40    | 7      | $45   | 55    |
 OS Max SF         | 61    | 8      | $110  | 104   | Impressive engine!
 OS Max SF         | 61    | 7      | $100  | 131   |
-OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!  
+OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
+RJL (Kraft)       | 61    | 7      | $100  | 70    | Very responsive
 SK                | 50    | 7      | $60   | 7     |                                                
 SK                | 80    | 8      | $80   | 220   |
 Super Tiger       | 45    | 7      | $65   | 195   | Made in Italy
@@ -74,7 +76,6 @@ Thunder Tiger Pro | 46    | 8      | $75   | 40    |
 Thunder Tiger Pro | 61    | 7      | $80   | 80    |  Scratches on the thrust washer   
 Thunder Tiger Pro | 61    | 8      | $90   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 99    |                       
-Tiger Shark       | 60    | 8      | $70   | 221   |                                         
-Tower             | 46    | 7      | $60   | 43    |                                         
+Tiger Shark       | 60    | 8      | $70   | 221   |                                                                                  
 {: .table .table-bordered .table-condensed .table-hover .footable}
 {: .table .table-bordered .table-condensed .table-hover .footable}
