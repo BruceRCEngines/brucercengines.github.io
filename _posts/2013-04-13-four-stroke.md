@@ -3,7 +3,8 @@ published: true
 title: Four Stroke
 permalink: /four_stroke.html
 layout: engine_listings
-featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/4-stroke.jpg"
+featured_engine_photo_url: >-
+  https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/4-stroke.jpg
 featured_engine_name: Saito 125a
 ---
 
@@ -32,7 +33,8 @@ Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
 OS Surpass        | 26    | 9      | $135  | 17    |
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 26    | 10     | $150  | 18    | 
-OS Surpass        | 40    | 7      | $105  | 21    |  
+OS Surpass        | 40    | 7      | $105  | 21    |
+OS Surpass        | 40    | 7      | $95   | 20    |
 OS Surpass        | 48    | 7      | $115  | 15    |  
 OS Surpass        | 70    | 6      | $150  | 196   |                                  
 OS Surpass        | 70    | 10     | $200  | 2     |
@@ -53,10 +55,10 @@ OS Surpass        | 120   | 7      | $175  | 182   |
 OS Surpass        | 120   | 8      | $200  | 180   |                               
 OS Surpass        | 120   | 7      | $195  | 181   | Pumped version
 OS Surpass        | 120   | 8      | $220  | 179   | Pumped Version                                     
-Saito             | 45    | 6      | $80   | 34    |
 Saito             | 62    | 7      | $155  | 118   | 
 Saito             | 65    | 7      | $155  | 116   |
 Saito             | 65    | 7      | $155  | 115   |
+Saito             | 65    | 7      | $150  | 113   |
 Saito             | 72    | 7      | $170  | 167   |
 Saito             | 72    | 7      | $170  | 168   |
 Saito             | 72    | 7      | $170  | 169   |
@@ -67,6 +69,7 @@ Saito Gold Knight | 80    | 7      | $165  | 121   | Paint chipped
 Saito             | 80    | 9      | $200  | 119   |
 Saito             | 80    | 9      | $200  | 120   |
 Saito             | 91    | 8      | $180  | 158   |                                                    
+Saito             | 91    | 8      | $185  | 154   |  
 Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes
 Saito             | 100   | 9      | $230  | 212   |
 Saito             | 100   | 9      | $230  | 157   | Used muffler 
