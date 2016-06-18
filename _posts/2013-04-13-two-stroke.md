@@ -3,7 +3,8 @@ published: true
 title: Two Stroke
 permalink: /two_stroke.html
 layout: engine_listings
-featured_engine_photo_url: "https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/2-stroke.jpg"
+featured_engine_photo_url: >-
+  https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/2-stroke.jpg
 featured_engine_name: OS 61 SF
 ---
 
@@ -51,13 +52,14 @@ K & B             | 61    | 7      | $45   | 59    | Muffler is patched, but eng
 Magnum GP         | 25    | 10     | $40   | 10    | no box                                       
 Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once.                                  
+Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines. 
+Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 52    | 10     | $85   | 70    |                                 
-Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and OS carb.
-OS Max AX         | 46    | 10     | $100  | 60    | 
+Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and OS carb. 
 MDS               | 40    | 5      | $30   | JP4   |                                                                          
+OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat.
 OS Max FX         | 25    | 7      | $50   | 51    |                                 
-OS Max FX         | 40    | 8      | $55   | 56    |
 OS Max FX         | 46    | 10     | $95   | 57
 OS Max FX         | 46    | 7      | $60   | 52    |
 OS Max LA         | 25    | 8      | $45   | 53    |                                     
@@ -77,5 +79,7 @@ Thunder Tiger Pro | 61    | 7      | $80   | 80    |  Scratches on the thrust wa
 Thunder Tiger Pro | 61    | 8      | $90   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 99    |                       
 Tiger Shark       | 60    | 8      | $70   | 221   |                                                                                  
+Webra             | 61    | 7      | $70   | 79    |
+Webra             | 120   | 7      | $140  | 89    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
 {: .table .table-bordered .table-condensed .table-hover .footable}
