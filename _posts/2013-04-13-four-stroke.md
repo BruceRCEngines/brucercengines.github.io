@@ -81,13 +81,13 @@ YS AC             | 91    | 7      | $180  | 239   |
 YS FZ             | 110   | 8      | $210  | 234   | New bearings and ring.                                    
 YS SF             | 120   | 7      | $195  | 245   |                                       
 YS SF             | 120   | 8      | $205  | 246   |
-YS SF             | 120   | 8      | $180  | 233   | Discount for darkened color                                         
+YS SF             | 120   | 8      | $180  | 233   | 90 degree header and muffler. Discount for darkened color                                         
 YS FS             | 120   | 7      | $210  | 247   | Adjustable 45 degree header and muffler 
 YS FS             | 120   | 8      | $200  | 235   |
 YS FS             | 120   | 8      | $225  | 238   | Bulb muffler.  Fantastic performance.
 YS FS             | 120   | 10     | $240  | 242   | Box scuffed
 YS FZ             | 120   | 8      | $210  | 236   |
-YS NC             | 120   | 7      | $210  | 237   | 90 degree header and muffler
+YS NC             | 120   | 7      | $210  | 237   |
 Ys NC             | 120   | 10     | $250  | 248   |
 YS NC             | 120   | 10     | $250  | 244   |   
 YS Sport          | 140   | 8      | $290  | 213   | Wrap around muffler with smoke capabilities.
