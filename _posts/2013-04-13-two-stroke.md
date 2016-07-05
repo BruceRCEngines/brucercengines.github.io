@@ -41,7 +41,8 @@ featured_engine_name: OS 61 SF
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|--------------------               
 CS                | 46    | 10     | $60   | 4     |
-Enya              | 29    | 10     | $55   | 8     |                                             
+Enya              | 25    | 10     | $55   | 9     |
+Enya              | 29    | 10     | $55   | 8     |
 Evolution         | 46    | 8      | $60   | 97    |
 Evolution NT      | 61    | 10     | $95   | 96    |
 Evolution NT      | 61    | 10     | $95   | 92    | 
@@ -49,14 +50,11 @@ Evolution NT      | 61    | 10     | $95   | 90    |
 HB                | 25    |  8     | $40   | 1     |       
 HB                | 61    | 10     | $85   | 13    |
 K & B             | 61    | 7      | $45   | 59    | Muffler is patched, but engine is great!
-Magnum GP         | 25    | 10     | $40   | 10    | no box                                       
-Magnum GP         | 40    | 10     | $50   | 11    |
 Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once.                                  
 Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines. 
 Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 Magnum XL         | 46    | 10     | $65   | 50    |
-Magnum XL         | 52    | 10     | $85   | 61    |                                 
-Magnum XL         | 61    | 9      | $80   | 93    | Used Evolution muffler and OS carb. 
+Magnum XL         | 52    | 10     | $85   | 61    |                                  
 MDS               | 40    | 5      | $30   | JP4   |                                                                          
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat.
 OS Max FX         | 25    | 7      | $50   | 51    |                                 
@@ -67,7 +65,6 @@ OS Max LA         | 40    | 7      | $45   | 55    |
 OS Max SF         | 61    | 8      | $110  | 104   | Impressive engine!
 OS Max SF         | 61    | 7      | $100  | 131   |
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
-RJL (Kraft)       | 61    | 7      | $100  | 70    | Very responsive
 SK                | 50    | 7      | $60   | 7     |                                                
 SK                | 80    | 8      | $80   | 220   |
 Super Tiger       | 45    | 7      | $65   | 195   | Made in Italy
