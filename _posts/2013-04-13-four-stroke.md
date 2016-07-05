@@ -32,10 +32,9 @@ Magnum XL         | 30    | 10     | $130  | 23    | Also cute
 Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
 OS Surpass        | 26    | 9      | $135  | 17    |
 OS Surpass        | 26    | 8      | $130  | 166   |
-OS Surpass        | 26    | 10     | $150  | 18    | 
-OS Surpass        | 40    | 7      | $105  | 21    |
-OS Surpass        | 40    | 7      | $95   | 20    |
-OS Surpass        | 48    | 7      | $115  | 15    |  
+OS Surpass        | 26    | 10     | $150  | 18    |
+OS surpass        | 40    | 7      | $95   | 20    |  
+OS Surpass        | 40    | 7      | $105  | 21    |  
 OS Surpass        | 70    | 6      | $150  | 196   |                                  
 OS Surpass        | 70    | 10     | $200  | 2     |
 OS Surpass        | 70    | 10     | $200  | 201   |
@@ -47,8 +46,7 @@ OS Surpass        | 91    | 10     | $230  | 172   |
 OS Surpass        | 91    | 10     | $220  | 31    |
 OS Surpass        | 91    | 10     | $220  | 5     |
 OS Surpass        | 91    | 10     | $230  | 65    | Box in excellent condition.                                    
-OS Surpass        | 91    | 8      | $185  | 148   |
-OS Surpass II     | 91    | 7      | $180  | 146   |                       
+OS Surpass        | 91    | 8      | $185  | 148   |                       
 OS Surpass II     | 91    | 8      | $200  | 86    |
 OS Surpass II     | 91    | 6      | $160  | 147   |
 OS Surpass        | 120   | 7      | $175  | 182   |   
@@ -78,15 +76,12 @@ Thunder Tiger     | 91    | 10     | $175  | 71    |
 YS FZ             | 53    | 7      | $155  | 155   |
 YS FZ             | 53    | 8      | $165  | 156   |
 YS AC             | 91    | 7      | $180  | 239   |
-YS FZ             | 110   | 8      | $210  | 234   | New bearings and ring.                                    
 YS SF             | 120   | 7      | $195  | 245   |                                       
 YS SF             | 120   | 8      | $205  | 246   |
 YS SF             | 120   | 8      | $180  | 233   | 90 degree header with muffler. Discount for darkened color                                         
 YS FS             | 120   | 7      | $210  | 247   | Adjustable exhaust pipe with muffler 
-YS FS             | 120   | 8      | $200  | 235   |
 YS FS             | 120   | 8      | $225  | 238   | Fantastic performance.
 YS FS             | 120   | 10     | $240  | 242   | Box scuffed
-YS FZ             | 120   | 8      | $210  | 236   |
 YS NC             | 120   | 7      | $210  | 237   |
 Ys NC             | 120   | 10     | $250  | 248   | Bulb muffler
 YS NC             | 120   | 10     | $250  | 244   |   
