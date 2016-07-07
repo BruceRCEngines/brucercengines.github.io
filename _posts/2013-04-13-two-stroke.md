@@ -58,7 +58,6 @@ Magnum XL         | 52    | 10     | $85   | 61    |
 MDS               | 40    | 5      | $30   | JP4   |                                                                          
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat.
 OS Max FX         | 25    | 7      | $50   | 51    |                                 
-OS Max FX         | 46    | 10     | $95   | 57
 OS Max FX         | 46    | 7      | $60   | 52    |
 OS Max LA         | 25    | 8      | $45   | 53    |                                     
 OS Max LA         | 40    | 7      | $45   | 55    |
