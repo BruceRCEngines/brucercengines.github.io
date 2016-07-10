@@ -65,7 +65,7 @@ OS Max LA         | 40    | 7      | $45   | 55    |
 OS Max SF         | 61    | 8      | $110  | 104   | Impressive engine!
 OS Max SF         | 61    | 7      | $100  | 131   |
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
-RJL               | 61    | 7      | $95   | 61    |   
+RJL               | 61    | 7      | $95   | 70    |   
 SK                | 50    | 7      | $60   | 7     |                                                
 SK                | 80    | 8      | $80   | 220   |
 Super Tiger       | 45    | 7      | $65   | 195   | Made in Italy
