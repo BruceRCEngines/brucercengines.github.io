@@ -55,7 +55,7 @@ Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61
 Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 52    | 10     | $85   | 61    |
-Magnum XL         | 61    | 9      | $80   | 93    |
+Magnum XL         | 61    | 9      | $80   | 93    | Evolution muffler and OS carb.  runs exceptionally well
 MDS               | 40    | 5      | $30   | JP4   |                                                                          
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat.
 OS Max FX         | 25    | 7      | $50   | 51    |                                 
