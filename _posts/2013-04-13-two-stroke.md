@@ -58,25 +58,27 @@ Magnum XL         | 52    | 10     | $85   | 61    |
 Magnum XL         | 61    | 9      | $80   | 93    | Evolution muffler and OS carb.  runs exceptionally well
 MDS               | 40    | 5      | $30   | JP4   |                                                                          
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat.
-OS Max FX         | 25    | 7      | $50   | 51    |                                 
+OS Max FX         | 25    | 7      | $50   | 51    |
+OS Max FX         | 25    | 9      | $70   | 64    |
+OS Max FX         | 46    | 6      | $50   | 63    | 
 OS Max FX         | 46    | 7      | $60   | 52    |
+OS Max FX         | 46    | 8      | $70   | 66    |
+OS Max FX         | 61    | 7      | $100  | 82    | Parts of 3 fins broken; it runs like a fine machine.
 OS Max LA         | 25    | 8      | $45   | 53    |                                     
 OS Max LA         | 40    | 7      | $45   | 55    |
 OS Max SF         | 61    | 8      | $110  | 104   | Impressive engine!
 OS Max SF         | 61    | 7      | $100  | 131   |
 OS Max SR         | 40    | 7      | $70   | 61    | New Ring 
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
-RJL               | 61    | 7      | $95   | 70    |   
-SK                | 50    | 7      | $60   | 7     |                                                
-SK                | 80    | 8      | $80   | 220   |
+RJL               | 61    | 7      | $95   | 70    |                                                   
 Super Tiger       | 45    | 7      | $65   | 195   | Made in Italy
 Super Tiger       | 51    | 7      | $65   | 194   |
 Super Tiger       | 75    | 10     | $100  | 108   |                                 
 Super Tiger       | 90    | 8      | $100  | 91    |                               
-Thunder Tiger Pro | 46    | 8      | $75   | 40    |
-Thunder Tiger Pro | 61    | 7      | $80   | 80    |  Scratches on the thrust washer   
+Thunder Tiger Pro | 46    | 8      | $75   | 40    |  
 Thunder Tiger Pro | 61    | 8      | $90   | 140   |
-Thunder Tiger Pro | 61    | 9      | $90   | 99    |                       
+Thunder Tiger Pro | 61    | 9      | $90   | 141
+*|                       
 Tiger Shark       | 60    | 8      | $70   | 221   |                                                                                  
 Webra             | 61    | 7      | $70   | 79    |
 Webra             | 120   | 7      | $140  | 89    |
