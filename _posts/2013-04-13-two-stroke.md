@@ -77,8 +77,7 @@ Super Tiger       | 75    | 10     | $100  | 108   |
 Super Tiger       | 90    | 8      | $100  | 91    |                               
 Thunder Tiger Pro | 46    | 8      | $75   | 40    |  
 Thunder Tiger Pro | 61    | 8      | $90   | 140   |
-Thunder Tiger Pro | 61    | 9      | $90   | 141
-*|                       
+Thunder Tiger Pro | 61    | 9      | $90   | 141   |                       
 Tiger Shark       | 60    | 8      | $70   | 221   |                                                                                  
 Webra             | 61    | 7      | $70   | 79    |
 Webra             | 120   | 7      | $140  | 89    |
