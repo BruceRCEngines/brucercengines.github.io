@@ -26,7 +26,6 @@ featured_engine_name: Saito 125a
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
-Enya              | 80    | 7      | $150  | 62    |
 Magnum XL         | 30    | 10     | $130  | 22    | Cute!
 Magnum XL         | 30    | 10     | $130  | 23    | Also cute                                
 Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
