@@ -38,21 +38,18 @@ OS Surpass        | 48    | 8      | $135  | 28    |
 OS Surpass        | 70    | 6      | $150  | 196   |                                  
 OS Surpass        | 70    | 10     | $200  | 2     |
 OS Surpass        | 70    | 10     | $200  | 201   |
-OS Surpass II     | 70    | 7      | $160  | 197   |
-OS Surpass II     | 70    | 10     | $200  | 114   |                                                            
+OS Surpass II     | 70    | 7      | $160  | 197   |                                                          
 OS Surpass        | 91    | 8      | $180  | 188   |
 OS Surpass        | 91    | 9      | $200  | 190   |
 OS Surpass        | 91    | 10     | $230  | 172   |                                
 OS Surpass        | 91    | 10     | $220  | 31    |
-OS Surpass        | 91    | 10     | $220  | 5     |
-OS Surpass        | 91    | 10     | $230  | 65    | Box in excellent condition.                                    
+OS Surpass        | 91    | 10     | $220  | 5     |                                   
 OS Surpass        | 91    | 8      | $185  | 148   |
 OS Surpass        | 91    | 6      | $150  | 183   |
 OS Surpass II     | 91    | 8      | $200  | 86    |
 OS Surpass II     | 91    | 6      | $160  | 147   |
 OS Surpass        | 120   | 7      | $175  | 182   |                                  
-OS Surpass        | 120   | 7      | $195  | 181   | Pumped version
-Sito              | 45    | 7      | $70   | 35    |Excellent compresson. Saito 30 muffler.
+OS Surpass        | 120   | 7      | $195  | 181   | Pumped version.
 Saito             | 62    | 7      | $155  | 118   | 
 Saito             | 65    | 7      | $155  | 116   |
 Saito             | 65    | 7      | $155  | 115   |
@@ -75,7 +72,6 @@ Saito             | 120   | 7      | $180  | 84    | Top painted black
 Saito             | 120S  | 8      | $200  | 87    |
 YS FZ             | 53    | 7      | $155  | 155   |
 YS FZ             | 53    | 8      | $165  | 156   |
-YS AC             | 91    | 7      | $180  | 239   |
 YS SF             | 120   | 7      | $195  | 245   |                                       
 YS SF             | 120   | 8      | $205  | 246   |
 YS SF             | 120   | 8      | $180  | 233   | 90 degree header with muffler. Discount for darkened color                                         
