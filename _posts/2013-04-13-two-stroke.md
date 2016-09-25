@@ -55,12 +55,14 @@ Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61
 Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 52    | 10     | $85   | 61    |
+Magnum XL         | 52    | 7      | $60   | 67    |
 Magnum XL         | 61    | 9      | $80   | 93    | Evolution muffler and OS carb.  runs exceptionally well
 MDS               | 40    | 5      | $30   | JP4   |                                                                          
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat.
 OS Max FX         | 25    | 7      | $50   | 51    |
 OS Max FX         | 46    | 6      | $50   | 63    | 
 OS Max FX         | 46    | 7      | $60   | 52    |
+OS Max FX         | 61    | 10     | $140  | 77    |
 OS Max FX         | 61    | 7      | $100  | 82    | Parts of 3 fins broken; it runs like a fine machine.
 OS Max LA         | 25    | 8      | $45   | 53    |                                     
 OS Max LA         | 40    | 7      | $45   | 55    |
@@ -75,5 +77,6 @@ Thunder Tiger Pro | 61    | 8      | $90   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 141   |                       
 Tiger Shark       | 60    | 8      | $70   | 221   |                                                                                  
 Webra             | 61    | 7      | $70   | 79    |
+We bra            | 61    | 7      | $65   | 78    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
 {: .table .table-bordered .table-condensed .table-hover .footable}
