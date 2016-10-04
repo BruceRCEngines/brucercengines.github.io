@@ -77,6 +77,6 @@ Thunder Tiger Pro | 61    | 8      | $90   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 141   |                       
 Tiger Shark       | 60    | 8      | $70   | 221   |                                                                                  
 Webra             | 61    | 7      | $70   | 79    |
-We bra            | 61    | 7      | $65   | 78    |
+Webra             | 61    | 7      | $65   | 78    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
 {: .table .table-bordered .table-condensed .table-hover .footable}
