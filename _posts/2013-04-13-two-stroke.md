@@ -71,8 +71,10 @@ OS Max SF         | 61    | 7      | $100  | 131   |
 OS Max SR         | 40    | 7      | $70   | 61    | New Ring 
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
 RJL               | 61    | 7      | $95   | 70    |                                                   
-Super Tiger       | 45    | 7      | $65   | 195   | Made in Italy                               
+Super Tiger       | 45    | 7      | $65   | 195   | Made in Italy 
+Super Tiger       | 75    | 7      | $75   | 107   | Made in Italy                         
 Thunder Tiger Pro | 46    | 8      | $75   | 40    |  
+Thunder Tiger Pro | 61    | 7      | $80   | 142   |
 Thunder Tiger Pro | 61    | 8      | $90   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 141   |                       
 Tiger Shark       | 60    | 8      | $70   | 221   |                                                                                  
