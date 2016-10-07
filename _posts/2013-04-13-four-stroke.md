@@ -36,6 +36,7 @@ OS Surpass        | 26    | 10     | $150  | 18    |
 OS Surpass        | 40    | 7      | $105  | 21    |
 OS Surpass        | 40    | 10     | $140  | 23    |
 OS Surpass        | 48    | 8      | $135  | 28    | 
+OS Surpass        | 52    | 8      | $140  | 25    |
 OS Surpass        | 70    | 6      | $150  | 196   |                                  
 OS Surpass        | 70    | 10     | $200  | 2     |
 OS Surpass        | 70    | 10     | $200  | 201   |
