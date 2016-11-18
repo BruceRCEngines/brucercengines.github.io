@@ -51,8 +51,6 @@ OS Surpass        | 91    | 10     | $220  | 5     |
 OS Surpass        | 91    | 6      | $150  | 183   |
 OS Surpass II     | 91    | 8      | $190  | 86    |
 OS Surpass II     | 91    | 6      | $160  | 147   |
-OS Surpass        | 120   | 7      | $175  | 182   |                                  
-OS Surpass        | 120   | 7      | $195  | 181   | Pumped version.
 Saito             | 65    | 7      | $155  | 116   |
 Saito             | 65    | 7      | $155  | 115   |
 Saito             | 72    | 7      | $170  | 168   |    
