@@ -61,11 +61,8 @@ Magnum XL         | 61    | 9      | $80   | 93    | Evolution muffler and OS ca
 MDS               | 40    | 5      | $30   | JP5   |                                                                          
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat.
 OS Max FX         | 61    | 10     | $140  | 77    |
-OS Max FX         | 61    | 7      | $100  | 82    | Parts of 3 fins broken; it runs like a fine machine.
 OS Max LA         | 25    | 8      | $45   | 53    |                                     
 OS Max LA         | 40    | 7      | $45   | 55    |
-OS Max SF         | 61    | 8      | $110  | 104   | Impressive engine!
-OS Max SF         | 61    | 7      | $100  | 131   |
 OS Max SR         | 40    | 7      | $60   | 61    | New Ring 
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
 RJL               | 61    | 7      | $95   | 70    |  
@@ -74,7 +71,7 @@ Super Tiger       | 45    | 7      | $65   | 195   | Made in Italy
 Super Tiger       | 75    | 7      | $75   | 107   | Made in Italy                         
 Thunder Tiger Pro | 61    | 8      | $90   | 140   |
 Thunder Tiger Pro | 61    | 9      | $95   | 71    |                                                                                                        
-Webra Speed       | 61    | 7      | $70   | 79    |
+Webra Speed       | 61    | 7      | $70   | 79    |j
 Webra             | 61    | 7      | $65   | 78    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
 {: .table .table-bordered .table-condensed .table-hover .footable}
