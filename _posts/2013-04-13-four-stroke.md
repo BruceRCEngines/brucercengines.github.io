@@ -74,8 +74,8 @@ YS FZ             | 53    | 7      | $155  | 155   |
 YS FZ             | 53    | 8      | $165  | 156   |
 YS SF             | 120   | 7      | $195  | 245   |                                       
 YS SF             | 120   | 8      | $205  | 246   |
-YS SF             | 120   | 8      | $180  | 233   | 90 degree header with muffler. Discount for darkened color                                         
-YS FS             | 120   | 7      | $210  | 247   | Adjustable exhaust pipe with muffler 
+YS SF             | 120   | 8      | $200  | 233   |                                      
+YS FS             | 120   | 7      | $180  | 247   | 90 degree header with muffler. Discount for darkened color
 YS FS             | 120   | 10     | $240  | 242   | Box scuffed
 YS FS             | 120   | 8      | $225  | 251   |Equipped with the YS bulb shapped muffler
 YS NC             | 120   | 7      | $210  | 237   | 90 header plus a muffler
