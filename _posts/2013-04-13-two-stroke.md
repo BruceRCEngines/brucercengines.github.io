@@ -60,9 +60,8 @@ Magnum XL         | 52    | 10     | $85   | 85    |
 Magnum XL         | 61    | 9      | $80   | 93    | Evolution muffler and OS carb.  runs exceptionally well
 MDS               | 40    | 5      | $30   | JP5   |                                                                          
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat.
-OS Max FX         | 61    | 10     | $140  | 77    |
-OS Max LA         | 25    | 8      | $45   | 53    |                                     
-OS Max LA         | 40    | 7      | $45   | 55    |
+OS Max FX         | 61    | 10     | $140  | 77    |                                   
+OS Max LA         | 25    | 8      | $45   | 55    |
 OS Max SR         | 40    | 7      | $60   | 61    | New Ring 
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
 RJL               | 61    | 7      | $95   | 70    |  
