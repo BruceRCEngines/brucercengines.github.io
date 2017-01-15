@@ -27,7 +27,8 @@ featured_engine_name: Saito 125a
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
 Magnum XL         | 30    | 10     | $130  | 22    | Cute!
-Magnum XL         | 30    | 10     | $130  | 23    | Also cute                                
+Magnum XL         | 30    | 10     | $130  | 23    | Also cute   
+Magnum XL         | 52    | 10     | $140  | 30    | 
 Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
 OS Surpass        | 26    | 9      | $135  | 17    |
 OS Surpass        | 26    | 8      | $130  | 166   |
@@ -37,7 +38,8 @@ OS Surpass        | 40    | 10     | $140  | 33    |
 OS Surpass        | 48    | 8      | $135  | 28    | 
 OS Surpass        | 52    | 7      | $130  | 26    |
 OS Surpass        | 52    | 8      | $140  | 25    |
-OS Surpass        | 70    | 6      | $150  | 196   |                                  
+OS Surpass        | 70    | 6      | $150  | 196   | 
+OS Surpass        | 70    | 7      | $170  | 198   |
 OS Surpass        | 70    | 10     | $200  | 2     |
 OS Surpass        | 70    | 10     | $200  | 201   |
 OS Surpass II     | 70    | 7      | $150  | 197   |
@@ -45,12 +47,11 @@ OS Surpass II     | 70    | 7      | $160  | 193   |
 OS Surpass        | 91    | 7      | $170  | 141   |                                                       
 OS Surpass        | 91    | 8      | $180  | 188   |
 OS Surpass        | 91    | 9      | $200  | 190   |
-OS Surpass        | 91    | 10     | $230  | 172   |                                
-OS Surpass        | 91    | 10     | $220  | 31    |
-OS Surpass        | 91    | 10     | $220  | 5     |                                   
+OS Surpass        | 91    | 10     | $230  | 172   |                                                                 
 OS Surpass        | 91    | 6      | $150  | 183   |
 OS Surpass II     | 91    | 8      | $190  | 86    |
-OS Surpass II     | 91    | 6      | $160  | 147   |
+OS Surpass II     | 91    | 6      | $150  | 147   |
+OS Surpass        | 120   | 9      | $235  | 200   |
 Saito             | 65    | 7      | $155  | 116   |
 Saito             | 65    | 7      | $155  | 115   |
 Saito             | 72    | 7      | $170  | 168   |    
@@ -69,12 +70,12 @@ Saito             | 91    | 8      | $190  | 159   |
 Saito             | 91    | 8      | $185  | 154   | Muffler older than engine
 Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes
 Saito             | 100   | 9      | $230  | 157   | 
-Saito             | 120   | 7      | $180  | 84    | Top painted black    
+Saito             | 120   | 7      | $170  | 84    | Top painted black    
 YS FZ             | 53    | 7      | $155  | 155   |
 YS FZ             | 53    | 8      | $165  | 156   |
 YS SF             | 120   | 7      | $195  | 245   |                                       
 YS SF             | 120   | 8      | $205  | 246   |
-YS SF             | 120   | 8      | $200  | 233   |                                      
+YS SF             | 120   | 8      | $195  | 233   |                                      
 YS FS             | 120   | 7      | $180  | 247   | 90 degree header with muffler. Discount for darkened color
 YS FS             | 120   | 10     | $240  | 242   | Box scuffed
 YS FS             | 120   | 8      | $225  | 251   |Equipped with the YS bulb shapped muffler
