@@ -31,8 +31,7 @@ Magnum XL         | 30    | 10     | $130  | 23    | Also cute
 Magnum XL         | 52    | 10     | $140  | 30    | 
 Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
 OS Surpass        | 26    | 9      | $135  | 17    |
-OS Surpass        | 26    | 8      | $130  | 166   |
-OS Surpass        | 26    | 10     | $150  | 18    |  
+OS Surpass        | 26    | 8      | $130  | 166   | 
 OS Surpass        | 40    | 7      | $105  | 21    |
 OS Surpass        | 40    | 10     | $140  | 33    |
 OS Surpass        | 48    | 8      | $135  | 28    | 
@@ -53,14 +52,13 @@ OS Surpass II     | 91    | 8      | $190  | 86    |
 OS Surpass II     | 91    | 6      | $150  | 147   |
 OS Surpass        | 120   | 9      | $235  | 200   |
 Saito             | 65    | 7      | $155  | 116   |
-Saito             | 65    | 7      | $155  | 115   |
 Saito             | 72    | 7      | $170  | 168   |    
 Saito             | 72    | 7      | $160  | 171   |
-Saito             | 72    | 8      | $180  | 169   |
 Saito             | 72    | 8      | $175  | 173   |
 Saito             | 72    | 9      | $185  | 170   |  
 Saito             | 72    | 8      | $180  | 162   |
-Saito             | 72    | 10     | $200  | 165   | 
+Saito             | 72    | 10     | $200  | 165   |
+Saito Gold Knight | 72    | 7      | $175  | 167   |
 Saito Gold Knight | 80    | 7      | $165  | 121   | Paint chipped
 Saito             | 80    | 9      | $200  | 119   |
 Saito             | 80    | 9      | $200  | 120   |
