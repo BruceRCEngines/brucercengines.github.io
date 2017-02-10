@@ -59,9 +59,11 @@ Magnum XL         | 46    | 6      | $35   | 69    | Idles at 2,400 otherwise gr
 Magnum XL         | 46    | 7      | $50   | 47    |
 Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 52    | 10     | $85   | 85    |
-Magnum XL         | 61    | 9      | $80   | 93    | Evolution muffler and OS carb.  runs exceptionally well
+Magnum XL         | 61    | 9      | $70   | 93    | Evolution muffler and OS carb.  runs exceptionally well
+Magnum XL         | 61    | 10     | $85   | 94    |
 MDS               | 40    | 5      | $30   | JP5   |                                                                          
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat.
+OS Max LA         | 15    | 10     | $40   | 57    | Blue
 OS Max LA         | 25    | 8      | $45   | 56    |                                 
 OS Max LA         | 40    | 7      | $45   | 55    |
 OS Max SR         | 40    | 7      | $60   | 61    | New Ring 
