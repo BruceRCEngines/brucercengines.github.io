@@ -68,7 +68,9 @@ Saito             | 91    | 8      | $190  | 159   |
 Saito             | 91    | 8      | $185  | 154   | Muffler older than engine
 Saito             | 100   | 8      | $210  | 215   | Has a small ding on a rocker cap and lifter tubes
 Saito             | 100   | 9      | $230  | 157   | 
-Saito             | 120   | 7      | $170  | 84    | Top painted black    
+Saito             | 120   | 7      | $170  | 84    | Top painted black  
+Saito S           | 120   | 8      | $200  | 87    |
+Saito             | 150   | 7      | $220  | 88    | Bearings and gaskets replaced
 YS FZ             | 53    | 7      | $155  | 155   |
 YS FZ             | 53    | 8      | $165  | 156   |
 YS SF             | 120   | 7      | $195  | 245   |                                       
