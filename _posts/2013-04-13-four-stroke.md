@@ -28,8 +28,7 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
 Magnum XL         | 30    | 10     | $130  | 22    | Cute!
 Magnum XL         | 30    | 10     | $130  | 23    | Also cute   
-Magnum XL         | 52    | 10     | $140  | 30    | 
-Magnum XL         | 91    | 10     | $150  | 226   | Blue Head
+Magnum XL         | 52    | 10     | $140  | 30    |
 OS Surpass        | 26    | 9      | $135  | 17    |
 OS Surpass        | 26    | 8      | $130  | 166   | 
 OS Surpass        | 40    | 7      | $105  | 21    |
