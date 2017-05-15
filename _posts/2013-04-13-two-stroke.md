@@ -31,7 +31,7 @@ MAGNUM XL         | 28    | 9      | $50   | 41    | Mounted but never run
 Magnum XL         | 46    | 6      | $35   | 69    | Idles at 2,400 otherwise great
 Magnum XL         | 46    | 7      | $50   | 47    |
 Magnum XL         | 46    | 10     | $65   | 50    |
-Magnum XL         | 52    | 10     | $85   | 85    |
+Magnum XL         | 52    | 10     | $75   | 85    |
 Magnum XL         | 61    | 9      | $65   | 93    | Evolution muffler and OS carb.  runs exceptionally well
 Magnum XL         | 61    | 10     | $80   | 94    |
 MDS               | 40    | 5      | $30   | JP5   |  
@@ -56,10 +56,9 @@ Super Tiger       | 40    | 4      | $35   | 189   | Roars at top speed, but idl
 Super Tiger       | 45    | 7      | $60   | 195   | Made in Italy
 Super Tiger       | 45    | 10     | $75   | 194   | May have been test run, so priced down to #9O
 Super Tiger       | 45    | 9      | $75   | 191   | New bearings
-Thunder Tiger Pro | 45    | 10     | $85   | 73    | Priced down to 9 because of light shelf patinaj
+Thunder Tiger Pro | 46    | 10     | $85   | 73    | Priced down to 9 because of light shelf patinaj
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 71    |                                                                                                        
 Webra Speed       | 61    | 7      | $65   | 79    |
 Webra             | 61    | 7      | $60   | 78    |
-Webra             | 61    | 7      | $65   | 78    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
