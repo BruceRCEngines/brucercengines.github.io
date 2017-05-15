@@ -7,34 +7,7 @@ featured_engine_photo_url: >-
   https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/2-stroke.jpg
 featured_engine_name: OS 61 SF
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
  
 > I have had people tell me that the future of power for RC airplanes lies with electric motors or gasoline engines. But I find that two stroke nitro engines are still a very effecient, reliable, and inexpensive way to fly medium sized planes. A sport flyer would be remiss not to consider two stroke nitro engines for power. Listed here are a number of preowned new and used options that might interest you.
 
@@ -88,7 +61,5 @@ Thunder Tiger Pro | 61    | 8      | $85   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 71    |                                                                                                        
 Webra Speed       | 61    | 7      | $65   | 79    |
 Webra             | 61    | 7      | $60   | 78    |
-
 Webra             | 61    | 7      | $65   | 78    |
-{: .table .table-bordered .table-condensed .table-hover .footable}
 {: .table .table-bordered .table-condensed .table-hover .footable}
