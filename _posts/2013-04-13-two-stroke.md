@@ -4,11 +4,11 @@ title: Two Stroke
 permalink: /two_stroke.html
 layout: engine_listings
 featured_engine_photo_url: >-
-  https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/2-stroke.jpg
+  img/engines/featured/2-stroke.jpg
 featured_engine_name: OS 61 SF
 ---
- 
- 
+
+
 > I have had people tell me that the future of power for RC airplanes lies with electric motors or gasoline engines. But I find that two stroke nitro engines are still a very effecient, reliable, and inexpensive way to fly medium sized planes. A sport flyer would be remiss not to consider two stroke nitro engines for power. Listed here are a number of preowned new and used options that might interest you.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
@@ -25,7 +25,7 @@ HB                | 61    | 10     | $85   | 13    |
 Irvine            | 40    | 6      | $40   | 68    | Idles at 2,300 rpm, otherwise great
 K & B             | 61    | 7      | $45   | 59    | Muffler is patched, but engine is great!
 Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once.                                  
-Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines. 
+Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
 Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 MAGNUM XL         | 28    | 9      | $50   | 41    | Mounted but never run
 Magnum XL         | 46    | 6      | $35   | 69    | Idles at 2,400 otherwise great
@@ -41,7 +41,7 @@ OS Max AX         | 75    | 8      | $140  | 52    |
 OS MAX FP         | 60    | 7      | $65   | 82    | Semico strap on muffler
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat
 OS Max FX         | 61    | 7      | $100  | 53    | Runs like a fine machine.
-OS Max FX         | 61    | 7      | $105  | 58    | 
+OS Max FX         | 61    | 7      | $105  | 58    |
 OS Max FX         | 91    | 7      | $130  | 63    |
 OS Max FX         | 91    | 7      | $125  | 67    |
 OS Max LA         | 25    | 8      | $45   | 56    |                                 
@@ -51,9 +51,9 @@ OS Max SF         | 61    | 7      | $100  | 64    | Ringed version
 OS Max SR         | 40    | 7      | $50   | 61    | New Ring
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
 RJL               | 61    | 7      | $95   | 70    |  
-SK                | 50    | 7      | $50   | 7     | 
+SK                | 50    | 7      | $50   | 7     |
 Super Tiger       | 40    | 4      | $35   | 189   | Roars at top speed, but idles poorly
-Super Tiger       | 45    | 7      | $60   | 195   | Made in Italy 
+Super Tiger       | 45    | 7      | $60   | 195   | Made in Italy
 Super Tiger       | 45    | 10     | $75   | 194   | May have been test run, so priced down to #9O
 Super Tiger       | 45    | 9      | $75   | 191   | New bearings
 Thunder Tiger Pro | 45    | 10     | $85   | 73    | Priced down to 9 because of light shelf patinaj

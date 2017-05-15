@@ -4,7 +4,7 @@ title: Four Stroke
 permalink: /four_stroke.html
 layout: engine_listings
 featured_engine_photo_url: >-
-  https://dl.dropboxusercontent.com/u/76928840/Website%20Photos/featured/4-stroke.jpg
+  img/engines/featured/4-stroke.jpg
 featured_engine_name: Saito 125a
 ---
 
@@ -30,18 +30,18 @@ Magnum XL         | 30    | 10     | $130  | 22    | Cute!
 Magnum XL         | 52    | 7      | $80   | 34    |    
 Magnum XL         | 61    | 6      | $175  | 32    |
 OS Surpass        | 26    | 9      | $135  | 17    |
-OS Surpass        | 26    | 8      | $130  | 166   | 
+OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 40    | 7      | $105  | 21    |
 OS Surpass        | 40    | 10     | $140  | 33    |
-OS Surpass        | 48    | 8      | $135  | 28    | 
+OS Surpass        | 48    | 8      | $135  | 28    |
 OS Surpass        | 52    | 7      | $130  | 26    |
-OS Surpass        | 70    | 6      | $140  | 196   | 
+OS Surpass        | 70    | 6      | $140  | 196   |
 OS Surpass        | 70    | 7      | $150  | 198   |
-OS Surpass        | 70    | 8      | $165  | 192   | 
+OS Surpass        | 70    | 8      | $165  | 192   |
 OS Surpass        | 70    | 10     | $200  | 2     |
 OS Surpass        | 70    | 10     | $200  | 201   |
 OS Surpass II     | 70    | 7      | $160  | 193   |
-OS Surpass        | 91    | 7      | $170  | 141   | 
+OS Surpass        | 91    | 7      | $170  | 141   |
 OS Surpass        | 91    | 7      | $160  | 199   |
 OS Surpass        | 91    | 9      | $200  | 190   |
 OS Surpass        | 91    | 10     | $230  | 172   |                                                                 
@@ -64,7 +64,7 @@ Saito             | 82a   | 7      | $190  | 122   | Aluminum back plate
 Saito             | 91    | 7      | $165  | 158   |                                                    
 Saito             | 91    | 8      | $190  | 159   |  
 Saito             | 91    | 8      | $185  | 154   | Muffler older than engine
-Saito             | 100   | 7      | $190  | 150   | 
+Saito             | 100   | 7      | $190  | 150   |
 Saito             | 120   | 7      | $170  | 84    | Top painted black  
 Saito             | 150   | 7      | $220  | 88    | Bearings and gaskets replaced
 YS FZ             | 53    | 7      | $155  | 155   |
