@@ -58,7 +58,7 @@ Super Tiger       | 45    | 10     | $75   | 194   | May have been test run, so 
 Super Tiger       | 45    | 9      | $75   | 191   | New bearings
 Thunder Tiger Pro | 46    | 10     | $85   | 73    | Priced down to 9 because of light shelf patinaj
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
-Thunder Tiger Pro | 61    | 9      | $90   | 71    |                                                                                                        
+Thunder Tiger Pro | 61    | 9      | $90   | 72    |                                                                                                        
 Webra Speed       | 61    | 7      | $65   | 79    |
 Webra             | 61    | 7      | $60   | 78    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
