@@ -34,7 +34,7 @@ Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 52    | 10     | $75   | 85    |
 Magnum XL         | 61    | 9      | $65   | 93    | Evolution muffler and OS carb.  runs exceptionally well
 Magnum XL         | 61    | 10     | $80   | 94    |
-MDS               | 40    | 5      | $30   | JP5   |  
+MDS               | 40    | 5      | $30   | jp5   |  
 OS Max AX         | 46    | 7      | $80   | 62    |
 OS Max AX         | 46    | 8      | $90   | 60    | FX muffler
 OS Max AX         | 75    | 8      | $140  | 52    |
