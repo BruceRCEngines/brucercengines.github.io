@@ -38,6 +38,7 @@ MDS               | 40    | 5      | $30   | jp5   |
 OS Max AX         | 46    | 7      | $80   | 62    |
 OS Max AX         | 46    | 8      | $90   | 60    | FX muffler
 OS Max AX         | 75    | 8      | $140  | 52    |
+OS Max FP         | 40    | 5      | $25   | 80    | Idles at 2,500, should be 2,200
 OS MAX FP         | 60    | 7      | $65   | 82    | Semico strap on muffler
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat
 OS Max FX         | 61    | 7      | $100  | 53    | Runs like a fine machine.
@@ -47,6 +48,7 @@ OS Max FX         | 91    | 7      | $125  | 67    |
 OS Max LA         | 25    | 8      | $45   | 56    |                                 
 OS Max LA         | 40    | 7      | $45   | 55    |
 OS Max LA         | 65    | 6      | $65   | 71    | Chipped fin reduced it to a 6 rating.
+OS Max SF         | 46    | 7      | $55   | 65    |
 OS Max SF         | 61    | 7      | $100  | 64    | Ringed version
 OS Max SR         | 40    | 7      | $50   | 61    | New Ring
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
@@ -56,9 +58,11 @@ Super Tiger       | 40    | 4      | $35   | 189   | Roars at top speed, but idl
 Super Tiger       | 45    | 7      | $60   | 195   | Made in Italy
 Super Tiger       | 45    | 10     | $75   | 194   | May have been test run, so priced down to #9O
 Super Tiger       | 45    | 9      | $75   | 191   | New bearings
-Thunder Tiger Pro | 46    | 10     | $85   | 73    | Priced down to 9 because of light shelf patinaj
+Thunder Tiger Pro | 46    | 10     | $85   | 73    | Priced down to 9 because of light shelf patina
+Thunder Tiger Pro | 61    | 7      | $75   | 142   |    
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
-Thunder Tiger Pro | 61    | 9      | $90   | 72    |                                                                                                        
+Thunder Tiger Pro | 61    | 9      | $90   | 72    |
+Webra             | 40    | 7      | $50   | 75    | performs like an #8, but used more than an #8.  Semico strap-on muffler
 Webra Speed       | 61    | 7      | $65   | 79    |
 Webra             | 61    | 7      | $60   | 78    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
