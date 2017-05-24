@@ -32,7 +32,6 @@ OS Surpass        | 26    | 9      | $135  | 17    |
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 40    | 7      | $105  | 21    |
 OS Surpass        | 40    | 10     | $140  | 33    |
-OS Surpass        | 48    | 8      | $135  | 28    |
 OS Surpass        | 52    | 7      | $130  | 26    |
 OS Surpass        | 70    | 6      | $140  | 196   |
 OS Surpass        | 70    | 7      | $150  | 198   |
@@ -48,7 +47,7 @@ OS Surpass        | 91    | 6      | $140  | 183   |
 OS Surpass II     | 91    | 8      | $190  | 86    |
 OS Surpass II     | 91    | 6      | $150  | 147   |
 OS Surpass        | 120   | 7      | $200  | 200   |
-Saito             | 65    | 7      | $150  | 116   |
+OS V              | 95    | 8      | $225  | 174   | Beautiful miffled sound. Might be a #9
 Saito             | 72    | 7      | $160  | 168   | 
 Saito             | 72    | 8      | $170  | 173   |
 Saito             | 72    | 9      | $185  | 170   |  
@@ -67,8 +66,7 @@ Saito             | 120   | 7      | $170  | 84    | Top painted black
 Saito             | 150   | 7      | $220  | 88    | Bearings and gaskets replaced
 YS FZ             | 53    | 7      | $155  | 155   |
 YS FZ             | 53    | 8      | $165  | 156   |
-YS AC             | 91    | 8      | $210  | 160   | WOW! What power.
-YS SF             | 120   | 7      | $195  | 245   |                                       
+YS AC             | 91    | 8      | $210  | 160   | WOW! What power.                                       
 YS SF             | 120   | 8      | $205  | 246   |
 YS SF             | 120   | 8      | $195  | 233   |                                      
 YS FS             | 120   | 7      | $180  | 247   | 90 degree header with muffler. Discount for darkened color
