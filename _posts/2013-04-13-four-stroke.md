@@ -27,8 +27,7 @@ featured_engine_name: Saito 125a
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
 Magnum XL         | 30    | 10     | $130  | 22    | Cute!
-Magnum XL         | 52    | 7      | $80   | 34    |    
-Magnum XL         | 61    | 6      | $175  | 32    |
+Magnum XL         | 52    | 7      | $80   | 34    |  
 OS Surpass        | 26    | 9      | $135  | 17    |
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 40    | 7      | $105  | 21    |
@@ -50,8 +49,7 @@ OS Surpass II     | 91    | 8      | $190  | 86    |
 OS Surpass II     | 91    | 6      | $150  | 147   |
 OS Surpass        | 120   | 7      | $200  | 200   |
 Saito             | 65    | 7      | $150  | 116   |
-Saito             | 72    | 7      | $160  | 168   |    
-Saito             | 72    | 7      | $155  | 171   |
+Saito             | 72    | 7      | $160  | 168   | 
 Saito             | 72    | 8      | $170  | 173   |
 Saito             | 72    | 9      | $185  | 170   |  
 Saito             | 72    | 8      | $175  | 162   |
