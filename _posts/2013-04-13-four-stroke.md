@@ -46,7 +46,8 @@ OS Surpass        | 91    | 10     | $230  | 172   |
 OS Surpass        | 91    | 6      | $140  | 183   |
 OS Surpass II     | 91    | 8      | $190  | 86    |
 OS Surpass II     | 91    | 6      | $150  | 147   |
-OS Surpass        | 120   | 7      | $200  | 200   |
+OS Surpass        | 120   | 7      | $210  | 200   |
+OS Surpass        | 120   | 7      | $210  | 202
 OS V              | 95    | 8      | $225  | 174   | Beautiful miffled sound. Might be a #9
 Saito             | 72    | 7      | $160  | 168   | 
 Saito             | 72    | 8      | $170  | 173   |
@@ -65,8 +66,7 @@ Saito             | 100   | 7      | $190  | 150   |
 Saito             | 120   | 7      | $170  | 84    | Top painted black  
 Saito             | 150   | 7      | $220  | 88    | Bearings and gaskets replaced
 YS FZ             | 53    | 7      | $155  | 155   |
-YS FZ             | 53    | 8      | $165  | 156   |
-YS AC             | 91    | 8      | $210  | 160   | WOW! What power.                                       
+YS FZ             | 53    | 8      | $165  | 156   |                                       
 YS SF             | 120   | 8      | $205  | 246   |
 YS SF             | 120   | 8      | $195  | 233   |                                      
 YS FS             | 120   | 7      | $180  | 247   | 90 degree header with muffler. Discount for darkened color
@@ -75,5 +75,5 @@ YS FS             | 120   | 8      | $225  | 251   | Equipped with the YS bulb s
 YS NC             | 120   | 7      | $210  | 237   | 90 header plus a muffler
 YS NC             | 120   | 10     | $260  | 249   |
 YS Sport          | 140   | 8      | $290  | 213   | Wrap around muffler with smoke capabilities.
-YS Sport          | 140   | 6      | $245  | 214   |                                        
+YS Sport          | 140   | 6      | $245  | 214   | Runs as well as an excellent 7, but has more time on it so is 6.                                      
 {: .table .table-bordered .table-condensed .table-hover .footable}
