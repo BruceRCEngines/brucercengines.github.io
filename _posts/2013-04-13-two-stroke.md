@@ -14,16 +14,17 @@ featured_engine_name: OS 61 SF
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|--------------------               
 CS                | 46    | 10     | $50   | 4     |
-Enya              | 25    | 10     | $55   | 9     |
-Enya              | 29    | 10     | $55   | 8     |
+Enya              | 25    | 10     | $50   | 9     |
+Enya              | 29    | 10     | $50   | 8     |
+Enya              | 29    | 3      | $15   | 6     |
 Evolution         | 46    | 8      | $55   | 97    |
-Evolution NT      | 61    | 10     | $95   | 99    |
-Evolution NT      | 61    | 10     | $95   | 90    |
-Evolution NT      | 61    | 10     | $95   | 98    |
+Evolution NT      | 61    | 10     | $90   | 99    |
+Evolution NT      | 61    | 10     | $90   | 90    |
+Evolution NT      | 61    | 10     | $90   | 98    |
 HB                | 25    | 8      | $40   | 1     |       
 HB                | 61    | 10     | $85   | 13    |
 Irvine            | 40    | 6      | $40   | 68    | Idles at 2,300 rpm, otherwise great
-K & B             | 61    | 7      | $45   | 59    | Muffler is patched, but engine is great!
+K & B             | 61    | 7      | $40   | 59    | Muffler is patched, but engine is great!
 Magnum GP         | 65    | 9      | $70   | 132   | Engine bench run once.                                  
 Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
 Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
@@ -32,13 +33,16 @@ Magnum XL         | 46    | 6      | $35   | 69    | Idles at 2,400 otherwise gr
 Magnum XL         | 46    | 7      | $50   | 47    |
 Magnum XL         | 46    | 10     | $65   | 50    |
 Magnum XL         | 52    | 10     | $75   | 85    |
+Magnum XL         | 53    | 6      | $50   | 95    |
 Magnum XL         | 61    | 9      | $65   | 93    | Evolution muffler and OS carb.  runs exceptionally well
 Magnum XL         | 61    | 10     | $80   | 94    |
 MDS               | 40    | 5      | $30   | jp5   |  
 OS Max AX         | 46    | 7      | $80   | 62    |
 OS Max AX         | 46    | 8      | $90   | 60    | FX muffler
 OS Max AX         | 75    | 8      | $140  | 52    |
-OS Max FP         | 40    | 5      | $25   | 80    | Idles at 2,500, should be 2,200
+OS Max FP         | 35    | 7      | $40   | 89    |
+OS Mas FP         | 40    | 7      | $40   | 91    | Rear mounted needle
+OS Max FP         | 40    | 5      | $35   | 80    | Idles at 2,500, should be 2,200
 OS MAX FP         | 60    | 7      | $65   | 82    | Semico strap on muffler
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat
 OS Max FX         | 61    | 7      | $100  | 53    | Runs like a fine machine.
@@ -47,21 +51,21 @@ OS Max FX         | 91    | 7      | $130  | 63    |
 OS Max FX         | 91    | 7      | $125  | 67    |
 OS Max LA         | 25    | 8      | $45   | 56    |                                 
 OS Max LA         | 40    | 7      | $45   | 55    |
-OS Max LA         | 65    | 6      | $65   | 71    | Chipped fin reduced it to a 6 rating.
+OS Max LA         | 65    | 6      | $65   | 71    | Chipped fin reduced it to a 6 rating
 OS Max SF         | 46    | 7      | $55   | 65    |
 OS Max SF         | 61    | 7      | $100  | 64    | Ringed version
 OS Max SR         | 40    | 7      | $50   | 61    | New Ring
+OS Max SR         | 45    | 6      | $45   | 66    | Case retapped to secure muffler.
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
 RJL               | 61    | 7      | $95   | 70    |  
 SK                | 50    | 7      | $50   | 7     |
 Super Tiger       | 40    | 4      | $35   | 189   | Roars at top speed, but idles poorly
 Super Tiger       | 45    | 7      | $60   | 195   | Made in Italy
-Super Tiger       | 45    | 10     | $75   | 194   | May have been test run, so priced down to #9O
 Super Tiger       | 45    | 9      | $75   | 191   | New bearings
 Thunder Tiger Pro | 46    | 10     | $85   | 73    | Priced down to 9 because of light shelf patina
 Thunder Tiger Pro | 61    | 7      | $75   | 142   |    
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
-Thunder Tiger Pro | 61    | 9      | $90   | 72    |
+Thunder Tiger Pro | 61    | 9      | $90   | 71    |
 Webra             | 40    | 7      | $50   | 75    | performs like an #8, but used more than an #8.  Semico strap-on muffler
 Webra Speed       | 61    | 7      | $65   | 79    |
 Webra             | 61    | 7      | $60   | 78    |
