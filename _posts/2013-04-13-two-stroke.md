@@ -65,7 +65,7 @@ Super Tiger       | 45    | 9      | $75   | 191   | New bearings
 Thunder Tiger Pro | 46    | 10     | $85   | 73    | Priced down to 9 because of light shelf patina
 Thunder Tiger Pro | 61    | 7      | $75   | 142   |    
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
-Thunder Tiger Pro | 61    | 9      | $90   | 71    |
+Thunder Tiger Pro | 61    | 9      | $90   | 72    |
 Webra             | 40    | 7      | $50   | 75    | performs like an #8, but used more than an #8.  Semico strap-on muffler
 Webra Speed       | 61    | 7      | $65   | 79    |
 Webra             | 61    | 7      | $60   | 78    |
