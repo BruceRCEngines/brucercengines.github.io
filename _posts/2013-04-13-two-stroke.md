@@ -49,7 +49,7 @@ OS Max LA         | 40    | 7      | $45   | 55    |
 OS Max LA         | 65    | 6      | $65   | 71    | Chipped fin reduced it to a 6 rating
 OS Max SF         | 46    | 7      | $55   | 65    |
 OS Max SF         | 61    | 7      | $100  | 64    | Ringed version
-OS Max SF         | 61    | 7      | $100  | 51
+OS Max SF         | 61    | 7      | $100  | 39    |
 OS Max SR         | 40    | 7      | $50   | 61    | New Ring
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
 RJL               | 61    | 7      | $95   | 70    |  
