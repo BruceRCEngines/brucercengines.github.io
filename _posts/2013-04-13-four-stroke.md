@@ -33,22 +33,21 @@ OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 40    | 7      | $105  | 21    |
 OS Surpass        | 40    | 10     | $140  | 33    |
 OS Surpass        | 52    | 7      | $130  | 26    |
-OS Surpass        | 70    | 6      | $140  | 196   |
 OS Surpass        | 70    | 7      | $150  | 198   |
 OS Surpass        | 70    | 8      | $165  | 192   |
 OS Surpass        | 70    | 10     | $200  | 2     |
 OS Surpass        | 70    | 10     | $200  | 201   |
-OS Surpass II     | 70    | 7      | $160  | 193   |
-OS Surpass        | 91    | 7      | $170  | 141   |
-OS Surpass        | 91    | 7      | $160  | 199   |
+OS Surpass II     | 70    | 8      | $160  | 193   |
+OS Surpass        | 91    | 7      | $160  | 186   |
+OS Surpass        | 91    | 7      | $160  | 141   |
+OS Surpass        | 91    | 7      | $155  | 199   |
 OS Surpass        | 91    | 9      | $200  | 190   |
-OS Surpass        | 91    | 10     | $230  | 172   |                                                                 
-OS Surpass        | 91    | 6      | $140  | 183   |
+OS Surpass        | 91    | 10     | $225  | 172   |
 OS Surpass II     | 91    | 8      | $190  | 86    |
-OS Surpass II     | 91    | 6      | $150  | 147   |
 OS Surpass        | 120   | 7      | $210  | 200   |
-OS Surpass        | 120   | 7      | $210  | 202
+OS Surpass        | 120   | 7      | $210  | 202   |
 OS V              | 95    | 8      | $225  | 174   | Beautiful miffled sound. Might be a #9
+Saito             | 65    | 7      | $150  | 151   |
 Saito             | 72    | 7      | $160  | 168   | 
 Saito             | 72    | 8      | $170  | 173   |
 Saito             | 72    | 9      | $185  | 170   |  
@@ -65,15 +64,16 @@ Saito             | 91    | 8      | $185  | 154   | Muffler older than engine
 Saito             | 100   | 7      | $190  | 150   |
 Saito             | 120   | 7      | $170  | 84    | Top painted black  
 Saito             | 150   | 7      | $220  | 88    | Bearings and gaskets replaced
-YS FZ             | 53    | 7      | $155  | 155   |
-YS FZ             | 53    | 8      | $165  | 156   |                                       
+Saito             | 150   | 7      | $220  | 203   |
+YS FZ             | 53    | 7      | $145  | 155   |
+YS FZ             | 53    | 8      | $155  | 156   |                                       
 YS SF             | 120   | 8      | $205  | 246   |
 YS SF             | 120   | 8      | $195  | 233   |                                      
 YS FS             | 120   | 7      | $180  | 247   | 90 degree header with muffler. Discount for darkened color
 YS FS             | 120   | 10     | $250  | 242   | Box scuffed
-YS FS             | 120   | 8      | $225  | 251   | Equipped with the YS bulb shapped muffler
-YS NC             | 120   | 7      | $210  | 237   | 90 header plus a muffler
+YS FS             | 120   | 8      | $215  | 251   | Equipped with the YS bulb shapped muffler
+YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler
 YS NC             | 120   | 10     | $260  | 249   |
-YS Sport          | 140   | 8      | $290  | 213   | Wrap around muffler with smoke capabilities.
-YS Sport          | 140   | 6      | $245  | 214   | Runs as well as an excellent 7, but has more time on it so is 6.                                      
+YS Sport          | 140   | 8      | $280  | 213   | Wrap around muffler with smoke capabilities.
+YS Sport          | 140   | 6      | $235  | 214   | Runs as well as an excellent 7, but has more time on it so is 6.                                      
 {: .table .table-bordered .table-condensed .table-hover .footable}
