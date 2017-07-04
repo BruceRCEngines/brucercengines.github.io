@@ -32,7 +32,6 @@ Magnum XL         | 61    | 9      | $65   | 93    | Evolution muffler and OS ca
 Magnum XL         | 61    | 10     | $75   | 94    |
 MDS               | 40    | 5      | $25   | jp5   |  
 OS Max AX         | 46    | 8      | $80   | 60    | FX muffler
-OS Max AX         | 75    | 8      | $140  | 52    |
 OS Max FP         | 20    | 7      | $30   | 96    |
 OS Max FP         | 35    | 7      | $40   | 89    |
 OS Mas FP         | 40    | 7      | $40   | 91    | Rear mounted needle
