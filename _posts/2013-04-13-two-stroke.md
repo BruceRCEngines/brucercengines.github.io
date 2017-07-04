@@ -55,7 +55,7 @@ OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or us
 RJL               | 61    | 7      | $95   | 70    |  
 Super Tiger       | 45    | 7      | $55   | 195   | Made in Italy
 Super Tiger       | 45    | 9      | $75   | 191   | New bearings
-Swingline         | 75    | 1      | $15   | jp1   | Crankcase is excellent.  Some other parts included, but condition uncertain.
+Skyward           | 60    | 1      | $15   | jp1   | Crankcase is excellent.  Some other parts included, but condition uncertain.
 Thunder Tiger Pro | 46    | 10     | $85   | 73    | Priced down to 9 because of light shelf patina
 Thunder Tiger Pro | 61    | 7      | $75   | 142   |    
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
