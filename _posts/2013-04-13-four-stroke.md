@@ -26,28 +26,25 @@ featured_engine_name: Saito 125a
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
+Enya              | 80    | 7      | $140  | 100   |
 Magnum XL         | 30    | 10     | $130  | 22    | Cute!
 Magnum XL         | 52    | 7      | $80   | 34    |  
 OS Surpass        | 26    | 9      | $135  | 17    |
 OS Surpass        | 26    | 8      | $130  | 166   |
-OS Surpass        | 40    | 7      | $105  | 21    |
 OS Surpass        | 40    | 10     | $140  | 33    |
 OS Surpass        | 52    | 7      | $130  | 26    |
-OS Surpass        | 70    | 7      | $150  | 198   |
 OS Surpass        | 70    | 8      | $165  | 192   |
 OS Surpass        | 70    | 10     | $200  | 2     |
 OS Surpass        | 70    | 10     | $200  | 201   |
-OS Surpass II     | 70    | 8      | $160  | 193   |
+OS Surpass II     | 70    | 8      | $170  | 193   |
 OS Surpass        | 91    | 7      | $160  | 186   |
-OS Surpass        | 91    | 7      | $160  | 141   |
-OS Surpass        | 91    | 7      | $155  | 199   |
 OS Surpass        | 91    | 9      | $200  | 190   |
-OS Surpass        | 91    | 10     | $225  | 172   |
+OS Surpass        | 91    | 10     | $225  | 175   |
 OS Surpass II     | 91    | 8      | $190  | 86    |
 OS Surpass        | 120   | 7      | $210  | 200   |
 OS Surpass        | 120   | 7      | $210  | 202   |
 OS V              | 95    | 8      | $225  | 174   | Beautiful miffled sound. Might be a #9
-Saito             | 65    | 7      | $150  | 151   |
+Saito             | 65    | 7      | $150  | 78   |
 Saito             | 72    | 7      | $160  | 168   | 
 Saito             | 72    | 8      | $170  | 173   |
 Saito             | 72    | 9      | $185  | 170   |  
@@ -57,19 +54,16 @@ Saito Gold Knight | 72    | 7      | $170  | 167   |
 Saito Gold Knight | 80    | 7      | $160  | 121   | Paint chipped
 Saito             | 80    | 9      | $200  | 119   |
 Saito             | 80    | 9      | $200  | 120   | Bench run twice
-Saito             | 82a   | 7      | $190  | 122   | Aluminum back plate
-Saito             | 91    | 7      | $165  | 158   |                                                    
+Saito             | 82a   | 7      | $190  | 122   | Aluminum back pla                                                   
 Saito             | 91    | 8      | $190  | 159   |  
 Saito             | 91    | 8      | $185  | 154   | Muffler older than engine
-Saito             | 100   | 7      | $190  | 150   |
-Saito             | 120   | 7      | $170  | 84    | Top painted black  
+Saito             | 100   | 7      | $190  | 150   | 
 Saito             | 150   | 7      | $220  | 88    | Bearings and gaskets replaced
-Saito             | 150   | 7      | $220  | 203   |
+Saito             | 150   | 7      | $220  | 203   | 
 YS FZ             | 53    | 7      | $145  | 155   |
 YS FZ             | 53    | 8      | $155  | 156   |                                       
 YS SF             | 120   | 8      | $205  | 246   |
 YS SF             | 120   | 8      | $195  | 233   |                                      
-YS FS             | 120   | 7      | $180  | 247   | 90 degree header with muffler. Discount for darkened color
 YS FS             | 120   | 10     | $250  | 242   | Box scuffed
 YS FS             | 120   | 8      | $215  | 251   | Equipped with the YS bulb shapped muffler
 YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler
