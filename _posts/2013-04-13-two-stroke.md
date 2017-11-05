@@ -24,7 +24,7 @@ Magnum GP         | 65    | 9      | $65   | 132   |
 Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
 Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 MAGNUM XL         | 28    | 9      | $45   | 41    | Mounted but never run
-Magnum XL         || 46    | 10     | $60   | 50    |
+Magnum XL         | 46    | 10     | $60   | 50    |
 Magnum XL         | 52    | 10     | $70   | 85    |
 Magnum XL         | 61    | 10     | $75   | 94    |
 MDS               | 40    | 5      | $25   | jp5   |  
