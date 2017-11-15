@@ -18,11 +18,12 @@ Evolution         | 46    | 8      | $55   | 97    |
 Evolution NT      | 61    | 10     | $90   | 99    |
 Evolution NT      | 61    | 10     | $90   | 90    |
 Evolution NT      | 61    | 10     | $90   | 98    |
+Fox Eagle         | 60    | 7      | $70   | 101   |  Power House!
 HB                | 25    | 8      | $40   | 1     |     
 K & B             | 61    | 7      | $50   | 38    | 
 Magnum GP         | 65    | 9      | $65   | 132   |                                 
-Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
-Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
+Magnum XL         | 25    | 7      | $35   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
+Magnum XL         | 25    | 7      | $35   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 MAGNUM XL         | 28    | 9      | $45   | 41    | Mounted but never run
 Magnum XL         | 46    | 10     | $60   | 50    |
 Magnum XL         | 52    | 10     | $70   | 85    |
@@ -30,11 +31,9 @@ Magnum XL         | 61    | 10     | $75   | 94    |
 MDS               | 40    | 5      | $25   | jp5   |  
 OS Max AX         | 46    | 8      | $80   | 60    |
 OS Max AX         | 75    | 8      | $140  | 52    |
-OS Max FP         | 20    | 7      | $30   | 96    |
 OS Max FP         | 35    | 7      | $40   | 89    |
-OS Mas FP         | 40    | 7      | $40   | 91    | Rear mounted needle
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat
-OS Max FP         | 60    | 7      | $60   | 82    | Ha a Semico strap on muffler
+OS Max FP         | 60    | 7      | $60   | 82    | Has a Semico strap on muffler
 OS Max FP         | 60    | 7      | $70   | 46    | Very easy to start.
 OS Max FX         | 40    | 7      | $50   | 44    |
 OS MAx FX         | 40    | 7      | $55   | 45    |
@@ -55,11 +54,11 @@ Skyward           | 60    | 1      | $15   | jp1   | Crankcase is excellent.  So
 Super Tiger       | 45    | 7      | $55   | 195   | Made in Italy
 Super Tiger       | 45    | 9      | $75   | 191   | New Bearings
 Super Tiger       | 45    | 6      | $45   | 36    |
-Super Tiger       | 51    | 6      | $55   | 176
+Super Tiger       | 45    | 8      | $65   | 185   |
+Super Tiger       | 51    | 6      | $55   | 176   |
+Super Tiger       | 61    | 7      | $75   | 184   | Chipped fins on corner of head.  Runs very well.
 Thunder Tiger GP  | 25    | 8      | $50   | 37    | 
 Thunder Tiger Pro | 46    | 10     | $85   | 73    | Priced down to 9 because of light shelf patina   
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 71    |
-Webra             | 40    | 7      | $50   | 75    | performs like an #8, but used more than an #8.  Semico strap-on muffler
-Webra Speed       | 61    | 7      | $65   | 79    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
