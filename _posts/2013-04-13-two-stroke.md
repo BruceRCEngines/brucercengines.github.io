@@ -19,8 +19,7 @@ Evolution NT      | 61    | 10     | $90   | 99    |
 Evolution NT      | 61    | 10     | $90   | 90    |
 Evolution NT      | 61    | 10     | $90   | 98    |
 Fox Eagle         | 60    | 7      | $70   | 101   |  Power House!
-HB                | 25    | 8      | $40   | 1     |     
-K & B             | 61    | 7      | $50   | 38    | 
+HB                | 25    | 8      | $40   | 1     |
 Magnum GP         | 65    | 9      | $65   | 132   |                                 
 Magnum XL         | 25    | 7      | $35   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
 Magnum XL         | 25    | 7      | $35   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
@@ -57,8 +56,10 @@ Super Tiger       | 45    | 6      | $45   | 36    |
 Super Tiger       | 45    | 8      | $65   | 185   |
 Super Tiger       | 51    | 6      | $55   | 176   |
 Super Tiger       | 61    | 7      | $75   | 184   | Chipped fins on corner of head.  Runs very well.
-Thunder Tiger GP  | 25    | 8      | $50   | 37    | 
+Super Tiger       | 90    | 6+     | $110  | 62    | Runs impressively.  Oldder round head style, made in Italy.
+Thunder Tiger GP  | 25    | 8      | $50   | 37    |
+Thunder Tiger Pro | 46    | 8      | $75   | 74    | 
 Thunder Tiger Pro | 46    | 10     | $85   | 73    | Priced down to 9 because of light shelf patina   
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
-Thunder Tiger Pro | 61    | 9      | $90   | 71    |
+Thunder Tiger Pro | 61    | 9      | $90   | 72    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
