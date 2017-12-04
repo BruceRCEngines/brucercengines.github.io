@@ -27,7 +27,7 @@ MAGNUM XL         | 28    | 9      | $45   | 41    | Mounted but never run
 Magnum XL         | 46    | 10     | $60   | 50    |
 Magnum XL         | 52    | 10     | $70   | 85    |
 Magnum XL         | 61    | 10     | $75   | 94    |
-MDS               | 40    | 5      | $25   | jp5   |  
+MDS               | 40    | 5      | $25   | 300   |  
 OS Max AX         | 46    | 8      | $80   | 60    |
 OS Max AX         | 75    | 8      | $140  | 52    |
 OS Max FP         | 35    | 7      | $40   | 89    |
