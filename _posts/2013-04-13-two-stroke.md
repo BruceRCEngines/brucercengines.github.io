@@ -55,7 +55,6 @@ Super Tiger       | 45    | 9      | $75   | 191   | New Bearings
 Super Tiger       | 45    | 6      | $45   | 36    |
 Super Tiger       | 45    | 8      | $65   | 185   |
 Super Tiger       | 51    | 6      | $55   | 176   |
-Super Tiger       | 61    | 7      | $75   | 184   | Chipped fins on corner of head.  Runs very well.
 Super Tiger       | 90    | 6+     | $110  | 62    | Runs impressively.  Oldder round head style, made in Italy.
 Thunder Tiger GP  | 25    | 8      | $50   | 37    |
 Thunder Tiger Pro | 46    | 8      | $75   | 74    | 
