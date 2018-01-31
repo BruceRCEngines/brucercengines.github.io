@@ -14,51 +14,43 @@ featured_engine_name: OS 61 SF
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|--------------------             
 Enya              | 29    | 10     | $50   | 8     |
-Evolution         | 46    | 8      | $55   | 97    |
 Evolution NT      | 61    | 10     | $90   | 99    |
 Evolution NT      | 61    | 10     | $90   | 90    |
 Evolution NT      | 61    | 10     | $90   | 98    |
 Fox Eagle         | 60    | 7      | $70   | 101   |  Power House!
 HB                | 25    | 8      | $40   | 1     |
 Magnum GP         | 65    | 9      | $65   | 132   |                                 
-Magnum XL         | 25    | 7      | $35   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
-Magnum XL         | 25    | 7      | $35   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
+Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
+Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 MAGNUM XL         | 28    | 9      | $45   | 41    | Mounted but never run
 Magnum XL         | 46    | 10     | $60   | 50    |
-Magnum XL         | 52    | 10     | $70   | 85    |
-Magnum XL         | 61    | 10     | $75   | 94    |
-MDS               | 40    | 5      | $25   | 300   |  
-OS Max AX         | 46    | 8      | $80   | 60    |
-OS Max AX         | 75    | 8      | $140  | 52    |
+Magnum XL         | 61    | 10     | $75   | 94    | 
+OS Max AX         | 46    | 8      | $70   | 60    |
 OS Max FP         | 35    | 7      | $40   | 89    |
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat
 OS Max FP         | 60    | 7      | $60   | 82    | Has a Semico strap on muffler
 OS Max FP         | 60    | 7      | $70   | 46    | Very easy to start.
-OS Max FX         | 40    | 7      | $50   | 44    |
-OS MAx FX         | 40    | 7      | $55   | 45    |
-OS Max FX         | 61    | 7      | $100  | 53    | Runs like a fine machine.
-OS Max FX         | 61    | 7      | $100  | 58    |
-OS Max FX         | 61    | 7      | $100  | 35    | 
-OS Max FX         | 61    | 10     | $145  | 43    |
-OS Max FX         | 91    | 7      | $130  | 63    |
-OS Max FX         | 91    | 7      | $125  | 67    |                                 
+OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
+OS Max FX         | 61    | 7      | $95   | 58    |
+OS Max FX         | 61    | 7      | $95   | 35    | 
+OS Max FX         | 61    | 10     | $140  | 43    |
+OS Max FX         | 91    | 7      | $125  | 63    |
+OS Max FX         | 91    | 7      | $120  | 67    |                                 
 OS Max LA         | 40    | 7      | $45   | 55    |
-OS Max LA         | 46    | 10     | $75   | 42    | 
 OS Max SF         | 46    | 7      | $55   | 65    |
 OS Max SF         | 61    | 7      | $100  | 64    | Ringed version
-OS Max SF         | 61    | 7      | $100  | 39    |
+OS Max SF         | 61    | 7      | $95   | 39    |
 OS Max SR         | 40    | 7      | $50   | 61    | New Ring
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used! 
 Skyward           | 60    | 1      | $15   | jp1   | Crankcase is excellent.  Some other parts included, but condition uncertain.
+Super Tiger       | 45    | 10     | $75   | 189   | Missing box
 Super Tiger       | 45    | 7      | $55   | 195   | Made in Italy
 Super Tiger       | 45    | 9      | $75   | 191   | New Bearings
-Super Tiger       | 45    | 6      | $45   | 36    |
 Super Tiger       | 45    | 8      | $65   | 185   |
-Super Tiger       | 51    | 6      | $55   | 176   |
-Super Tiger       | 90    | 6+     | $110  | 62    | Runs impressively.  Oldder round head style, made in Italy.
-Thunder Tiger GP  | 25    | 8      | $50   | 37    |
-Thunder Tiger Pro | 46    | 8      | $75   | 74    | 
-Thunder Tiger Pro | 46    | 10     | $85   | 73    | Priced down to 9 because of light shelf patina   
+Super Tiger       | 61    | 7      | $70   | 184   | 2 chipped fins on corner of head.  Runs very well.
+Super Tiger       | 90    | 6+     | $100  | 62    | Runs impressively.  Oldder round head style, made in Italy.
+Thunder Tiger Pro | 46    | 8      | $70   | 74    | 
+Thunder Tiger Pro | 46    | 10     | $80   | 73    | Priced down to 9 because of light shelf patina   
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 72    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
