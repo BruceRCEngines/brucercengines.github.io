@@ -32,8 +32,6 @@ Magnum XL         | 52    | 7      | $80   | 34    |
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 52    | 7      | $120  | 26    |
 OS Surpass        | 70    | 8      | $165  | 192   |
-OS Surpass        | 70    | 10     | $200  | 2     |
-OS Surpass        | 70    | 10     | $200  | 201   |
 OS Surpass        | 91    | 7      | $160  | 141   |
 OS Surpass        | 91    | 9      | $195  | 190   |
 OS Surpass        | 91    | 10     | $225  | 175   |
@@ -56,7 +54,6 @@ Saito             | 125   | 8      | $220  | 157   | Gold Knight
 Saito             | 150   | 7      | $200  | 88    | Bearings and gaskets replaced
 YS FZ             | 53    | 8      | $150  | 156   |                                       
 YS SF             | 120   | 8      | $205  | 246   |                                      
-YS FS             | 120   | 10     | $250  | 242   | Box scuffed
 YS FS             | 120   | 8      | $215  | 251   | Equipped with the YS bulb shapped muffler
 YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler
 YS Sport          | 140   | 8      | $280  | 213   | Wrap around muffler with smoke capabilities.
