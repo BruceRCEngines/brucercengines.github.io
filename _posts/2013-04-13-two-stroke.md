@@ -23,7 +23,6 @@ Magnum GP         | 65    | 9      | $65   | 132   |
 Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
 Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 MAGNUM XL         | 28    | 9      | $45   | 41    | Mounted but never run
-Magnum XL         | 46    | 10     | $60   | 50    |
 Magnum XL         | 61    | 10     | $75   | 94    | 
 OS Max AX         | 46    | 8      | $70   | 60    |
 OS Max FP         | 35    | 7      | $40   | 89    |
@@ -44,7 +43,6 @@ OS Max SR         | 40    | 7      | $50   | 61    | New Ring
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used! 
 Skyward           | 60    | 1      | $15   | jp1   | Crankcase is excellent.  Some other parts included, but condition uncertain.
 Super Tiger       | 45    | 10     | $75   | 189   | Missing box
-Super Tiger       | 45    | 7      | $55   | 195   | Made in Italy
 Super Tiger       | 45    | 9      | $75   | 191   | New Bearings
 Super Tiger       | 45    | 8      | $65   | 185   |
 Super Tiger       | 61    | 7      | $70   | 184   | 2 chipped fins on corner of head.  Runs very well.
