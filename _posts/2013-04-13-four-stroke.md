@@ -46,7 +46,6 @@ Saito             | 80    | 9      | $190  | 120   | Bench run twice
 Saito             | 91    | 7      | $170  | 153   |
 Saito             | 91    | 8      | $170  | 154   | Muffler older than engine.
 Saito             | 100   | 7      | $170  | 150   |
-Saito             | 100   | 10     | $235  | 151   | 
 Saito             | 125   | 8      | $220  | 157   | Gold Knight
 YS FZ             | 53    | 8      | $150  | 156   |                                       
 YS SF             | 120   | 8      | $205  | 246   |                                      
