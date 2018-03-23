@@ -23,12 +23,12 @@ Magnum GP         | 65    | 9      | $65   | 132   |
 Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
 Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 MAGNUM XL         | 28    | 9      | $45   | 41    | Mounted but never run
+Magnum XL         | 53    | 6      | $45   | 47    |
 Magnum XL         | 61    | 10     | $75   | 94    | 
-OS Max AX         | 46    | 8      | $70   | 60    |
 OS Max FP         | 35    | 7      | $40   | 89    |
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat
 OS Max FP         | 60    | 7      | $60   | 82    | Has a Semico strap on muffler
-OS Max FP         | 60    | 7      | $70   | 46    | Very easy to start.
+OS Max FX         | 61    | 6      | $70   | 66    |
 OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
 OS Max FX         | 61    | 7      | $95   | 58    |
 OS Max FX         | 61    | 7      | $95   | 35    | 
@@ -46,6 +46,7 @@ Super Tiger       | 45    | 10     | $75   | 189   | Missing box
 Super Tiger       | 45    | 9      | $75   | 191   | New Bearings
 Super Tiger       | 45    | 8      | $65   | 185   |
 Super Tiger       | 61    | 7      | $70   | 184   | 2 chipped fins on corner of head.  Runs very well.
+Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 90    | 6+     | $100  | 62    | Runs impressively.  Oldder round head style, made in Italy.
 Thunder Tiger Pro | 46    | 8      | $70   | 74    | 
 Thunder Tiger Pro | 46    | 10     | $80   | 73    | Priced down to 9 because of light shelf patina   
