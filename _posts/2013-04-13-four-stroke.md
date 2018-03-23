@@ -36,18 +36,19 @@ OS Surpass        | 70    | 8      | $165  | 192   |
 OS Surpass        | 91    | 7      | $160  | 141   |
 OS Surpass        | 91    | 9      | $195  | 190   |
 OS Surpass        | 91    | 10     | $225  | 175   |
+OS Surpass        | 91    | 9      | $200  | 179   |
 OS Surpass II     | 91    | 8      | $185  | 86    |
 OS Surpass        | 120   | 7      | $210  | 202   |
 OS V              | 95    | 8      | $225  | 174   | Beautiful muffled sound. Might be a #9
+Saito             | 56    | 6      | $115  | 165   | 
 Saito             | 72    | 7      | $155  | 168   |
 Saito             | 72    | 8      | $165  | 173   |  
 Saito             | 72    | 8      | $175  | 162   |
-Saito             | 80    | 9      | $190  | 120   | Bench run twice
 Saito             | 91    | 7      | $170  | 153   |
 Saito             | 91    | 8      | $170  | 154   | Muffler older than engine.
 Saito             | 100   | 7      | $170  | 150   |
-Saito             | 125   | 8      | $220  | 157   | Gold Knight
-YS FZ             | 53    | 8      | $150  | 156   |                                       
+YS FZ             | 53    | 8      | $150  | 156   | 
+YS FZ             | 53    | 7      | $135  | 158   | 
 YS SF             | 120   | 8      | $205  | 246   |                                      
 YS FS             | 120   | 8      | $215  | 251   | Equipped with the YS bulb shapped muffler
 YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler
