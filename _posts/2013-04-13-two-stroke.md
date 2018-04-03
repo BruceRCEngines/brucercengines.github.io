@@ -31,25 +31,29 @@ OS Max FP         | 60    | 7      | $60   | 82    | Has a Semico strap on muffl
 OS Max FX         | 61    | 6      | $70   | 66    |
 OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
 OS Max FX         | 61    | 7      | $95   | 58    |
-OS Max FX         | 61    | 7      | $95   | 35    | 
+OS Max FX         | 61    | 7      | $95   | 35    |
+OS Max FX         | 61    | 8      | $105  | 38    | Pitts Muffler
 OS Max FX         | 61    | 10     | $140  | 43    |
 OS Max FX         | 91    | 7      | $125  | 63    |
 OS Max FX         | 91    | 7      | $120  | 67    |                                 
 OS Max LA         | 40    | 7      | $45   | 55    |
 OS Max SF         | 46    | 7      | $55   | 65    |
-OS Max SF         | 61    | 7      | $100  | 64    | Ringed version
-OS Max SF         | 61    | 7      | $95   | 39    |
+OS Max SF         | 46    | 10     | $95   | 59    | Ringed
+OS Max SF         | 61    | 7      | $95   | 64    | Ringed version
+OS Max SF         | 61    | 8      | $110  | 57    | Ringed
+OS Max SF         | 61    | 7      | $95   | 39    | ABC
 OS Max SR         | 40    | 7      | $50   | 61    | New Ring
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used! 
 Skyward           | 60    | 1      | $15   | jp1   | Crankcase is excellent.  Some other parts included, but condition uncertain.
 Super Tiger       | 45    | 10     | $75   | 189   | Missing box
-Super Tiger       | 45    | 9      | $75   | 191   | New Bearings
-Super Tiger       | 45    | 8      | $65   | 185   |
-Super Tiger       | 61    | 7      | $70   | 184   | 2 chipped fins on corner of head.  Runs very well.
+Super Tiger       | 45    | 9      | $65   | 191   | New Bearings
+Super Tiger       | 45    | 8      | $60   | 185   |
+Super Tiger       | 61    | 7      | $65   | 184   | 2 chipped fins on corner of head.  Runs very well.
 Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 90    | 6+     | $100  | 62    | Runs impressively.  Oldder round head style, made in Italy.
 Thunder Tiger Pro | 46    | 8      | $70   | 74    | 
 Thunder Tiger Pro | 46    | 10     | $80   | 73    | Priced down to 9 because of light shelf patina   
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 72    |
+Thunder Tiger Pro | 61    | 6      | $70   | 71    | 
 {: .table .table-bordered .table-condensed .table-hover .footable}
