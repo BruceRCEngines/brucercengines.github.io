@@ -30,23 +30,26 @@ Enya              | 80    | 7      | $120  | 100   |
 Magnum XL         | 30    | 10     | $130  | 22    | Cute!
 Magnum XL         | 52    | 7      | $80   | 34    |  
 OS Surpass        | 26    | 8      | $130  | 166   |
+OS Surpass        | 48    | 7      | $105  | 15    |
 OS Surpass        | 52    | 7      | $120  | 26    |
+OS Surpass        | 70    | 6      | $135  | 199   |
 OS Surpass        | 70    | 10     | $200  | 201   |
-OS Surpass        | 70    | 8      | $165  | 192   |
 OS Surpass        | 91    | 7      | $160  | 141   |
 OS Surpass        | 91    | 9      | $195  | 190   |
 OS Surpass        | 91    | 10     | $225  | 175   |
-OS Surpass        | 91    | 9      | $200  | 179   |
+OS Surpass        | 91    | 9      | $200  | 179   |Bench run once for about 2 min.
 OS Surpass II     | 91    | 8      | $185  | 86    |
 OS Surpass        | 120   | 7      | $210  | 202   |
 OS V              | 95    | 8      | $225  | 174   | Beautiful muffled sound. Might be a #9
-Saito             | 56    | 6      | $115  | 165   | 
 Saito             | 72    | 7      | $155  | 168   |
+Saito             | 72    | 7      | $150  | 171   |
+Saito             | 72    | 7      | $159  | 169   |
 Saito             | 72    | 8      | $165  | 173   |  
-Saito             | 72    | 8      | $175  | 162   |
+Saito             | 72    | 8      | $165  | 162   |
+Saito             | 82a   | 8      | $180  | 121   |
+Saito             | 91    | 8      | $185  | 148   |
 Saito             | 91    | 7      | $170  | 153   |
-Saito             | 91    | 8      | $170  | 154   | Muffler older than engine.
-Saito             | 125   | 8      | $220  | 157   | 
+Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
 YS FZ             | 53    | 8      | $150  | 156   | 
 YS FZ             | 53    | 7      | $135  | 158   | 
 YS SF             | 120   | 8      | $205  | 246   |                                      
