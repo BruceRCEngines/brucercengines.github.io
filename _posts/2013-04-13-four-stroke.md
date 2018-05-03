@@ -28,7 +28,6 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
 Enya              | 80    | 7      | $120  | 100   |
 Magnum XL         | 30    | 10     | $130  | 22    | Cute!
-Magnum XL         | 52    | 7      | $80   | 34    |  
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $105  | 15    |
 OS Surpass        | 48    | 6      | $75   | 13    |
