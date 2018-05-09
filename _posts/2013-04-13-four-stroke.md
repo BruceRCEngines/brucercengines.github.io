@@ -42,6 +42,7 @@ OS Surpass        | 120   | 8      | $215  | 204   |
 OS V              | 95    | 8      | $225  | 174   | Beautiful muffled sound. Might be a #9
 Saito             | 72    | 7      | $155  | 168   |
 Saito             | 72    | 7      | $150  | 171   |
+Saito             | 72    | 7      | $145  | 165   |
 Saito             | 72    | 7      | $159  | 169   |
 Saito             | 72    | 8      | $165  | 173   |  
 Saito             | 72    | 8      | $165  | 162   |
