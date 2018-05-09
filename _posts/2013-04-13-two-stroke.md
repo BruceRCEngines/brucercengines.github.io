@@ -57,6 +57,16 @@ Super Tiger       | 45    | 6      | $50   | 183   | chipped muffler mount corne
 Super Tiger       | 45    | 8      | $60   | 185   |
 Super Tiger       | 61    | 7      | $65   | 184   | 2 chipped fins on corner of head.  Runs very well.
 Super Tiger       | 61    | 7      | $75   | 182   |
+Super Tiger       | 61    | 7      | $75   | 188   | 
+
+
+
+
+
+
+
+
+
 Super Tiger       | 90    | 6+     | $100  | 62    | Runs impressively.  Oldder round head style, made in Italy.
 Thunder Tiger Pro | 46    | 8      | $70   | 74    |   
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
