@@ -26,7 +26,6 @@ featured_engine_name: Saito 125 Gold Knight
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
-Enya              | 80    | 7      | $120  | 100   |
 Magnum XL         | 30    | 10     | $130  | 22    | Cute!
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $105  | 15    |
@@ -52,12 +51,15 @@ Saito             | 91    | 7      | $170  | 153   |
 Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
 Saito             | 120   | 7      | $190  | 160   |
 YS FZ             | 53    | 8      | $150  | 156   |
-YS FZ             | 53    | 7      | $135  | 158   | 
-YS SF             | 120   | 8      | $205  | 246   |  
+YS FZ             | 53    | 7      | $135  | 158   |
+YS FS             | 120   | 7      | $200  | 241   | Cut off stack exhaust with a neopreme addition.
+YS FS             | 120   | 7      | $200  | 243   | Stack Exhaust
+YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
+YS SF             | 120   | 8      | $215  | 246   |  
 YS SF             | 120   | 7      | $205  | 205   | Muffler and 90 degree header
 YS SF             | 120   | 7      | $200  | 207   | Bulb muffler
-YS FS             | 120   | 8      | $215  | 251   | Equipped with the YS bulb shapped muffler
-YS FZ             | 120   | 7      | $200  | 206   | Bulb muffler
+YS FS             | 120   | 8      | $215  | 251   | Bulb shapped muffler
+YS FZ             | 120   | 7      | $205  | 206   | Bulb muffler
 YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler
 YS Sport          | 140   | 8      | $280  | 213   | Wrap around muffler with smoke capabilities.
 YS Sport          | 140   | 7      | $240  | 214   |                                      
