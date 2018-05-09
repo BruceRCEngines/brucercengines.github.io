@@ -23,6 +23,7 @@ Fuji              | 35    | 9      | $60   | 51    | May be a 10
 Fuji              | 40    | 8      | $85   | 31    | May be a 9
 GMS 2000          | 47    | 7      | $60   | 32    |
 HB                | 25    | 8      | $40   | 1     |
+Irvine            | 46    | 8      | $90   | 14    | Beautiful red.
 Magnum GP         | 65    | 9      | $65   | 132   |                                 
 Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
 Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
