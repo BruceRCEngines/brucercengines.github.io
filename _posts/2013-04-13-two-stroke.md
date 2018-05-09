@@ -13,14 +13,13 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|--------------------             
-Enya              | 29    | 10     | $50   | 8     |
 Evolution NT      | 61    | 10     | $90   | 99    |
 Evolution NT      | 61    | 10     | $90   | 90    |
 Evolution NT      | 61    | 10     | $90   | 98    |
 FOX               | 45    | 7      | $55   | 56    |
 FOX EAGLE         | 60    | 7      | $70   | 101   | POWER HOUSE
-Fuji              | 35    | 10     | $70   | 51    |
-Fuji              | 40    | 8      | $85   | 31    |
+Fuji              | 35    | 9      | $60   | 51    | May be a 10
+Fuji              | 40    | 8      | $85   | 31    | May be a 9
 GMS 2000          | 47    | 7      | $60   | 32    |
 HB                | 25    | 8      | $40   | 1     |
 Magnum GP         | 65    | 9      | $65   | 132   |                                 
