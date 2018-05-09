@@ -51,8 +51,7 @@ OS Max SF         | 61    | 8      | $110  | 57    | Ringed
 OS Max SF         | 61    | 7      | $95   | 39    | ABC
 OS Max SR         | 40    | 7      | $45   | 61    | New Ring
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used! 
-Skyward           | 60    | 1      | $15   | jp1   | Crankcase is excellent.  Some other parts included, but condition uncertain.
-Super Tiger       | 45    | 6      | $50   | 189   | chipped muffler mount corner repaired
+Super Tiger       | 45    | 10     | $75   | 189   | Missing Box
 Super Tiger       | 45    | 6      | $50   | 183   | chipped muffler mount corner
 Super Tiger       | 45    | 8      | $60   | 185   |
 Super Tiger       | 61    | 7      | $65   | 184   | 2 chipped fins on corner of head.  Runs very well.
