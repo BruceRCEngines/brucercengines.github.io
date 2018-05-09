@@ -28,7 +28,8 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
 Magnum XL         | 30    | 10     | $130  | 22    | Cute!
 OS Surpass        | 26    | 8      | $130  | 166   |
-OS Surpass        | 48    | 7      | $105  | 15    |
+OS Surpass        | 48    | 7      | $110  | 15    |
+OS Surpass        | 48    | 7      | $105  | 16    |
 OS Surpass        | 48    | 6      | $75   | 13    |
 OS Surpass        | 52    | 7      | $120  | 26    |
 OS Surpass        | 70    | 6      | $135  | 199   |
