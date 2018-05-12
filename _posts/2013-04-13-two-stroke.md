@@ -62,4 +62,5 @@ Thunder Tiger Pro | 46    | 8      | $70   | 74    |
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
 Thunder Tiger Pro | 61    | 9      | $90   | 72    |
 Thunder Tiger Pro | 61    | 6      | $70   | 71    | 
+Webra             | 60    | 7      | $70   | 91    | 10cc
 {: .table .table-bordered .table-condensed .table-hover .footable}
