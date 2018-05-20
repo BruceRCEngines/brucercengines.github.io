@@ -26,14 +26,12 @@ featured_engine_name: Saito 125 Gold Knight
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|---------------------
-Magnum XL         | 30    | 10     | $130  | 22    | Cute!
 Magnum XL         | 30    | 10     | $130  | 21    |
+Magnum XL         | 30    | 10     | $130  | 22    | 
+Magnum XL         | 91    | 8      | $150  | 116   | Has every bit as much "pinch" as an OS 91
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $110  | 15    |
 OS Surpass        | 48    | 7      | $105  | 16    |
-OS Surpass        | 48    | 6      | $75   | 13    |
-OS Surpass        | 52    | 7      | $120  | 26    |
-OS Surpass        | 70    | 6      | $135  | 199   |
 OS Surpass        | 70    | 10     | $200  | 201   |
 OS Surpass        | 91    | 7      | $160  | 141   |
 OS Surpass        | 91    | 9      | $200  | 179   |Bench run once for about 2 min.
@@ -41,6 +39,7 @@ OS Surpass II     | 91    | 8      | $185  | 86    |
 OS SURPASS II     | 91    | 7      | $170  | 178   |
 OS Surpass        | 120   | 7      | $190  | 202   |
 OS Surpass        | 120   | 8      | $215  | 204   |
+OS Surpass III    | 120   | 8      | $225  | 208   | Has the pump
 OS V              | 95    | 8      | $225  | 174   | Beautiful muffled sound. Might be a #9
 Saito             | 65    | 7      | $140  | 161   |
 Saito             | 72    | 7      | $155  | 168   |
@@ -48,8 +47,7 @@ Saito             | 72    | 7      | $150  | 171   |
 Saito             | 72    | 7      | $145  | 165   |
 Saito             | 72    | 7      | $159  | 169   |
 Saito             | 72    | 8      | $165  | 173   |  
-Saito             | 72    | 8      | $165  | 162   |
-Saito             | 80    | 6      | $145  | 123   | 
+Saito             | 72    | 8      | $165  | 162   | 
 Saito             | 80    | 7      | $160  | 163   |
 Saito             | 82a   | 8      | $180  | 121   |
 Saito             | 91    | 8      | $185  | 148   |
