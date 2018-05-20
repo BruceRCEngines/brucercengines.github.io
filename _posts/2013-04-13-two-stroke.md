@@ -54,7 +54,6 @@ OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or us
 Super Tiger       | 45    | 10     | $75   | 189   | Missing Box
 Super Tiger       | 45    | 6      | $50   | 183   | chipped muffler mount corner
 Super Tiger       | 45    | 8      | $60   | 185   |
-Super Tiger       | 61    | 7      | $65   | 184   | 2 chipped fins on corner of head.  Runs very well.
 Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   | 
 Super Tiger       | 90    | 6+     | $100  | 62    | Runs impressively.  Oldder round head style, made in Italy.
