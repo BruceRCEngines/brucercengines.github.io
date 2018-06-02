@@ -47,7 +47,6 @@ Saito             | 72    | 7      | $145  | 165   |
 Saito             | 72    | 8      | $165  | 173   |  
 Saito             | 72    | 8      | $165  | 162   | 
 Saito             | 80    | 7      | $160  | 163   |
-Saito             | 82a   | 8      | $180  | 121   |
 Saito             | 91    | 8      | $185  | 148   |
 Saito             | 91    | 7      | $170  | 153   |
 Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
