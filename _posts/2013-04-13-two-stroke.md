@@ -29,7 +29,8 @@ Magnum XL         | 25    | 7      | $40   | 49    | One of a pair used on a P61
 Magnum XL         | 25    | 7      | $40   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
 MAGNUM XL         | 28    | 9      | $45   | 41    | Mounted but never run
 Magnum XL         | 53    | 6      | $45   | 47    |
-Magnum XL         | 61    | 10     | $75   | 94    | 
+Magnum XL         | 61    | 10     | $85   | 94    |
+Magnum XL         | 61    | 10     | $85   | 95    |
 OS Max FP         | 35    | 7      | $40   | 89    |
 OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat
 OS Max FP         | 60    | 7      | $60   | 82    | Has a Semico strap on muffler
