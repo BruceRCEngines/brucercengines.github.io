@@ -34,15 +34,12 @@ Magnum XL         | 91    | 7      | $130  | 117   |
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $105  | 16    |
 OS Surpass        | 70    | 10     | $200  | 201   |
-OS Surpass        | 91    | 7      | $160  | 141   |
 OS Surpass        | 91    | 9      | $200  | 179   |Bench run once for about 2 min.
 OS Surpass        | 91    | 10     | $225  | 175   | 
 OS Surpass II     | 91    | 8      | $185  | 86    |
-OS SURPASS II     | 91    | 7      | $170  | 178   |
 OS Surpass        | 120   | 8      | $215  | 204   |
 OS Surpass III    | 120   | 8      | $225  | 208   | Has the pump
 Saito             | 65    | 7      | $140  | 161   |
-Saito             | 72    | 7      | $155  | 168   |
 Saito             | 72    | 7      | $150  | 171   |
 Saito             | 72    | 8      | $165  | 173   |   
 Saito             | 80    | 7      | $160  | 163   |
