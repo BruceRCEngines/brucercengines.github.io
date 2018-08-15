@@ -25,8 +25,7 @@ GMS 2000          | 47    | 7      | $50   | 32    |
 HB                | 25    | 8      | $40   | 1     |
 Irvine            | 46    | 8      | $90   | 14    | Beautiful red.
 Magnum GP         | 65    | 9      | $65   | 132   |                                 
-Magnum XL         | 25    | 7      | $35   | 49    | One of a pair used on a P61. Carefully broken in and flown 8 times.  Plane wrecked without effecting the engines.
-Magnum XL         | 25    | 7      | $35   | 48    | One of a pair used on a P61.  Carefully broken in and flown 8 times.  Plane wrecked withuut effecting the engines.
+Magnum XL         | 25    | 7      | $35   | 49    | Carefully broken in and flown 8 times.  Plane wrecked without effecting the engine.
 MAGNUM XL         | 28    | 9      | $45   | 41    | Mounted but never run
 Magnum XL         | 53    | 6      | $45   | 47    |
 Magnum XL         | 61    | 10     | $80   | 94    |
@@ -39,8 +38,6 @@ OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
 OS Max FX         | 61    | 7      | $90   | 58    |
 OS Max FX         | 61    | 7      | $90   | 35    |
 OS Max FX         | 61    | 8      | $105  | 38    | Pitts Muffler
-OS Max FX         | 61    | 10     | $140  | 43    |
-OS Max FX         | 61    | 7      | $95   | 52    |
 OS Max FX         | 91    | 7      | $120  | 67    |                                 
 OS Max LA         | 40    | 7      | $45   | 55    |
 OS Max SF         | 46    | 7      | $55   | 65    |
