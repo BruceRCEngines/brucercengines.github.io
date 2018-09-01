@@ -17,7 +17,7 @@ Enya              | 29    | 10     | $50   | 8     |
 Evolution NT      | 61    | 10     | $90   | 99    |
 Evolution NT      | 61    | 10     | $90   | 90    |
 Evolution NT      | 61    | 10     | $90   | 98    |
-FOX               | 45    | 7      | $55   | 56    |
+FOX               | 45    | 7      | $50   | 56    |
 FOX EAGLE         | 60    | 7      | $70   | 101   | POWER HOUSE
 Fuji              | 35    | 9      | $60   | 51    | May be a 10
 Fuji              | 40    | 8      | $85   | 31    | May be a 9
@@ -31,7 +31,8 @@ Magnum XL         | 53    | 6      | $45   | 47    |
 Magnum XL         | 61    | 10     | $80   | 94    |
 Magnum XL         | 61    | 10     | $80   | 95    |
 OS Max AX         | 46    | 7      | $75   | 69    |
-OS Max FP         | 60    | 7      | $65   | 81    | Small chip out of the top of carb throat
+OS Max AX         | 55    | 9      | $130  | 77    | Choose either stock muffler or pitts muffler.
+OS Max FP         | 60    | 7      | $65   | 81    | 
 OS Max FX         | 46    | 7      | $65   | 70    |
 OS max FX         | 46    | 7      | $70   | 75    |
 OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
@@ -40,6 +41,8 @@ OS Max FX         | 61    | 7      | $90   | 35    |
 OS Max FX         | 61    | 8      | $105  | 38    | Pitts Muffler
 OS Max FX         | 91    | 7      | $120  | 67    |                                 
 OS Max LA         | 40    | 7      | $45   | 55    |
+OS Max LA         | 40    | 7      | $50   | 30    |
+OS Max SF         | 40    | 6      | $40   | 68    |
 OS Max SF         | 46    | 7      | $55   | 65    |
 OS Max SF         | 46    | 10     | $95   | 59    | Ringed
 OS Max SF         | 61    | 7      | $100  | 64    | Ringed version
