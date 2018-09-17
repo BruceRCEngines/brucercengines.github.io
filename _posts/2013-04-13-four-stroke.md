@@ -54,7 +54,7 @@ YS FZ             | 53    | 8      | $150  | 156   |
 YS FS             | 120   | 7      | $200  | 243   | Stack Exhaust
 YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
 YS SF             | 120   | 8      | $215  | 246   |  
-YS SF             | 120   | 7      | $205  | 205   | Muffler and 90 degree header
+YS SF             | 120   | 7      | $205  | 205   | Muffler and 45 degree header
 YS FS             | 120   | 8      | $215  | 251   | Bulb shapped muffler
 YS FS             | 120   | 7+     | $210  | 239   | 
 YS FZ             | 120   | 7      | $205  | 206   | Bulb muffler
