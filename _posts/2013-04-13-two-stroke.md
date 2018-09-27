@@ -31,6 +31,7 @@ Magnum XL         | 53    | 6      | $45   | 47    |
 Magnum XL         | 61    | 10     | $80   | 94    |
 Magnum XL         | 61    | 10     | $80   | 95    |
 OS Max AX         | 46    | 7      | $75   | 69    |
+OS Max AX         | 55    | 7      | $90   | 78    |
 OS Max AX         | 55    | 9      | $130  | 77    | Choose either stock muffler or pitts muffler.
 OS Max FP         | 60    | 7      | $65   | 81    | 
 OS Max FX         | 46    | 7      | $65   | 70    |
@@ -42,8 +43,8 @@ OS Max FX         | 61    | 8      | $105  | 38    | Pitts Muffler
 OS Max FX         | 91    | 7      | $120  | 67    |                                 
 OS Max LA         | 40    | 7      | $45   | 55    |
 OS Max LA         | 40    | 7      | $50   | 30    |
+OS Max LA         | 65    | 8      | $75   | 82    |
 OS Max SF         | 40    | 6      | $40   | 68    |
-OS Max SF         | 46    | 7      | $55   | 65    |
 OS Max SF         | 46    | 10     | $95   | 59    | Ringed
 OS Max SF         | 61    | 7      | $100  | 64    | Ringed version
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
@@ -55,6 +56,7 @@ Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 61    | 7      | $65   | 180   |
 Super Tiger       | 90    | 6+     | $100  | 62    | Runs impressively.  Older round head style, made in Italy.
+Tower             | 40    | 10     | $55   | JP1   | 
 Thunder Tiger Pro | 46    | 8      | $70   | 74    |   
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
 {: .table .table-bordered .table-condensed .table-hover .footable}
