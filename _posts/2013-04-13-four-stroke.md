@@ -33,8 +33,8 @@ Magnum XL         | 91    | 8      | $150  | 116   | Has every bit as much "pinc
 Magnum XL         | 91    | 7      | $130  | 117   | 
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $105  | 16    |
-OS Surpass        | 91    | 6      | $130  | 146   |
-OS Surpass        | 91    | 6      | $130  | 177   | Idles at 2200.  If it had a lower idle would be rated 7.  Runs great on high.
+OS Surpass        | 70    | 8      | $130  | 146   |
+OS Surpass        | 91    | 6      | $165  | 192   |
 OS Surpass        | 91    | 9      | $200  | 179   |Bench run once for about 2 min.
 OS Surpass        | 91    | 10     | $225  | 175   | 
 OS Surpass II     | 91    | 8      | $185  | 86    |
@@ -50,6 +50,7 @@ Saito             | 91    | 8      | $180  | 154   | Muffler older than engine.
 Saito             | 100   | 7      | $180  | 172   |
 Saito             | 120   | 7      | $190  | 160   |
 YS FZ             | 53    | 8      | $150  | 156   |
+YS AC             | 120   | 7      | $195  | 238   |
 YS FS             | 120   | 7      | $200  | 243   | Stack Exhaust
 YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
 YS SF             | 120   | 8      | $215  | 246   |  
