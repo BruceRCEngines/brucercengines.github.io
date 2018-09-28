@@ -56,7 +56,7 @@ Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 61    | 7      | $65   | 180   |
 Super Tiger       | 90    | 6+     | $100  | 62    | Runs impressively.  Older round head style, made in Italy.
-Tower             | 40    | 10     | $55   | JP1   | 
+Tower             | 40    | 10     | $55   | 301   | 
 Thunder Tiger Pro | 46    | 8      | $70   | 74    |   
 Thunder Tiger Pro | 61    | 8      | $85   | 140   |
 {: .table .table-bordered .table-condensed .table-hover .footable}
