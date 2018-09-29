@@ -22,7 +22,6 @@ FOX EAGLE         | 60    | 7      | $70   | 101   | POWER HOUSE
 Fuji              | 35    | 9      | $60   | 51    | May be a 10
 Fuji              | 40    | 8      | $85   | 31    | May be a 9
 GMS 2000          | 47    | 7      | $50   | 32    |
-HB                | 25    | 8      | $40   | 1     |
 Irvine            | 46    | 8      | $90   | 14    | Beautiful red.
 Magnum GP         | 65    | 9      | $65   | 132   |                                 
 Magnum XL         | 25    | 7      | $35   | 49    | Carefully broken in and flown 8 times.  Plane wrecked without effecting the engine.
@@ -33,7 +32,8 @@ Magnum XL         | 61    | 10     | $80   | 95    |
 OS Max AX         | 46    | 7      | $75   | 69    |
 OS Max AX         | 55    | 7      | $90   | 78    |
 OS Max AX         | 55    | 9      | $130  | 77    | Choose either stock muffler or pitts muffler.
-OS Max FP         | 60    | 7      | $65   | 81    | 
+OS Max FP         | 60    | 7      | $65   | 81    |
+OS Max FX         | 46    | 7      | $70   | 302   | Hot engine!  After market muffler and Evolution rear neeedle bracket.
 OS Max FX         | 46    | 7      | $65   | 70    |
 OS max FX         | 46    | 7      | $70   | 75    |
 OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
@@ -46,12 +46,14 @@ OS Max LA         | 40    | 7      | $50   | 30    |
 OS Max LA         | 65    | 8      | $75   | 82    |
 OS Max SF         | 40    | 6      | $40   | 68    |
 OS Max SF         | 46    | 10     | $95   | 59    | Ringed
-OS Max SF         | 61    | 7      | $100  | 64    | Ringed version
+OS Max SF         | 50    | 6      | $60   | 60    | Rough looking, otherwise performs as well as a 7.
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
+OS Max SR         | 45    | 6      | $45   | 60    | Idles at 2380 rpm.  IF it would idle at 2100 rpm or lower it would be a 7
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used! 
 Super Tiger       | 45    | 10     | $75   | 189   | Missing Box
 Super Tiger       | 45    | 6      | $50   | 183   | chiped outer corner and repaired muffler mount
 Super Tiger       | 45    | 8      | $60   | 185   |
+Super Tiger       | 61    | 6      | $60   | 181   | needle fits stilfly because of slight bend in needle receiver, otherwise would be rated 7.
 Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 61    | 7      | $65   | 180   |
