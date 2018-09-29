@@ -50,6 +50,7 @@ Saito             | 91    | 8      | $180  | 154   | Muffler older than engine.
 Saito             | 100   | 7      | $180  | 172   |
 Saito             | 120   | 7      | $190  | 160   |
 YS FZ             | 53    | 8      | $150  | 156   |
+YS FZ             | 91    | 7      | $175  | 162   | Impressive engine.
 YS AC             | 120   | 7      | $195  | 238   |
 YS FS             | 120   | 7      | $200  | 243   | Stack Exhaust
 YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
