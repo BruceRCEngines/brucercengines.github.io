@@ -5,7 +5,7 @@ permalink: /four_stroke.html
 layout: engine_listings
 featured_engine_photo_url: >-
   img/engines/featured/4-stroke.jpg
-featured_engine_name: Saito 125 Gold Knight
+featured_engine_name: OS 91 Surpass #179
 ---
 
 
