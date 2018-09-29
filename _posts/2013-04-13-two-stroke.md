@@ -46,7 +46,7 @@ OS Max LA         | 40    | 7      | $50   | 30    |
 OS Max LA         | 65    | 8      | $75   | 82    |
 OS Max SF         | 40    | 6      | $40   | 68    |
 OS Max SF         | 46    | 10     | $95   | 59    | Ringed
-OS Max SF         | 50    | 6      | $60   | 60    | Rough looking, otherwise performs as well as a 7.
+OS Max SF         | 50    | 6      | $60   | 303    | Rough looking, otherwise performs as well as a 7.
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
 OS Max SR         | 45    | 6      | $45   | 60    | Idles at 2380 rpm.  IF it would idle at 2100 rpm or lower it would be a 7
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used! 
