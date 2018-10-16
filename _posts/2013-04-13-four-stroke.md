@@ -33,8 +33,7 @@ Magnum XL         | 91    | 8      | $150  | 116   | Has every bit as much "pinc
 Magnum XL         | 91    | 7      | $165  | 117   | 
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $105  | 16    |
-OS Surpass        | 70    | 8      | $165  | 146   |
-OS Surpass        | 91    | 6      | $135  | 192   |
+OS Surpass        | 70    | 6      | $135  | 192   |
 OS Surpass        | 91    | 9      | $200  | 179   |Bench run once for about 2 min.
 OS Surpass        | 91    | 10     | $225  | 175   | 
 OS Surpass II     | 91    | 8      | $185  | 86    |
