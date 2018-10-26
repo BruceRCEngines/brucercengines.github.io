@@ -30,7 +30,7 @@ Magnum XL         | 30    | 10     | $120  | 21    |
 Magnum XL         | 30    | 10     | $120  | 22    |
 Magnum XL         | 91    | 7      | $135  | 115   |
 Magnum XL         | 91    | 8      | $150  | 116   | Has every bit as much "pinch" as an OS 91
-Magnum XL         | 91    | 7      | $165  | 117   | 
+Magnum XL         | 91    | 7      | $130  | 117   | 
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $105  | 16    |
 OS Surpass        | 70    | 6      | $135  | 192   |
