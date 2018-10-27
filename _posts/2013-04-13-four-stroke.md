@@ -30,26 +30,27 @@ Magnum XL         | 30    | 10     | $120  | 21    |
 Magnum XL         | 30    | 10     | $120  | 22    |
 Magnum XL         | 91    | 7      | $135  | 115   |
 Magnum XL         | 91    | 8      | $150  | 116   | Has every bit as much "pinch" as an OS 91
-Magnum XL         | 91    | 7      | $130  | 117   | 
+Magnum XL         | 91    | 7      | $130  | 117   |
+Magnum XL         | 91    | 9      | $165  | 114   |
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $105  | 16    |
+OS Surpass II     | 52    | 7      | $125  | 164   |
 OS Surpass        | 70    | 6      | $135  | 192   |
-OS Surpass        | 91    | 9      | $200  | 179   |Bench run once for about 2 min.
-OS Surpass        | 91    | 10     | $225  | 175   | 
+OS Surpass        | 70    | 7      | $145  | 193   |
+OS Surpass        | 91    | 9      | $210  | 179   |Bench run once for about 2 min.
+OS Surpass        | 91    | 7      | $175  | 176   | 
 OS Surpass II     | 91    | 8      | $185  | 86    |
 OS Surpass        | 120   | 8      | $215  | 204   |
 OS Surpass III    | 120   | 8      | $225  | 208   | Has the pump
 Saito             | 65    | 7      | $140  | 161   |
-Saito             | 65    | 10     | $175  | 147   |
 Saito             | 72    | 7      | $150  | 171   |   
 Saito             | 80    | 7      | $160  | 163   |
 Saito             | 91    | 8      | $185  | 148   |
 Saito             | 91    | 7      | $160  | 153   |
 Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
 Saito             | 100   | 7      | $180  | 172   |
-Saito             | 120   | 7      | $190  | 160   |
-YS FZ             | 53    | 8      | $150  | 156   |
 YS FZ             | 91    | 7      | $175  | 162   | Impressive engine.
+YS AC             | 110   | 8      | $200  | 170   | 
 YS AC             | 120   | 7      | $195  | 238   |
 YS FS             | 120   | 7      | $200  | 243   | Stack Exhaust
 YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
