@@ -37,7 +37,7 @@ OS Surpass        | 48    | 7      | $105  | 16    |
 OS Surpass II     | 52    | 7      | $125  | 164   |
 OS Surpass        | 70    | 6      | $135  | 192   |
 OS Surpass        | 70    | 7      | $145  | 193   |
-OS Surpass        | 91    | 9      | $210  | 179   |Bench run once for about 2 min.
+OS Surpass        | 91    | 9      | $195  | 179   |Bench run once for about 2 min.
 OS Surpass        | 91    | 7      | $175  | 176   | 
 OS Surpass II     | 91    | 8      | $185  | 86    |
 OS Surpass        | 120   | 8      | $215  | 204   |
