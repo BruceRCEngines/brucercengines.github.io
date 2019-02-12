@@ -31,20 +31,21 @@ Magnum XL         | 91    | 8      | $150  | 116   | Has every bit as much "pinc
 Magnum XL         | 91    | 9      | $165  | 114   |
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $105  | 16    |
+OS Surpass        | 48    | 7      | $110  | 17    |
 OS Surpass II     | 52    | 7      | $125  | 164   |
 OS Surpass        | 70    | 8      | $165  | 192   |
 OS Surpass        | 70    | 7      | $145  | 193   |
-OS Surpass        | 91    | 9      | $200  | 179   |Bench run once for about 2 min.
-OS Surpass        | 91    | 7      | $175  | 176   | 
+OS Surpass        | 91    | 7      | $175  | 176   |
+OS Surpass        | 91    | 9      | $200  | 179   | BEnch run once for about 2 minutes
 OS Surpass II     | 91    | 8      | $185  | 86    |
 OS Surpass        | 120   | 8      | $215  | 204   |
 OS Surpass III    | 120   | 8      | $225  | 208   | Has the pump
-Saito             | 65    | 7      | $140  | 161   |
-Saito             | 72    | 7      | $150  | 171   |   
+Saito             | 72    | 7      | $150  | 171   |
+Saito             | 72    | 10     | $190  | 174   | Aluminum back plate.  A bit of patina from sehlf setting.
 Saito             | 80    | 7      | $160  | 163   |
 Saito             | 91    | 8      | $185  | 148   |
-Saito             | 91    | 7      | $160  | 153   |
 Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
+Saito             | 91    | 9      | $200  | 149   | 
 Saito             | 100   | 7      | $180  | 172   |
 YS FZ             | 91    | 7      | $175  | 162   | Impressive engine.
 YS AC             | 110   | 8      | $200  | 170   | 
