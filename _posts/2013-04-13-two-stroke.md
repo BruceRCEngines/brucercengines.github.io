@@ -55,6 +55,5 @@ Super Tiger       | 45    | 8      | $60   | 185   |
 Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 61    | 7      | $65   | 180   |
-Super Tiger       | 90    | 6+     | $100  | 62    | Runs impressively.  Older round head style, made in Italy. 
-Thunder Tiger Pro | 46    | 8      | $70   | 74    |   
+Super Tiger       | 90    | 6+     | $100  | 62    | Runs impressively.  Older round head style, made in Italy. kh 
 {: .table .table-bordered .table-condensed .table-hover .footable}
