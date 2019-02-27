@@ -45,7 +45,7 @@ Saito             | 72    | 10     | $190  | 174   | Aluminum back plate.  A bit
 Saito             | 80    | 7      | $160  | 163   |
 Saito             | 91    | 8      | $185  | 148   |
 Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
-Saito             | 91    | 9      | $200  | 149   | 
+Saito             | 91    | 9      | $200  | 149   | my attemps to mail to the person interessted in this engine bounce back.  PLease write to me again.
 Saito             | 100   | 7      | $180  | 172   |
 YS FZ             | 91    | 7      | $175  | 162   | Impressive engine.
 YS AC             | 110   | 8      | $200  | 170   | 
