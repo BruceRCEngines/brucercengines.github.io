@@ -26,10 +26,8 @@ Magnum XL         | 61    | 7      | $60   | 96    |
 Magnum XL         | 61    | 10     | $80   | 94    |
 Magnum XL         | 61    | 10     | $80   | 95    |
 OS Max AX         | 46    | 7      | $75   | 69    |
-OS Max AX         | 55    | 7      | $90   | 78    |
 OS Max FP         | 60    | 7      | $65   | 81    |
 OS Max FX         | 46    | 7      | $70   | 72    |
-OS Max FX         | 46    | 7      | $75   | 73    |
 OS Max FX         | 46    | 7      | $70   | 75    |
 OS Max FX         | 46    | 7      | $75   | 73    |
 OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
