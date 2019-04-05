@@ -18,14 +18,15 @@ Evolution NT      | 61    | 10     | $90   | 90    |
 FOX               | 45    | 7      | $50   | 56    |
 FOX EAGLE         | 60    | 7      | $70   | 101   | POWER HOUSE
 Fuji              | 40    | 8      | $70   | 31    | May be a 9
-Irvine            | 46    | 8      | $90   | 14    | Beautiful red.
+Irvine            | 46    | 7-     | $60   | 14    | very small leak at needle, otherwise great!
 Magnum GP         | 65    | 9      | $65   | 132   |  
 Magnum Pro        | 40    | 8      | $50   | 42    |
 MAGNUM XL         | 28    | 9      | $45   | 41    | Mounted but never run
 Magnum XL         | 61    | 7      | $60   | 96    | 
 Magnum XL         | 61    | 10     | $80   | 94    |
 Magnum XL         | 61    | 10     | $80   | 95    |
-OS Max AX         | 46    | 7      | $75   | 69    |
+OS Max AX         | 46    | 7      | $75   | 68    |
+OS MAX FP         | 40    | 7      | $45   | 80    |
 OS Max FP         | 60    | 7      | $65   | 81    |
 OS Max FX         | 46    | 7      | $70   | 72    |
 OS Max FX         | 46    | 7      | $70   | 75    |
@@ -43,15 +44,14 @@ OS Max LA         | 65    | 8      | $75   | 82    |
 OS Max SF         | 40    | 6      | $40   | 68    |
 OS Max SF         | 46    | 10     | $95   | 59    | Ringed
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
+OS Max SR         | 60    | 6      | $90   | 60    | Still run great!
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
 OS Max SR         | 60    | 7      | $120  | 48    | Or, this might be my best 60 engine!
-OS Max            | 46    | 7      | $50   | 52    |
+OS Max            | 46    | 7      | $50   | 52    | 
 Super Tiger       | 40    | 7      | $50   | 187   | Italian made
-Super Tiger       | 45    | 10     | $75   | 189   | Missing Box
 Super Tiger       | 45    | 6      | $50   | 183   | chiped outer corner and repaired muffler mount
 Super Tiger       | 45    | 8      | $60   | 185   |
 Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
-Super Tiger       | 61    | 7      | $65   | 180   |
-Super Tiger       | 90    | 6+     | $100  | 62    | Runs impressively.  Older round head style, made in Italy. kh 
+Super Tiger       | 90    | 6+     | $90   | 62    | Runs impressively.  Older round head style, made in Italy. kh 
 {: .table .table-bordered .table-condensed .table-hover .footable}
