@@ -25,7 +25,8 @@ featured_engine_name: OS 91 Surpass #179
 > Four stroke engines tickle the fancy of many of us because they are simply "neat." Their sound stirs the imagination, and they carry the airplane around the sky in a more realistic fashon.  But they are expensive.  A lot of money can be saved by buying used RC engines, if you can find a dependable used engine. I try to make all of my used engines relaible through repair, testing, and rating so you will know what you are getting before you buy.
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
-------------------|-------|--------|-------|-------|---------------------
+------------------|-------|--------|-------|-------|--------------------
+Magnum Xl         | 70    | 7      | $110  | 113   |
 Magnum XL         | 91    | 7      | $130  | 115   |
 Magnum XL         | 91    | 8      | $145  | 116   | Has every bit as much "pinch" as an OS 91
 Magnum XL         | 91    | 9      | $155  | 114   |
@@ -39,12 +40,16 @@ OS Surpass        | 91    | 7      | $165  | 176   |
 OS Surpass        | 91    | 9      | $195  | 179   | BEnch run once for about 2 minutes
 OS Surpass II     | 91    | 8      | $175  | 86    |
 OS Surpass        | 120   | 8      | $205  | 204   |
+Saito             | 56    | 7      | $125  | 168   |
+Saito             | 65    | 7+     | $145  | 169   |
+Saito             | 72    | 7      | $155  | 177   | 
 Saito             | 72    | 7      | $150  | 171   |
-Saito             | 72    | 10     | $190  | 174   | Aluminum back plate.  A bit of patina from sehlf setting.
 Saito             | 80    | 7      | $160  | 163   |
+Saito             | 91    | 7+     | $175  | 185   | 
 Saito             | 91    | 8      | $185  | 148   |
 Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
 Saito             | 91    | 9      | $200  | 149   |
+Saito             | 91    | 9      | $200  | 147   | 
 Saito             | 100   | 7      | $180  | 172   |
 YS FZ             | 91    | 7      | $175  | 162   | Impressive engine.
 YS AC             | 110   | 8      | $200  | 170   | 
