@@ -44,7 +44,7 @@ OS Max LA         | 40    | 7      | $45   | 30    |
 OS Max LA         | 40    | 6      | $30   | 51    |
 OS Max LA         | 40    | 10     | $65   | 33    |
 OS Max LA         | 65    | 8      | $75   | 82    |
-OS Max SF         | 40    | 6      | $40   | 68    |
+OS Max SF         | 40    | 6      | $40   | 66    |
 OS Max SF         | 46    | 10     | $95   | 59    | Ringed
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
 OS Max SR         | 60    | 6      | $90   | 60    | Still run great!
