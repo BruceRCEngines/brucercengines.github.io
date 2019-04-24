@@ -41,7 +41,6 @@ OS Surpass        | 91    | 7      | $165  | 180   |
 OS Surpass        | 91    | 7      | $170  | 178   | Runs very well
 OS Surpass        | 91    | 9      | $195  | 179   | BEnch run once for about 2 minutes
 OS Surpass II     | 91    | 8      | $175  | 86    |
-OS Surpass        | 120   | 8      | $205  | 204   |
 Saito             | 56    | 7      | $125  | 168   |
 Saito             | 65    | 7+     | $145  | 169   |
 Saito             | 72    | 7      | $155  | 177   | 
