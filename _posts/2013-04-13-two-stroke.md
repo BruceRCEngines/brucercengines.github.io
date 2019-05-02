@@ -17,7 +17,7 @@ Evolution NT      | 61    | 10     | $90   | 99    |
 Evolution NT      | 61    | 10     | $90   | 90    |
 FOX               | 45    | 7      | $50   | 56    |
 FOX EAGLE         | 60    | 7      | $70   | 101   | POWER HOUSE
-Fuji              | 40    | 8      | $70   | 31    | May be a 9
+Fuji              | 40    | 8      | $60   | 31    | May be a 9
 Irvine            | 46    | 7-     | $60   | 14    | very small leak at needle, otherwise great
 Irvine            | 61    | 6+     | $50   | 13    | Runs well for an older used engine.
 Magnum GP         | 65    | 9      | $65   | 132   |  
@@ -44,7 +44,6 @@ OS Max LA         | 40    | 7      | $45   | 30    |
 OS Max LA         | 40    | 6      | $30   | 51    |
 OS Max LA         | 40    | 10     | $65   | 33    |
 OS Max LA         | 65    | 8      | $75   | 82    |
-OS Max SF         | 40    | 6      | $40   | 66    |
 OS Max SF         | 46    | 10     | $95   | 59    | Ringed
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
 OS Max SR         | 60    | 6      | $90   | 60    | Still run great!
