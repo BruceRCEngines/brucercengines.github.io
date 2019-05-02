@@ -48,8 +48,7 @@ OS Max SF         | 46    | 10     | $95   | 59    | Ringed
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
 OS Max SR         | 60    | 6      | $90   | 60    | Still run great!
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
-OS Max SR         | 60    | 7      | $120  | 48    | Or, this might be my best 60 engine!
-OS Max            | 46    | 7      | $50   | 52    | 
+OS Max SR         | 60    | 7      | $120  | 48    | Or, this might be my best 60 engine! 
 Super Tiger       | 40    | 7      | $50   | 187   | Italian made
 Super Tiger       | 45    | 6      | $50   | 183   | chiped outer corner and repaired muffler mount
 Super Tiger       | 45    | 8      | $60   | 185   |
