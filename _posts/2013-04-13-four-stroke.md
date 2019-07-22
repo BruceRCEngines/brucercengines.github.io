@@ -26,25 +26,32 @@ featured_engine_name: OS 91 Surpass #179
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|--------------------
-Magnum Xl         | 70    | 7      | $110  | 113   |
+Magnum XL         | 70    | 7      | $110  | 113   |
 Magnum XL         | 91    | 7      | $130  | 115   |
 Magnum XL         | 91    | 8      | $145  | 116   | Has every bit as much "pinch" as an OS 91
 Magnum XL         | 91    | 9      | $155  | 114   |
+OS FL             | 70    | 6      | $135  | 191   | Tested with 13x6 prop. Ran at 9,500 rpm and idled at 2,100. Transition ,  compression, and bearings good.
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $95   | 16    |
 OS Surpass        | 48    | 7      | $100  | 17    |
 OS Surpass II     | 52    | 7      | $125  | 164   |  
-OS Surpass        | 70    | 8      | $165  | 192   |
 OS Surpass        | 70    | 7      | $145  | 193   |
 OS Surpass        | 91    | 7      | $165  | 180   |
 OS Surpass        | 91    | 7      | $170  | 178   | Runs very well
 OS Surpass        | 91    | 7+     | $175  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
-OS Surpass        | 91    | 9      | $200  | 179   | BEnch run once for about 2 minutes
+OS Surpass        | 91    | 7      | $170  | 196   |
+OS Surpass        | 91    | 7-     | $160  | 183   | Teted with 14x8 prop. Ran at 9,150 rpmand idled at 2,030.  Transition, bearings, and compression good.  
+OS Surpass        | 91    | 7-     | $160  | 181   | Tested with a 14x8 prop. Ran at 9,100 rpm and idled at 2,100.  Transition, bearings, and compression good . New ring and needs to be run in.
+OS surpass        | 91    | 9      | $200  | 179   | Bench run once for about 2 minutes.
 OS Surpass II     | 91    | 8      | $180  | 86    |
-Saito             | 56    | 7      | $125  | 168   |
+Saito Gold Knight | 50    | 6+     | $100  | 161   |
+Saito             | 50    | 7      | $125  | 158   |
+Saito             | 56    | 7      | $125  | 159   |
+Saito             | 65    | 7      | $140  | 160   | 
 Saito             | 72    | 7      | $155  | 177   | 
-Saito             | 72    | 7      | $150  | 165   | tested with a 13x7 prop and got 10,320 high and idled at 1,740.
-Saito             | 72    | 7+     | $160  | 173   |
+Saito             | 72    | 7      | $150  | 165   | Tested with a 13x7 prop and got 10,320 high and idled at 1,740. Compression, bearings and transition good.
+Saito             | 72    | 8-     | $165  | 192   | 
+Saito             | 80    | 7-     | $155  | 156   | Tested with 13x7 prop.  Ran at 10,290 and idled at 2,100. Bearings, transition and compression good.
 Saito             | 80    | 7      | $160  | 163   |
 Saito             | 91    | 7+     | $175  | 185   | 
 Saito             | 91    | 8      | $185  | 148   |
@@ -53,7 +60,8 @@ Saito             | 91    | 9      | $200  | 149   |
 Saito             | 91    | 9      | $200  | 147   | 
 Saito             | 100   | 7      | $180  | 172   |
 Saito             | 100   | 7+     | $190  | 167   | Runs fantastically well. tested with a 14x8 prop and got 9,000 rpm on high and idled at 1,800 rpm.
-Saito             | 100   | 10     | $250  | 161   | New
+Saito             | 100   | 8      | $200  | 195   | 
+YS FZ             | 53    | 6      | $125  | 157   |
 YS FZ             | 91    | 7      | $175  | 162   | Impressive engine.
 YS AC             | 110   | 8      | $200  | 170   | 
 YS AC             | 120   | 7      | $195  | 238   |
@@ -61,7 +69,6 @@ YS FS             | 120   | 7      | $200  | 243   | Stack Exhaust
 YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
 YS SF             | 120   | 8      | $215  | 246   |  
 YS SF             | 120   | 7      | $205  | 205   | Muffler and 45 degree header
-YS FS             | 120   | 8      | $215  | 251   | Bulb shapped muffler
 YS FS             | 120   | 7+     | $210  | 239   | 
 YS FZ             | 120   | 7      | $205  | 206   | Bulb muffler
 YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler
