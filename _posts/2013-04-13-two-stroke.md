@@ -59,6 +59,7 @@ Super Tiger       | 40    | 7      | $50   | 187   | Italian made
 Super Tiger       | 40    | 7      | $50   | 186   | Made in Italy.  Looks lightly used. Starts immediately.  Transition, compression, bearings, high speed and idle excellent.  Very responsive.
 Super Tiger       | 45    | 6      | $50   | 183   | chiped outer corner and repaired muffler mount
 Super Tiger       | 45    | 8      | $60   | 185   |
+Super Tiger       | 61    | 6      | $60   | 197   | 0lder round head style. Tested with 12x8 prop (a better fit would be 11x7) Ran at 10,400 rpm and idled at 2,400. Rpm numbers will be better with the smaller prop. Compression, bearings, ansition good. 
 Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 75    | 8-     | $90   | 87    |
