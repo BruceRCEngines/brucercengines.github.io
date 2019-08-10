@@ -58,9 +58,7 @@ Saito             | 80    | 7      | $160  | 163   |
 Saito             | 91    | 7+     | $175  | 185   | 
 Saito             | 91    | 8-     | $180  | 200   | Tested with 14x6 prop RAN at 9,360 rpm and idoled at 1,860. Compression, bearings, and transition good. Impressive.
 Saito             | 91    | 8      | $185  | 148   |
-Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
-Saito             | 91    | 9      | $200  | 149   |
-Saito             | 91    | 9      | $200  | 147   | 
+Saito             | 91    | 8      | $180  | 154   | Muffler older than engine.  
 Saito             | 100   | 7      | $180  | 172   |
 Saito             | 100   | 7+     | $190  | 167   | Runs fantastically well. tested with a 14x8 prop and got 9,000 rpm on high and idled at 1,800 rpm.
 Saito             | 100   | 8      | $200  | 195   | 
