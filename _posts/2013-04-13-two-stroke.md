@@ -64,5 +64,4 @@ Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 75    | 8-     | $90   | 87    |
 Super Tiger       | 90    | 6+     | $90   | 62    | Runs impressively.  Older round head style, made in Italy. 
-Webra Speed       | 61    | 6      | $60   | 63    | TEsted with 12x5 prop.  Ran at 11,100 rpm and idled at 2,400. Transition, compression, and berings good.  Impressive smoothe runing engine even thoujgh rated 6 because of age and idle.
 {: .table .table-bordered .table-condensed .table-hover .footable}
