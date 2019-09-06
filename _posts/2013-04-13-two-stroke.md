@@ -25,7 +25,6 @@ Magnum GP         | 65    | 9      | $65   | 132   |
 Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 46    | 5      | $35   | 91    | Looks ugly. Tested woith 12x5 prop (11x5 would be better fit). Ran at 10,200rpm and idled at 2,800.  Transition, bearings and compression good. IDle is the problem.
 Magnum XL         | 61    | 7      | $60   | 96    | 
-Magnum XL         | 61    | 10     | $80   | 94    |
 Magnum XL         | 61    | 10     | $80   | 95    |
 Magnum XL         | 61    | 7      | $55   | 97    |
 OS Max AX         | 46    | 7      | $75   | 68    |
@@ -38,14 +37,12 @@ OS Max FX         | 46    | 7      | $75   | 73    |
 OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
 OS Max FX         | 61    | 7      | $90   | 58    |
 OS Max FX         | 61    | 7      | $90   | 35    |
-OS Max FX         | 61    | 8      | $105  | 38    | Pitts Muffler
 OS Max FX         | 91    | 7      | $120  | 63    |
 OS Max H          | 20    | 6      | $30   | 15    | Tested with 9x7 prop. Ran at 9,300 rpm and idled at 2,300. Traansition, compression, and bearings good. Strong engine, but should idle better.
 OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise is impressive.
 OS Max LA         | 40    | 7      | $40   | 55    |
 OS Max LA         | 40    | 7      | $45   | 30    |
 OS Max LA         | 40    | 6      | $30   | 51    |
-OS Max LA         | 40    | 10     | $65   | 33    |
 OS Max LA         | 65    | 8      | $75   | 82    |
 OS Max SF         | 40    | 7+     | $65   | 71    | Tested with 11x6 prop. Ran at 11,600 rpm and idled at 1,950. Transition, bearings, and compression excellent. Strong solid engine.
 OS Max SF         | 46    | 10     | $95   | 59    | Ringed
