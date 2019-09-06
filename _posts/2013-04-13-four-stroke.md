@@ -71,6 +71,5 @@ YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
 YS SF             | 120   | 8      | $215  | 246   |  
 YS SF             | 120   | 7      | $205  | 205   | Muffler and 45 degree header
 YS FS             | 120   | 7+     | $210  | 239   | 
-YS FZ             | 120   | 7      | $205  | 206   | Bulb muffler
 YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler                                      
 {: .table .table-bordered .table-condensed .table-hover .footable}
