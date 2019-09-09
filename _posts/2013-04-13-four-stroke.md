@@ -55,6 +55,7 @@ Saito             | 72    | 7      | $150  | 165   | Tested with a 13x7 prop and
 Saito             | 72    | 8-     | $165  | 192   | 
 Saito             | 80    | 7-     | $155  | 159   | Tested with 13x7 prop.  Ran at 10,290 and idled at 2,100. Bearings, transition and compression good.
 Saito             | 80    | 7      | $160  | 163   |
+Saito             | 91    | 6      | $130  | 155   | Tested with a 14x6 prop.  Ran at 9360 rpm and idled at 2,200. Plug the extra hole in the muffler and I think the idle wil be reduced.  Bearings, transition, and compression are good.
 Saito             | 91    | 7+     | $175  | 185   | 
 Saito             | 91    | 8-     | $180  | 200   | Tested with 14x6 prop RAN at 9,360 rpm and idoled at 1,860. Compression, bearings, and transition good. Impressive.
 Saito             | 91    | 8      | $185  | 148   |
