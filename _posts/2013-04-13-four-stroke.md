@@ -62,7 +62,10 @@ Saito             | 91    | 8      | $185  | 148   |
 Saito             | 91    | 8      | $180  | 154   | Muffler older than engine.  
 Saito             | 100   | 7      | $180  | 172   |
 Saito             | 100   | 7+     | $190  | 167   | Runs fantastically well. tested with a 14x8 prop and got 9,000 rpm on high and idled at 1,800 rpm.
-Saito             | 100   | 8      | $200  | 195   | 
+Saito             | 100   | 8      | $200  | 195   |
+Saito             |120    | 7      | $190  | 229   | Tested with 16x8 prop.  Ran at 7,400 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression and bearings good.
+Saito             | 120   | 7      | $200  | 228   | Tested with 16x8 prop.  Ran at 7,920 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression, and bearings good.  
+Saito             | 120S  | 6      | $170  | 227   | Tested with 16x8 prop.  Ran at 7,830 rpm and idled at 1,800.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression and bearings good.  Carb will not tighten firm.  Add fitted nut to firm it up. 
 YS FZ             | 53    | 6      | $125  | 157   |
 YS FZ             | 91    | 7      | $175  | 162   | Impressive engine.
 YS AC             | 110   | 8      | $200  | 170   | 
