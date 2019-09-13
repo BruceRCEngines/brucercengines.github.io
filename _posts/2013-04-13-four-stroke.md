@@ -41,7 +41,6 @@ OS Surpass        | 91    | 7      | $165  | 180   |
 OS Surpass        | 91    | 7      | $170  | 178   | Runs very well
 OS Surpass        | 91    | 7+     | $175  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
 OS Surpass        | 91    | 7      | $170  | 196   |
-OS Surpass        | 91    | 7-     | $160  | 183   | Teted with 14x8 prop. Ran at 9,150 rpmand idled at 2,030.  Transition, bearings, and compression good.  
 OS Surpass        | 91    | 7-     | $160  | 181   | Tested with a 14x8 prop. Ran at 9,100 rpm and idled at 2,100.  Transition, bearings, and compression good . New ring and needs to be run in.
 OS Surpass        | 91    | 7-     | $160  | 199   | Tested with 14x6 prop. Ran at 9450 rpm and idled at 2,100. Compression ,bearings, and transition good. Shows surface wear, but otherwise runs well.
 OS surpass        | 91    | 9      | $200  | 179   | Bench run once for about 2 minutes.
