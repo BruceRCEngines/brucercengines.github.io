@@ -13,11 +13,8 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|--------------------
-Evolution         | 46    | 6      | $40   | 85    | Tested with an 11x5 prop.  11,900 rpm and idled of 2,100.  Chipped fin.  Bearings, compression and transition good.  For being well used it sure runs goood.
-Evolution NT      | 61    | 10     | $90   | 99    |
 Evolution NT      | 61    | 10     | $90   | 90    |
 FOX               | 45    | 7      | $50   | 56    |
-FOX EAGLE         | 60    | 7      | $70   | 101   | POWER HOUSE
 Fuji              | 40    | 8      | $60   | 31    | May be a 9
 Irvine            | 46    | 7-     | $60   | 14    | very small leak at needle, otherwise great
 Irvine            | 61    | 6+     | $50   | 13    | Runs well for an older used engine.
@@ -30,15 +27,15 @@ Magnum XL         | 61    | 7      | $55   | 97    |
 OS Max AX         | 46    | 7      | $75   | 68    |
 OS Max AX         | 55    | 7      | $95   | 89    | Tested with a12x5 porp. Ran at 10,540 and idled at 2,100. New bearings. compression, and transition good.
 OS MAX FP         | 40    | 7      | $45   | 80    |
+OS Max FP         | 40    | 7      | $40   | 84    |
 OS Max FX         | 46    | 7-     | $65   | 70    | Tested with 11xx7 prop (11x5 better fit.) Ran at 11,070 and idled at 1,800. Transitin, comprssion and bearings good. Bit dirty, but runs well.
-OS Max FX         | 46    | 7      | $70   | 72    |
 OS Max FX         | 46    | 7      | $70   | 75    |
 OS Max FX         | 46    | 7      | $75   | 73    |
 OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
 OS Max FX         | 61    | 7      | $90   | 58    |
 OS Max FX         | 61    | 7      | $90   | 35    |
 OS Max FX         | 91    | 7      | $120  | 63    |
-OS Max H          | 20    | 6      | $30   | 15    | Tested with 9x7 prop. Ran at 9,300 rpm and idled at 2,300. Traansition, compression, and bearings good. Strong engine, but should idle better.
+OS Max H          | 20    | 9      | $50   | 15    | Not test run because it may be new.
 OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise is impressive.
 OS Max LA         | 40    | 7      | $40   | 55    |
 OS Max LA         | 40    | 7      | $45   | 30    |
