@@ -34,25 +34,28 @@ OS FL             | 70    | 6      | $135  | 191   | Tested with 13x6 prop. Ran 
 OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $95   | 16    |
 OS Surpass        | 48    | 7      | $100  | 17    |
-OS Surpass II     | 52    | 7      | $125  | 164   |  
+OS Surpass        | 70    | 6      | $135  | 203   | Tested with a 13x8 prop.  Ran at 8,500 rpm and idled at 2,100.  Bearings, compression, and transition good.
 OS Surpass        | 70    | 7      | $145  | 193   |
 OS Surpass        | 70    | 7-     | $135  | 198   | Tested with 13x6 prop. Ran at 9,200 rpm and idled at 2,100. Compression, bearings, and transition good.
 OS Surpass        | 91    | 7      | $165  | 180   |
 OS Surpass        | 91    | 7      | $170  | 178   | Runs very well
 OS Surpass        | 91    | 7+     | $175  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
 OS Surpass        | 91    | 7      | $170  | 196   |
+OS Surpass        | 91    | 7-     | $160  | 183   | Tested with a 14x8 prop.  Ran at 9,150 rpm and idled at 2,0030.  Compression, bearings, and transition good.
 OS Surpass        | 91    | 7-     | $160  | 181   | Tested with a 14x8 prop. Ran at 9,100 rpm and idled at 2,100.  Transition, bearings, and compression good . New ring and needs to be run in.
-OS Surpass        | 91    | 7-     | $160  | 199   | Tested with 14x6 prop. Ran at 9450 rpm and idled at 2,100. Compression ,bearings, and transition good. Shows surface wear, but otherwise runs well.
+OS Surpass        | 91    | 7-     | $155  | 199   | Tested with 14x6 prop. Ran at 9450 rpm and idled at 2,100. Compression ,bearings, and transition good. Shows surface wear, but otherwise runs well.
 OS surpass        | 91    | 9      | $200  | 179   | Bench run once for about 2 minutes.
+OS Surpass II     | 91    | 7+     | $170  | 92    | Tested with a 14x6 prop.  Ran at 9,600 rpm and idled at 1,900.  Bearings, compression, and transition good.
 OS Surpass II     | 91    | 8      | $180  | 86    |
 Saito Gold Knight | 50    | 6+     | $100  | 161   |
 Saito             | 50    | 7      | $110  | 158   |
 Saito             | 56    | 7      | $130  | 159   |
+Saito             | 56    | 10     | $165  | 153   |
 Saito             | 65    | 7      | $140  | 160   | 
 Saito             | 72    | 7      | $155  | 177   | 
 Saito             | 72    | 7      | $150  | 165   | Tested with a 13x7 prop and got 10,320 high and idled at 1,740. Compression, bearings and transition good.
 Saito             | 72    | 8-     | $165  | 192   | 
-Saito             | 80    | 7-     | $155  | 159   | Tested with 13x7 prop.  Ran at 10,290 and idled at 2,100. Bearings, transition and compression good.
+Saito             | 80    | 7-     | $155  | 152   | Tested with 13x7 prop.  Ran at 10,290 and idled at 2,100. Bearings, transition and compression good.
 Saito             | 80    | 7      | $160  | 163   |
 Saito             | 91    | 6      | $130  | 155   | Tested with a 14x6 prop.  Ran at 9360 rpm and idled at 2,200. Plug the extra hole in the muffler and I think the idle wil be reduced.  Bearings, transition, and compression are good.
 Saito             | 91    | 7+     | $175  | 185   | 
@@ -62,6 +65,7 @@ Saito             | 91    | 8      | $180  | 154   | Muffler older than engine.
 Saito             | 100   | 7      | $180  | 172   |
 Saito             | 100   | 7+     | $190  | 167   | Runs fantastically well. tested with a 14x8 prop and got 9,000 rpm on high and idled at 1,800 rpm.
 Saito             | 100   | 8      | $200  | 195   |
+Saito             | 100   | 8+     | $225  | 201   | Tested with a 14x6 prop.(15x6 better size) Ran at 9,900 and idled at 1,900 rpm.  compression, transition, and bearings great.  Impressive engine
 Saito             |120    | 7      | $190  | 229   | Tested with 16x8 prop.  Ran at 7,400 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression and bearings good.
 Saito             | 120   | 7      | $200  | 228   | Tested with 16x8 prop.  Ran at 7,920 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression, and bearings good.  
 Saito             | 120S  | 6      | $170  | 227   | Tested with 16x8 prop.  Ran at 7,830 rpm and idled at 1,800.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression and bearings good.  Carb will not tighten firm.  Add fitted nut to firm it up. 
