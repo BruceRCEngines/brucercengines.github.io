@@ -27,6 +27,7 @@ featured_engine_name: OS 91 Surpass #179
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|--------------------
 Magnum XL         | 70    | 7      | $110  | 113   |
+Magnum XL         | 70    | 7+     | $125  | 112   | Tested with a 13x8 AP prop.  Ran at 9,200 rpm (impressive!) and idled at 2200 rpm. Idle needs mmore adjustment. muffler painted with ceramick black paint.  Transition, compression, and bearings excellent.
 Magnum XL         | 91    | 7      | $130  | 115   |
 Magnum XL         | 91    | 8      | $145  | 116   | Has every bit as much "pinch" as an OS 91
 Magnum XL         | 91    | 9      | $155  | 114   |
@@ -54,14 +55,16 @@ Saito             | 56    | 10     | $165  | 153   |
 Saito             | 65    | 7      | $140  | 160   | 
 Saito             | 72    | 7      | $155  | 177   | 
 Saito             | 72    | 7      | $150  | 165   | Tested with a 13x7 prop and got 10,320 high and idled at 1,740. Compression, bearings and transition good.
+Saito             | 72    | 7+     | $160  | 151   | Tested with 13x8 prop and ran at 8,200 rpm and idled at 1,900 rpm.  Transitionn, bearings, and compression excellent.
 Saito             | 72    | 8-     | $165  | 192   | 
 Saito             | 80    | 7-     | $155  | 152   | Tested with 13x7 prop.  Ran at 10,290 and idled at 2,100. Bearings, transition and compression good.
+Saito             | 80    | 7+     | $165  | 150   | Tested with 13x8 prop. Ran at 9,000 rpm and idled at 1,900 rpm.  Copmpression, bearings, and transition excellent.  
 Saito             | 80    | 7      | $160  | 163   |
-Saito             | 91    | 6      | $130  | 155   | Tested with a 14x6 prop.  Ran at 9360 rpm and idled at 2,200. Plug the extra hole in the muffler and I think the idle wil be reduced.  Bearings, transition, and compression are good.
 Saito             | 91    | 7+     | $175  | 185   | 
 Saito             | 91    | 8-     | $180  | 200   | Tested with 14x6 prop RAN at 9,360 rpm and idoled at 1,860. Compression, bearings, and transition good. Impressive.
 Saito             | 91    | 8      | $185  | 148   |
-Saito             | 91    | 8      | $180  | 154   | Muffler older than engine.  
+Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
+Saito             | 91    | 7+     | $175  | 146   | Tested without tach.  High speed, idle and transition are excellent.  Compression and bearings good.
 Saito             | 100   | 7      | $180  | 172   |
 Saito             | 100   | 7+     | $190  | 167   | Runs fantastically well. tested with a 14x8 prop and got 9,000 rpm on high and idled at 1,800 rpm.
 Saito             | 100   | 8      | $200  | 195   |
