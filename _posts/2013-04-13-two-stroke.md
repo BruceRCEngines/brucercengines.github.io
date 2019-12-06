@@ -13,6 +13,7 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|--------------------
+ASP               | 61    | 6      | $45   | 93    | Testeed with 11x8 prop.  Ran a 11,500 rpm and diled at 2,500.  Idle should be $2,200.  Gif Tatone pits muffler.  Transition, compresison, and bearings good.
 Evolution NT      | 61    | 10     | $90   | 90    |
 FOX               | 45    | 7      | $50   | 56    |
 Fuji              | 40    | 8      | $60   | 31    | May be a 9
@@ -39,8 +40,7 @@ OS Max H          | 20    | 9      | $50   | 15    | Not test run because it may
 OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise is impressive.
 OS Max LA         | 40    | 7      | $40   | 55    |
 OS Max LA         | 40    | 7      | $45   | 30    |
-OS Max LA         | 40    | 6      | $30   | 51    |
-OS Max LA         | 65    | 8      | $75   | 82    |
+OS Max LA         | 40    | 6      | $30   | 51    
 OS Max SF         | 40    | 7+     | $65   | 71    | Tested with 11x6 prop. Ran at 11,600 rpm and idled at 1,950. Transition, bearings, and compression excellent. Strong solid engine.
 OS Max SF         | 46    | 10     | $95   | 59    | Ringed
 OS Max SF         | 61    | 7-     | $85   | 52    | Tested with 12x6 prop. Ran at 12,040 and idled at 1,860. Transition, bearings and compression excellent.  Clunky after market muffler.
