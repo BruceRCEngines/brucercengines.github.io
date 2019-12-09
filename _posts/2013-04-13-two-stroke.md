@@ -13,8 +13,8 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|-------------------
-ASP               | 13    | 8      | $40   | JP13  | Newish l ooking and very cute small engine  Has an OS 871 muffler.  Free turning with excellent compressiona nd bearings.
-ASP               | 61    | 6      | $45   | 93    | Testeed with 11x8 prop.  Ran a 11,500 rpm and diled at 2,500.  Idle should be $2,200.  Gif Tatone pits muffler.  Transition, compresison, and bearings good.
+ASP               | 13    | 8      | $40   | JP13  | Newish looking and very cute small engine.  Has an OS 871 muffler.  Free turning with excellent compression and bearings.
+ASP               | 61    | 6      | $45   | 93    | Testeed with 11x8 prop.  Ran a 11,500 rpm and diled at 2,500.  Idle should be $2,200.  Big Tatone pits muffler.  Transition, compresison, and bearings good.
 Evolution NT      | 61    | 10     | $90   | 90    |
 Enta              | 15    | 7      | $40   | JP14  | Prop included.   Turns freely and has good compression and bearings.  1 broken fin.
 Fox               | 15    | 7      | $30   | JP11  | Under the dirt is a very good Fox 15  It is matched with JP12 listed below.  Turns freely and has excellent compression, and bearings.
