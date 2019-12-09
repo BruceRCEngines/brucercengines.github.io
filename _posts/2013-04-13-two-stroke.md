@@ -16,14 +16,14 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ASP               | 13    | 8      | $40   | JP13  | Newish looking and very cute small engine.  Has an OS 871 muffler.  Free turning with excellent compression and bearings.
 ASP               | 61    | 6      | $45   | 93    | Testeed with 11x8 prop.  Ran a 11,500 rpm and diled at 2,500.  Idle should be $2,200.  Big Tatone pits muffler.  Transition, compresison, and bearings good.
 Evolution NT      | 61    | 10     | $90   | 90    |
-Enta              | 15    | 7      | $40   | JP14  | Prop included.   Turns freely and has good compression and bearings.  1 broken fin.
+Enya              | 15    | 7      | $40   | JP14  | Prop included.   Turns freely and has good compression and bearings.  1 broken fin.
 Fox               | 15    | 7      | $30   | JP11  | Under the dirt is a very good Fox 15  It is matched with JP12 listed below.  Turns freely and has excellent compression, and bearings.
 Fox               | 15    | 7      | $30   | JP12  | Dirty but excellent Fox 15 matcher with JP11 above.  Turns freely and has excellent compression and bearings.
 FOX               | 45    | 7      | $50   | 56    |
 Fuji              | 40    | 8      | $60   | 31    | May be a 9
 Irvine            | 46    | 7-     | $60   | 14    | very small leak at needle, otherwise great
 Irvine            | 61    | 6+     | $50   | 13    | Runs well for an older used engine.
-McCoy             | 19    | 19     | $40   | JP17  |  This one is so old that baffles were used instead of mufflers.  It is great shape  It turns freely and has good compressionand bearings.
+McCoy             | 19    | 19     | $40   | JP17  |  This one is so old that baffles were used instead of mufflers.  It is great shape.  It turns freely and has good compressionand bearings.
 Magnum GP         | 65    | 9      | $65   | 132   |  
 Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 46    | 5      | $35   | 91    | Looks ugly. Tested woith 12x5 prop (11x5 would be better fit). Ran at 10,200rpm and idled at 2,800.  Transition, bearings and compression good. IDle is the problem.
@@ -31,10 +31,10 @@ Magnum XL         | 61    | 7      | $60   | 96    |
 Magnum XL         | 61    | 10     | $80   | 95    |
 Magnum XL         | 61    | 7      | $55   | 97    |
 OS Max AX         | 46    | 7      | $75   | 68    |
-OS Max AX         | 55    | 7      | $95   | 89    | Tested with a12x5 porp. Ran at 10,540 and idled at 2,100. New bearings. compression, and transition good.
+OS Max AX         | 55    | 7      | $95   | 89    | Tested with a 12x5 porp. Ran at 10,540 and idled at 2,100. New bearings. compression, and transition good.
 OS MAX FP         | 40    | 7      | $45   | 80    |
 OS Max FP         | 40    | 7      | $40   | 84    |
-OS Max FX         | 46    | 7-     | $65   | 70    | Tested with 11xx7 prop (11x5 better fit.) Ran at 11,070 and idled at 1,800. Transitin, comprssion and bearings good. Bit dirty, but runs well.
+OS Max FX         | 46    | 7-     | $65   | 70    | Tested with 11x7 prop (11x5 better fit.) Ran at 11,070 and idled at 1,800. Transitin, comprssion and bearings good. Bit dirty, but runs well.
 OS Max FX         | 46    | 7      | $70   | 75    |
 OS Max FX         | 46    | 7      | $75   | 73    |
 OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
@@ -46,13 +46,13 @@ OS Max H          | 35    | 7-     | $40   | JP18  | dirty but has good compress
 OS Max H          | 40    | 9      | $60   | JP10  | Excellent shape. May be new, but has shelf dirt and has probably been test run.  Turns freely with excellent compessing and bearings. Comes with the orginal box and an after market muffler. 
 OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise is impressive.
 OS Max LA         | 40    | 7      | $40   | 55    |
-OS Max LA         | 40    | 7      | $45   | 30    |
+OS Max LA         | 40    | 7      | $45   | 30    | Tested with a 10x6 prop and ran at 11,100 rpm and idled at 2,000.  Transition, bearings, and compression good.
 OS Max LA         | 40    | 6      | $30   | 51    
 OS Max SF         | 40    | 7+     | $65   | 71    | Tested with 11x6 prop. Ran at 11,600 rpm and idled at 1,950. Transition, bearings, and compression excellent. Strong solid engine.
 OS Max SF         | 46    | 10     | $95   | 59    | Ringed
 OS Max SF         | 61    | 7-     | $85   | 52    | Tested with 12x6 prop. Ran at 12,040 and idled at 1,860. Transition, bearings and compression excellent.  Clunky after market muffler.
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
-OS Max SR         | 60    | 6      | $90   | 60    | Still run great!
+OS Max SR         | 60    | 6      | $90   | 60    | Still runs great!
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
 OS Max SR         | 60    | 7      | $120  | 48    | Or, this might be my best 60 engine! 
 OS Max SR         | 60    | 7+     | $125  | 64    | This one is also my best 60 engine!  Tested aith 11x7.5 prop. Ran at 12,040 rpm and idled at 2,000. Compression, bearings, tand transition good.
