@@ -32,7 +32,6 @@ Magnum XL         | 91    | 7      | $130  | 115   |
 Magnum XL         | 91    | 8      | $145  | 116   | Has every bit as much "pinch" as an OS 91
 Magnum XL         | 91    | 9      | $155  | 114   |
 OS FL             | 70    | 6      | $135  | 191   | Tested with 13x6 prop. Ran at 9,500 rpm and idled at 2,100. Transition ,  compression, and bearings good.
-OS Surpass        | 26    | 8      | $130  | 166   |
 OS Surpass        | 48    | 7      | $95   | 16    |
 OS Surpass        | 48    | 7      | $100  | 17    |
 OS Surpass        | 70    | 6      | $135  | 203   | Tested with a 13x8 prop.  Ran at 8,500 rpm and idled at 2,100.  Bearings, compression, and transition good.
