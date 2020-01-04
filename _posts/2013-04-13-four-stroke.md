@@ -56,11 +56,9 @@ Saito             | 65    | 7      | $140  | 160   |
 Saito             | 72    | 7      | $155  | 177   | 
 Saito             | 72    | 7      | $150  | 165   | Tested with a 13x7 prop and got 10,320 high and idled at 1,740. Compression, bearings and transition good.
 Saito             | 72    | 7+     | $160  | 151   | Tested with 13x8 prop and ran at 8,200 rpm and idled at 1,900 rpm.  Transitionn, bearings, and compression excellent.
-Saito             | 80    | 7-     | $155  | 152   | Tested with 13x7 prop.  Ran at 10,290 and idled at 2,100. Bearings, transition and compression good.
 Saito             | 80    | 7+     | $165  | 150   | Tested with 13x8 prop. Ran at 9,000 rpm and idled at 1,900 rpm.  Copmpression, bearings, and transition excellent. 
 Saito             | 80    | 7      | $160  | 163   |
 Saito             | 91    | 7+     | $175  | 146   | Tested in dark so not tach readings possible.  High and idle rpms excellent as well as transition, compression and bearings. Impressive.
-Saito             | 91    | 7+     | $175  | 185   | 
 Saito             | 91    | 8-     | $180  | 200   | Tested with 14x6 prop RAN at 9,360 rpm and idoled at 1,860. Compression, bearings, and transition good. Impressive.
 Saito             | 91    | 8      | $185  | 148   |
 Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
