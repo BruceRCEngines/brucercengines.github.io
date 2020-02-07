@@ -23,7 +23,7 @@ FOX               | 45    | 7      | $50   | 56    |
 Fuji              | 40    | 8      | $60   | 31    | May be a 9
 Irvine            | 46    | 7-     | $60   | 14    | very small leak at needle, otherwise great
 Irvine            | 61    | 6+     | $50   | 13    | Runs well for an older used engine.
-McCoy             | 19    | 19     | $40   | JP17  |  This one is so old that baffles were used instead of mufflers.  It is great shape.  It turns freely and has good compressionand bearings.
+McCoy             | 19    | 9      | $40   | JP17  |  This one is so old that baffles were used instead of mufflers.  It is great shape.  It turns freely and has good compressionand bearings.
 Magnum GP         | 65    | 9      | $65   | 132   |  
 Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 46    | 5      | $35   | 91    | Looks ugly. Tested woith 12x5 prop (11x5 would be better fit). Ran at 10,200rpm and idled at 2,800.  Transition, bearings and compression good. IDle is the problem.
