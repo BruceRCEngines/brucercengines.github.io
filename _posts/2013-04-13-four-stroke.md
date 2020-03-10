@@ -45,7 +45,6 @@ OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is
 OS Surpass        | 91    | 10     | $240  | 143   | New in Box
 OS Surpass II     | 91    | 8      | $180  | 86    |
 OS Surpass        | 120   | 7      | $175  | 204   | Tested with 16x8 prop (16x6 would be better fit). Ran at 7,600 rpm and idled at 2,000.  Bearings, transition, and compression good.
-Saito Gold Knight | 50    | 6+     | $100  | 161   |
 Saito             | 50    | 7-     | $105  | 144   | Tested with 12x6 prop.  Ran at 9,400 rpm and idled a 1,990.  Bearings, transition, and compression good
 Saito             | 50    | 7      | $110  | 158   |
 Saito             | 56    | 7      | $130  | 159   |
