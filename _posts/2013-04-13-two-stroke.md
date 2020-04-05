@@ -13,21 +13,17 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|-------------------
-Evolution NT      | 61    | 10     | $90   | 90    |
+Evolution NT      | 61    | 10     | $90   | 90    | Never run
 Enya              | 15    | 7      | $40   | JP14  | Prop included.   Turns freely and has good compression and bearings.  1 broken fin.
-Fox               | 15    | 7      | $30   | JP11  | Under the dirt is a very good Fox 15  It is matched with JP12 listed below.  Turns freely and has excellent compression, and bearings.
-Fox               | 15    | 7      | $30   | JP12  | Dirty but excellent Fox 15 matcher with JP11 above.  Turns freely and has excellent compression and bearings.
 FOX               | 45    | 7      | $50   | 56    |
 Fuji              | 40    | 8      | $60   | 31    | May be a 9
 Irvine            | 46    | 7-     | $60   | 14    | very small leak at needle, otherwise great
-McCoy             | 19    | 9      | $30   | JP17  |  This one is so old that baffles were used instead of mufflers.  It is great shape.  It turns freely and has good compressionand bearings.
 Magnum GP         | 65    | 9      | $65   | 132   |  
 Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 61    | 7      | $60   | 96    | 
 Magnum XL         | 61    | 10     | $80   | 95    |
 Magnum XL         | 61    | 7      | $55   | 97    |
 OS Max AX         | 46    | 7      | $75   | 68    |
-OS MAX FP         | 40    | 7      | $45   | 80    |
 OS Max FP         | 40    | 7      | $40   | 84    |
 OS Max FP         | 40    | 9      | $55   | 79    | Bench run once
 OS Max FX         | 46    | 7-     | $65   | 70    | Tested with 11x7 prop (11x5 better fit.) Ran at 11,070 and idled at 1,800. Transitin, comprssion and bearings good. Bit dirty, but runs well.
@@ -43,7 +39,6 @@ OS Max H          | 40    | 9      | $60   | JP10  | Excellent shape. May be new
 OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise is impressive.
 OS Max LA         | 40    | 7      | $40   | 55    |
 OS Max LA         | 40    | 7      | $45   | 30    | Tested with a 10x6 prop and ran at 11,100 rpm and idled at 2,000.  Transition, bearings, and compression good.
-OS Max LA         | 40    | 6      | $30   | 51    
 OS Max SF         | 40    | 7+     | $65   | 71    | Tested with 11x6 prop. Ran at 11,600 rpm and idled at 1,950. Transition, bearings, and compression excellent. Strong solid engine.
 OS Max SF         | 61    | 7-     | $85   | 52    | Tested with 12x6 prop. Ran at 12,040 and idled at 1,860. Transition, bearings and compression excellent.  Clunky after market muffler.
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
@@ -58,5 +53,5 @@ Super Tiger       | 61    | 6      | $60   | 197   | 0lder round head style. Tes
 Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 75    | 8-     | $90   | 87    |
-Super Tiger       | 90    | 6+     | $90   | 62    | Runs impressively.  Older round head style, made in Italy. 
+Super Tiger       | 90    | 6+     | $80   | 62    | Runs impressively.  Older round head style, made in Italy. 
 {: .table .table-bordered .table-condensed .table-hover .footable}
