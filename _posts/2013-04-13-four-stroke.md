@@ -38,7 +38,7 @@ OS Surpass        | 91    | 7      | $155  | 180   |
 OS Surpass        | 91    | 7      | $160  | 178   | Runs very well
 OS Surpass        | 91    | 7+     | $170  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
 OS Surpass        | 91    | 7      | $165  | 196   |
-OS Surpass        | 91    | 9      | $205  | 203   | Mounted and started once
+OS Surpass        | 91    | 9      | $205  | 207   | Mounted and started once
 OS surpass        | 91    | 9      | $210  | 179   | Bench run once for about 2 minutes.
 OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is still perfect.
 OS Surpass        | 91    | 10     | $240  | 143   | New in Box
