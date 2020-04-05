@@ -38,7 +38,7 @@ OS Surpass        | 91    | 7      | $155  | 180   |
 OS Surpass        | 91    | 7      | $160  | 178   | Runs very well
 OS Surpass        | 91    | 7+     | $170  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
 OS Surpass        | 91    | 7      | $165  | 196   |
-OS Surpass        | 91    | 7-     | $150  | 183   | Tested with a 14x8 prop.  Ran at 9,150 rpm and idled at 2,0030.  Compression, bearings, and transition good.
+OS Surpass        | 91    | 9      | $205  | 203   | Mounted and started once
 OS surpass        | 91    | 9      | $210  | 179   | Bench run once for about 2 minutes.
 OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is still perfect.
 OS Surpass        | 91    | 10     | $240  | 143   | New in Box
@@ -51,9 +51,9 @@ Saito             | 65    | 7      | $140  | 160   |
 Saito             | 72    | 7      | $150  | 177   | 
 Saito             | 72    | 7      | $145  | 165   | Tested with a 13x7 prop and got 10,320 high and idled at 1,740. Compression, bearings and transition good.
 Saito             | 72    | 7+     | $155  | 151   | Tested with 13x8 prop and ran at 8,200 rpm and idled at 1,900 rpm.  Transitionn, bearings, and compression excellent.
-Saito             | 80    | 7+     | $165  | 150   | Tested with 13x8 prop. Ran at 9,000 rpm and idled at 1,900 rpm.  Copmpression, bearings, and transition excellent. 
+Saito             | 80    | 7+     | $160  | 150   | Tested with 13x8 prop. Ran at 9,000 rpm and idled at 1,900 rpm.  Copmpression, bearings, and transition excellent. 
 Saito             | 80    | 7      | $160  | 163   |
-Saito             | 91    | 7+     | $175  | 146   | Tested in dark so not tach readings possible.  High and idle rpms excellent as well as transition, compression and bearings. Impressive.
+Saito             | 91    | 7+     | $170  | 146   | Tested in dark so not tach readings possible.  High and idle rpms excellent as well as transition, compression and bearings. Impressive.
 Saito             | 91    | 8-     | $175  | 200   | Tested with 14x6 prop RAN at 9,360 rpm and idoled at 1,860. Compression, bearings, and transition good. Impressive.
 Saito             | 91    | 8      | $180  | 148   |
 Saito             | 91    | 8      | $180  | 154   | Muffler older than engine. 
