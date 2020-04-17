@@ -23,7 +23,6 @@ Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 61    | 7      | $60   | 96    | 
 Magnum XL         | 61    | 10     | $80   | 95    |
 Magnum XL         | 61    | 7      | $55   | 97    |
-OS Max AX         | 46    | 7      | $75   | 68    |
 OS Max FP         | 40    | 7      | $40   | 84    |
 OS Max FP         | 40    | 9      | $55   | 79    | Bench run once
 OS Max FX         | 46    | 7-     | $65   | 70    | Tested with 11x7 prop (11x5 better fit.) Ran at 11,070 and idled at 1,800. Transitin, comprssion and bearings good. Bit dirty, but runs well.
@@ -40,7 +39,6 @@ OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise i
 OS Max LA         | 40    | 7      | $40   | 55    |
 OS Max LA         | 40    | 7      | $45   | 30    | Tested with a 10x6 prop and ran at 11,100 rpm and idled at 2,000.  Transition, bearings, and compression good.
 OS Max SF         | 40    | 7+     | $65   | 71    | Tested with 11x6 prop. Ran at 11,600 rpm and idled at 1,950. Transition, bearings, and compression excellent. Strong solid engine.
-OS Max SF         | 61    | 7-     | $85   | 52    | Tested with 12x6 prop. Ran at 12,040 and idled at 1,860. Transition, bearings and compression excellent.  Clunky after market muffler.
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
 OS Max SR         | 60    | 6      | $90   | 60    | Still runs great!
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
@@ -53,5 +51,4 @@ Super Tiger       | 61    | 6      | $60   | 197   | 0lder round head style. Tes
 Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 75    | 8-     | $90   | 87    |
-Super Tiger       | 90    | 6+     | $80   | 62    | Runs impressively.  Older round head style, made in Italy. 
 {: .table .table-bordered .table-condensed .table-hover .footable}
