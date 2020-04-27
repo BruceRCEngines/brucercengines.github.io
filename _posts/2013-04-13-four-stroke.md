@@ -26,10 +26,6 @@ featured_engine_name: OS 91 Surpass #179
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|--------------------
-Magnum XL         | 70    | 7      | $110  | 113   |
-Magnum XL         | 91    | 7      | $120  | 115   |
-Magnum XL         | 91    | 8      | $140  | 116   | Has every bit as much "pinch" as an OS 91
-Magnum XL         | 91    | 9      | $155  | 114   |
 OS Surpass        | 48    | 7      | $95   | 17    |
 OS Surpass        | 70    | 7      | $135  | 193   |
 OS Surpass        | 70    | 7-     | $125  | 198   | Tested with 13x6 prop. Ran at 9,200 rpm and idled at 2,100. Compression, bearings, and transition good.
@@ -44,7 +40,6 @@ OS Surpass        | 91    | 10     | $240  | 143   | New in Box
 OS Surpass        | 120   | 7      | $175  | 204   | Tested with 16x8 prop (16x6 would be better fit). Ran at 7,600 rpm and idled at 2,000.  Bearings, transition, and compression good.
 Saito             | 50    | 7-     | $105  | 144   | Tested with 12x6 prop.  Ran at 9,400 rpm and idled a 1,990.  Bearings, transition, and compression good
 Saito             | 50    | 7      | $110  | 158   |
-Saito             | 56    | 7      | $130  | 159   | 
 Saito             | 72    | 7      | $150  | 177   | 
 Saito             | 72    | 7      | $145  | 165   | Tested with a 13x7 prop and got 10,320 high and idled at 1,740. Compression, bearings and transition good.
 Saito             | 72    | 7+     | $155  | 151   | Tested with 13x8 prop and ran at 8,200 rpm and idled at 1,900 rpm.  Transitionn, bearings, and compression excellent.
