@@ -13,7 +13,6 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|-------------------
-Evolution NT      | 61    | 10     | $90   | 90    | Never run
 Enya              | 15    | 7      | $40   | JP14  | Prop included.   Turns freely and has good compression and bearings.  1 broken fin.
 FOX               | 45    | 7      | $50   | 56    |
 Fuji              | 40    | 8      | $60   | 31    | May be a 9
@@ -25,7 +24,6 @@ Magnum XL         | 61    | 10     | $80   | 95    |
 Magnum XL         | 61    | 7      | $55   | 97    |
 OS Max FP         | 40    | 7      | $40   | 84    |
 OS Max FP         | 40    | 9      | $55   | 79    | Bench run once
-OS Max FX         | 46    | 7-     | $65   | 70    | Tested with 11x7 prop (11x5 better fit.) Ran at 11,070 and idled at 1,800. Transitin, comprssion and bearings good. Bit dirty, but runs well.
 OS Max FX         | 46    | 7      | $70   | 75    |
 OS Max FX         | 46    | 7      | $75   | 73    |
 OS Max FX         | 61    | 7      | $90   | 53    | Runs like a fine machine.
@@ -34,13 +32,12 @@ OS Max FX         | 61    | 7      | $90   | 35    |
 OS Max FX         | 91    | 7      | $110  | 63    |
 OS Max H          | 20    | 9      | $50   | 15    | Not test run because it may be new.
 OS Max H          | 35    | 7-     | $40   | JP18  | dirty but has good compression and bearings and turns freely.
-OS Max H          | 40    | 9      | $60   | JP10  | Excellent shape. May be new, but has shelf dirt and has probably been test run.  Turns freely with excellent compessing and bearings. Comes with the orginal box and an after market muffler. 
+
 OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise is impressive.
 OS Max LA         | 40    | 7      | $40   | 55    |
 OS Max LA         | 40    | 7      | $45   | 30    | Tested with a 10x6 prop and ran at 11,100 rpm and idled at 2,000.  Transition, bearings, and compression good.
 OS Max SF         | 40    | 7+     | $65   | 71    | Tested with 11x6 prop. Ran at 11,600 rpm and idled at 1,950. Transition, bearings, and compression excellent. Strong solid engine.
 OS Max SF         | 61    | 8      | $110  | 57    | Ringed
-OS Max SR         | 60    | 6      | $90   | 60    | Still runs great!
 OS Max SR         | 60    | 7      | $110  | 54    | My best 60 engine new or used!
 OS Max SR         | 60    | 7      | $120  | 48    | Or, this might be my best 60 engine! 
 OS Max SR         | 60    | 7+     | $125  | 64    | This one is also my best 60 engine!  Tested aith 11x7.5 prop. Ran at 12,040 rpm and idled at 2,000. Compression, bearings, tand transition good.
