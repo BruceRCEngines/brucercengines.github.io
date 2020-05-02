@@ -66,7 +66,7 @@ YS AC             | 120   | 7      | $195  | 238   |
 YS FS             | 120   | 7      | $195  | 130   |
 YS FS             | 120   | 7      | $200  | 243   | Stack Exhaust
 YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
-YS SF             | 120   | 7      | $210  | 129   | Pitts muffler
+YS SF             | 120   | 7      | $210  | 129   | Pitts muffler.  New ring and new cam gear.
 YS SF             | 120   | 8      | $215  | 246   |  
 YS SF             | 120   | 7      | $205  | 205   | Muffler and 45 degree header
 YS FS             | 120   | 7+     | $210  | 239   | 
