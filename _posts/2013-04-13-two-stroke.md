@@ -49,5 +49,5 @@ Super Tiger       | 61    | 6      | $60   | 197   | 0lder round head style. Tes
 Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 75    | 8-     | $90   | 87    |
-Super Tiger       | 90    | 7+     | $120  | 138   |  Might Impessive!
+Super Tiger       | 90    | 7+     | $120  | 138   |  Mighty Impessive!
 {: .table .table-bordered .table-condensed .table-hover .footable}
