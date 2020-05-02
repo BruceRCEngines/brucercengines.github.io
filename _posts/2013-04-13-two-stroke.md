@@ -33,7 +33,6 @@ OS FX             | 61    | 7      | $90   | 35    |
 OS FX             | 91    | 7      | $110  | 63    |
 OS Max H          | 20    | 9      | $50   | 15    | Not test run because it may be new.
 OS Max H          | 35    | 7-     | $40   | JP18  | dirty but has good compression and bearings and turns freely.
-
 OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise is impressive.
 OS LA             | 40    | 7      | $45   | 30    | Tested with a 10x6 prop and ran at 11,100 rpm and idled at 2,000.  Transition, bearings, and compression good.
 OS SF             | 40    | 7+     | $65   | 71    | Tested with 11x6 prop. Ran at 11,600 rpm and idled at 1,950. Transition, bearings, and compression excellent. Strong solid engine.
