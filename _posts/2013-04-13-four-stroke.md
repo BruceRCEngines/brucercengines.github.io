@@ -31,7 +31,7 @@ OS Surpass        | 48    | 7      | $95   | 17    |
 OS surpass        | 48    | 7      | $90   | 128   | 
 OS Surpass        | 70    | 7      | $135  | 193   |
 OS Surpass        | 70    | 7-     | $125  | 198   | Tested with 13x6 prop. Ran at 9,200 rpm and idled at 2,100. Compression, bearings, and transition good.
-OS surpass        | 91    | 7      | $160  | 143   | 
+OS surpass        | 91    | 7      | $160  | 126   | 
 OS Surpass        | 91    | 7      | $155  | 180   |
 OS Surpass        | 91    | 7      | $160  | 178   | Runs very well
 OS Surpass        | 91    | 7+     | $170  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
