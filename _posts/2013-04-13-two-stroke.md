@@ -13,19 +13,12 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|-------------------
-Enya              | 60X   | 6      | $50   | 136   | Idle 2,400 rpm, so marked down to 6.  Quality still shows through.  OS muffler 
 FOX               | 45    | 7      | $50   | 56    |
-Fuji              | 40    | 8      | $60   | 31    | May be a 9
-Irvine            | 46    | 7-     | $60   | 14    | very small leak at needle, otherwise great
-Magnum GP         | 65    | 9      | $65   | 132   |  
+Fuji              | 40    | 8      | $60   | 31    | May be a 9 
 Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 61    | 7      | $60   | 96    | 
-OS FP             | 35    | 8      | $40   | 133   | Still need to be run in
 OS FP             | 40    | 7      | $40   | 84    |
-OS FP             | 40    | 9      | $55   | 79    | Bench run once
 OS FX             | 46    | 7      | $70   | 75    |
-OS FX             | 46    | 7      | $75   | 73    |
-OS FX             | 46    | 8      | $80   | 134   |
 OS FX             | 61    | 7-     | $75   | 137   |
 OS FX             | 61    | 7      | $90   | 53    | Runs like a fine machine.
 OS FX             | 61    | 7      | $90   | 58    |
