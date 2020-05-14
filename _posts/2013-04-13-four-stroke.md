@@ -26,15 +26,14 @@ featured_engine_name: OS 91 Surpass #179
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------
-Magnum XL         | 30    | 7      | $85   | 131   | Cute
 OS Surpass        | 48    | 7      | $95   | 17    |
 OS surpass        | 48    | 7      | $90   | 128   | 
-OS Surpass        | 70    | 7-     | $125  | 198   | Tested with 13x6 prop. Ran at 9,200 rpm and idled at 2,100. Compression, bearings, and transition good.
-OS surpass        | 91    | 7      | $160  | 126   | 
+OS Surpass        | 70    | 7-     | $125  | 198   | Tested with 13x6 prop. Ran at 9,200 rpm and idled at 2,100. Compression, bearings, and transition good. 
 OS Surpass        | 91    | 7      | $155  | 180   |
 OS Surpass        | 91    | 7      | $160  | 178   | Runs very well
-OS Surpass        | 91    | 7      | $165  | 111   | new bearings and ring
 OS Surpass        | 91    | 7+     | $170  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
+OS Surpass        | 91    | 7      | $165  | 111   | New bearings and new ring
+OS Surpass        | 91    | 7+     | $170  | 103   |
 OS Surpass        | 91    | 7      | $165  | 196   |
 OS Surpass        | 91    | 9      | $205  | 207   | Mounted and started once
 OS surpass        | 91    | 9      | $210  | 179   | Bench run once for about 2 minutes.
@@ -42,7 +41,6 @@ OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is
 OS Surpass        | 91    | 10     | $240  | 143   | New in Box
 OS Surpass        | 120   | 7      | $175  | 204   | Tested with 16x8 prop (16x6 would be better fit). Ran at 7,600 rpm and idled at 2,000.  Bearings, transition, and compression good.
 Saito             | 50    | 7-     | $105  | 144   | Tested with 12x6 prop.  Ran at 9,400 rpm and idled a 1,990.  Bearings, transition, and compression good
-Saito             | 50    | 6      | $85   | 140   | Cannot get to idle below 2,440 rpm so reduced to 6.
 Saito             | 50    | 7      | $110  | 158   |
 Saito             | 72    | 7      | $150  | 177   | 
 Saito             | 72    | 7      | $145  | 165   | Tested with a 13x7 prop and got 10,320 high and idled at 1,740. Compression, bearings and transition good.
@@ -65,7 +63,6 @@ YS AC             | 120   | 7      | $195  | 238   |
 YS FS             | 120   | 7      | $195  | 130   |
 YS FS             | 120   | 7      | $200  | 243   | Stack Exhaust
 YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
-YS SF             | 120   | 7      | $210  | 129   | Pitts muffler.  New ring and new cam gear.
 YS SF             | 120   | 8      | $215  | 246   |  
 YS SF             | 120   | 7      | $205  | 205   | Muffler and 45 degree header
 YS FS             | 120   | 7+     | $210  | 239   | 
