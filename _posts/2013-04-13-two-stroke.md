@@ -18,8 +18,9 @@ Fuji              | 40    | 8      | $60   | 31    | May be a 9
 Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 61    | 7      | $60   | 96    | 
 OS FP             | 40    | 7      | $40   | 84    |
+OS FX             | 25    | 7      | $65   | 102   |
 OS FX             | 46    | 7      | $70   | 75    |
-OS FX             | 61    | 7-     | $75   | 137   |
+OS FX             | 46    | 7+     | $80   | 104   |
 OS FX             | 61    | 7      | $90   | 53    | Runs like a fine machine.
 OS FX             | 61    | 7      | $90   | 58    |
 OS FX             | 61    | 7      | $90   | 35    |
@@ -28,8 +29,8 @@ OS Max H          | 20    | 9      | $50   | 15    | Not test run because it may
 OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise is impressive.
 OS LA             | 40    | 7      | $45   | 30    | Tested with a 10x6 prop and ran at 11,100 rpm and idled at 2,000.  Transition, bearings, and compression good.
 OS SF             | 40    | 7+     | $65   | 71    | Tested with 11x6 prop. Ran at 11,600 rpm and idled at 1,950. Transition, bearings, and compression excellent. Strong solid engine.
-OS SF             | 46    | 6      | $50   | 139   | 
-OS SF             | 46    | 7+     | $65   | 135   |
+OS SF             | 46    | 7      | $60   | 100   | 
+OS SF             | 46    | 7+     | $75   | 135   |
 OS SF             | 61    | 8      | $110  | 57    |
 OS SR             | 60    | 7      | $110  | 54    | My best 60 engine new or used!
 OS SR             | 60    | 7      | $120  | 48    | Or, this might be my best 60 engine! 
@@ -43,4 +44,5 @@ Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 75    | 7      | $80   | 127   |
 Super Tiger       | 75    | 8-     | $90   | 87    |
 Super Tiger       | 90    | 7+     | $120  | 138   |  Mighty Impessive!
+Thuynder Tiger    | 46    | 7      | $70   | 101   | 
 {: .table .table-bordered .table-condensed .table-hover .footable}
