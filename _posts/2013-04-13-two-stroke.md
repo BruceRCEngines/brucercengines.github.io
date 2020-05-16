@@ -16,7 +16,7 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 FOX               | 45    | 7      | $50   | 56    |
 Fox EAgle         | 60    | 7+     | $65   | 49    | Looks like a thrashing machine, but boy this baby has power!
 Fuji              | 40    | 8      | $60   | 31    | May be a 9 
-HB 40 PDP         | 40    | 7      | $55   | 48
+HB 40 PDP         | 40    | 7      | $55   | 43    |
 Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 46    | 7+     | $60   | 45    |Unusually good quality in sound and appearance
 Magnum XL         | 61    | 7      | $60   | 96    | 
