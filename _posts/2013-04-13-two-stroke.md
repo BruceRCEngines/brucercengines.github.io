@@ -14,8 +14,11 @@ featured_engine_name: OS 61 SF
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|-------------------
 FOX               | 45    | 7      | $50   | 56    |
+Fox EAgle         | 60    | 7+     | $65   | 49    | Looks like a thrashing machine, but boy this baby has power!
 Fuji              | 40    | 8      | $60   | 31    | May be a 9 
+HB 40 PDP         | 40    | 7      | $55   | 48
 Magnum Pro        | 40    | 8      | $50   | 42    |
+Magnum XL         | 46    | 7+     | $60   | 45    |Unusually good quality in sound and appearance
 Magnum XL         | 61    | 7      | $60   | 96    | 
 OS FP             | 40    | 7      | $40   | 84    |
 OS FX             | 25    | 7      | $65   | 102   |
@@ -29,6 +32,7 @@ OS Max H          | 20    | 9      | $50   | 15    | Not test run because it may
 OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise is impressive.
 OS LA             | 40    | 7      | $45   | 30    | Tested with a 10x6 prop and ran at 11,100 rpm and idled at 2,000.  Transition, bearings, and compression good.
 OS SF             | 40    | 7+     | $65   | 71    | Tested with 11x6 prop. Ran at 11,600 rpm and idled at 1,950. Transition, bearings, and compression excellent. Strong solid engine.
+OS SF             | 46    | 7      | $60   | 46    | 
 OS SF             | 46    | 7      | $60   | 100   | 
 OS SF             | 46    | 7+     | $75   | 135   |
 OS SF             | 61    | 8      | $110  | 57    |
