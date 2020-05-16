@@ -27,7 +27,8 @@ featured_engine_name: OS 91 Surpass #179
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------
 OS Surpass        | 48    | 7      | $95   | 17    |
-OS surpass        | 48    | 7      | $90   | 128   | 
+OS surpass        | 48    | 6+     | $75   | 47    |
+OS Surpass        | 52    | 6      | $75   | 44    | 
 OS Surpass        | 70    | 7-     | $125  | 198   | Tested with 13x6 prop. Ran at 9,200 rpm and idled at 2,100. Compression, bearings, and transition good. 
 OS Surpass        | 91    | 7      | $155  | 180   |
 OS Surpass        | 91    | 7      | $160  | 178   | Runs very well
