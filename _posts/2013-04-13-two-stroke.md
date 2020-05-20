@@ -18,12 +18,13 @@ Fox EAgle         | 60    | 7+     | $65   | 49    | Looks like a thrashing mach
 Fuji              | 40    | 8      | $60   | 31    | May be a 9 
 HB 40 PDP         | 40    | 7      | $55   | 43    |
 Magnum Pro        | 40    | 8      | $50   | 42    |
-Magnum XL         | 46    | 7+     | $60   | 45    |Unusually good quality in sound and appearance
+Magnum XL         | 46    | 7+     | $60   | 45    | Unusually good quality in sound and appearance
 Magnum XL         | 61    | 7      | $60   | 96    | 
 OS FP             | 40    | 7      | $40   | 84    |
 OS FX             | 25    | 7      | $65   | 102   |
 OS FX             | 46    | 7      | $70   | 75    |
 OS FX             | 46    | 7+     | $80   | 104   |
+OS FX             | 61    | 6      | $55   | 37    | After market muffler.  New berarings.  undependable idle below 2,400 rpm
 OS FX             | 61    | 7      | $90   | 53    | Runs like a fine machine.
 OS FX             | 61    | 7      | $90   | 58    |
 OS FX             | 61    | 7      | $90   | 35    |
