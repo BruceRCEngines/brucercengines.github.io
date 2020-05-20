@@ -18,8 +18,8 @@ Fox EAgle         | 60    | 7+     | $65   | 49    | Looks like a thrashing mach
 Fuji              | 40    | 8      | $60   | 31    | May be a 9 
 HB 40 PDP         | 40    | 7      | $55   | 43    |
 Magnum Pro        | 40    | 8      | $50   | 42    |
-Magnum XL         | 46    | 7+     | $60   | 45    | Unusually good quality in sound and appearance
 Magnum XL         | 61    | 7      | $60   | 96    | 
+OS AX             | 75    | 9+     | $175  | 140   | Mounted but never started.  No box
 OS FP             | 40    | 7      | $40   | 84    |
 OS FX             | 25    | 7      | $65   | 102   |
 OS FX             | 46    | 7      | $70   | 75    |
@@ -48,6 +48,5 @@ Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
 Super Tiger       | 75    | 7      | $80   | 127   |
 Super Tiger       | 75    | 8-     | $90   | 87    |
-Super Tiger       | 90    | 7+     | $120  | 138   |  Mighty Impessive!
-Thuynder Tiger    | 46    | 7      | $70   | 101   | 
+Thunder Tiger    | 46    | 7      | $70   | 101   | 
 {: .table .table-bordered .table-condensed .table-hover .footable}
