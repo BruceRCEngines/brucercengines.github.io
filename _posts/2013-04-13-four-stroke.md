@@ -26,7 +26,6 @@ featured_engine_name: OS 91 Surpass #179
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------
-OS Surpass        | 
 OS Surpass        | 48    | 7      | $95   | 17    |
 OS surpass        | 48    | 7-     | $85   | 28    |
 OS surpass        | 70    | 6-     | $110  | 34    | New ring, not seated yet. Compression low but rpms are right on.  
