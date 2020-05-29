@@ -14,7 +14,7 @@ To purchase an engine:
 -  Include your name and address
 -  Postage is $9. in the United States
 -  I accept checks, money orders, and PayPal
--  To use PayPal you will need my name (Bruce Fischer) and email address (b-fischer@juno.com)
+-  To use PayPal you will need my name (Bruce Fischer) and email address (bwfischer61@gmail.com)
 -  You may order by mail by sending your request and payment to:
 
         Bruce Fischer
