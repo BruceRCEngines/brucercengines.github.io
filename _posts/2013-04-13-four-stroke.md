@@ -31,7 +31,6 @@ OS surpass        | 48    | 7-     | $85   | 28    |
 OS Surpass        | 70    | 7+     | $150  | 36    | 
 OS Surpass        | 91    | 7+     | $170  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
 OS Surpass        | 91    | 7      | $165  | 111   | New bearings and new ring
-OS Surpass        | 91    | 7      | $160  | 77    |
 OS surpass        | 91    | 9      | $210  | 179   | Bench run once for about 2 minutes.
 OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is still perfect.
 OS Surpass        | 91    | 10     | $240  | 143   | New in Box
