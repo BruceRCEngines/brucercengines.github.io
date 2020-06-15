@@ -34,7 +34,7 @@ OS Surpass        | 91    | 7      | $165  | 111   | New bearings and new ring
 OS surpass        | 91    | 9      | $210  | 179   | Bench run once for about 2 minutes.
 OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is still perfect.
 OS Surpass        | 91    | 10     | $240  | 143   | New in Box
-OS Surpass        | 120   | 7      | $175  | 204   | Tested with 16x8 prop (16x6 would be better fit). Ran at 7,600 rpm and idled at 2,000.  Bearings, transition, and compression good.
+OS Surpass        | 120   | 7      | $190  | 202   | Tested with 16x7 prop (16x6 would be better fit). Ran at 8,100 rpm and idled at 2,000.  Bearings, transition, and compression good.
 Saito             | 30    | 7      | $90   | 24    | 
 Saito             | 45    | 7-     | $85   | 26    |
 Saito             | 65    | 7-     | $135  | 39    |
@@ -60,7 +60,6 @@ YS FS             | 120   | 7      | $195  | 130   |
 YS FS             | 120   | 7      | $200  | 243   | Stack Exhaust
 YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
 YS SF             | 120   | 8      | $215  | 246   |  
-YS SF             | 120   | 7      | $205  | 205   | Muffler and 45 degree header
 YS FS             | 120   | 7+     | $210  | 239   | 
 YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler                                      
 {: .table .table-bordered .table-condensed .table-hover .footable}
