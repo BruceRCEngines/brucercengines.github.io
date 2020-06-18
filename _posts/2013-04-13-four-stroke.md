@@ -26,7 +26,6 @@ featured_engine_name: OS 91 Surpass #179
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------
-
 OS surpass        | 48    | 7-     | $85   | 28    | 
 OS Surpass        | 70    | 7+     | $150  | 36    | 
 OS Surpass        | 91    | 7+     | $170  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
