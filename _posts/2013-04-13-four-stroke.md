@@ -26,7 +26,7 @@ featured_engine_name: OS 91 Surpass #179
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------
-Magnum XL         | 70    | 6      | $80   | 22    | New Bearings and con rod.  rpm readings should be better.
+
 OS surpass        | 48    | 7-     | $85   | 28    | 
 OS Surpass        | 70    | 7+     | $150  | 36    | 
 OS Surpass        | 91    | 7+     | $170  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
@@ -34,7 +34,7 @@ OS Surpass        | 91    | 7      | $165  | 111   | New bearings and new ring
 OS surpass        | 91    | 9      | $210  | 179   | Bench run once for about 2 minutes.
 OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is still perfect.
 OS Surpass        | 91    | 10     | $240  | 143   | New in Box
-OS Surpass        | 120   | 7      | $190  | 202   | Tested with 16x7 prop (16x6 would be better fit). Ran at 8,100 rpm and idled at 2,000.  Bearings, transition, and compression good.
+OS Surpass        | 120   | 7      | $190  |   2   | Tested with 16x7 prop (16x6 would be better fit). Ran at 8,100 rpm and idled at 2,000.  Bearings, transition, and compression good.
 Saito             | 30    | 7      | $90   | 24    | 
 Saito             | 45    | 7-     | $85   | 26    |
 Saito             | 65    | 7-     | $135  | 39    |
@@ -47,15 +47,12 @@ Saito             | 91    | 8      | $180  | 154   | Muffler older than engine.
 Saito             | 91    | 7      | $175  | 141   | 
 Saito             | 100   | 7      | $175  | 142   | 
 Saito             | 100   | 7      | $180  | 172   |
-Saito             | 103   | 7+     | $170  | 103   |
+Saito             | 100   | 7+     | $170  | 103   |
 Saito             | 100   | 7+     | $190  | 167   | Runs fantastically well. tested with a 14x8 prop and got 9,000 rpm on high and idled at 1,800 rpm.
-Saito             | 100   | 8+     | $220  | 201   | Tested with a 14x6 prop.(15x6 better size) Ran at 9,900 and idled at 1,900 rpm.  compression, transition, and bearings great.  Impressive engine
-Saito             | 120S  | 6+     | $175  | 27    | 
+Saito             | 100   | 8+     | $220  | 201   | Tested with a 14x6 prop.(15x6 better size) Ran at 9,900 and idled at 1,900 rpm.  compression, transition, and bearings great.  Impressive engine 
 Saito             | 120   | 7      | $190  | 229   | Tested with 16x8 prop.  Ran at 7,400 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression and bearings good.
 Saito             | 120   | 7      | $195  | 228   | Tested with 16x8 prop.  Ran at 7,920 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression, and bearings good.
-Saito             | 125S  | 7+     | $200  | 32    |
 YS AC             | 110   | 8      | $200  | 170   | 
-YS AC             | 120   | 7      | $195  | 238   |
 YS FS             | 120   | 7      | $195  | 130   |
 YS FS             | 120   | 7      | $200  | 243   | Stack Exhaust
 YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
