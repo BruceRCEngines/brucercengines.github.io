@@ -18,10 +18,7 @@ Fuji              | 40    | 8      | $60   | 31    | May be a 9
 Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 46    | 6      | $35   | 29    | 
 Magnum XL         | 61    | 7      | $60   | 96    | 
-OS AX             | 75    | 9+     | $175  | 140   | Mounted but never started.  No box
-OS FP             | 40    | 7      | $40   | 84    |
 OS FP             | 40    | 7+     | $45   | 23    |
-OS FX             | 25    | 7      | $65   | 102   |
 OS FX             | 46    | 7      | $70   | 75    |
 OS FX             | 46    | 7+     | $80   | 104   |
 OS FX             | 61    | 7      | $90   | 53    | Runs like a fine machine.
