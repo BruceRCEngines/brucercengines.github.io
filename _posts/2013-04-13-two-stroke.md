@@ -19,7 +19,7 @@ Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 46    | 6      | $35   | 29    | 
 Magnum XL         | 61    | 7      | $60   | 96    | 
 OS FP             | 40    | 7+     | $45   | 23    |
-OS FX             | 46    | 7      | $70   | 75    |
+OS FX             | 46    | 6+     | $65   | 20    |
 OS FX             | 46    | 7+     | $80   | 104   |
 OS FX             | 61    | 7      | $90   | 53    | Runs like a fine machine.
 OS FX             | 61    | 7      | $90   | 58    |
