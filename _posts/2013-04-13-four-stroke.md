@@ -48,7 +48,11 @@ Saito             | 100   | 7+     | $190  | 167   | Runs fantastically well. te
 Saito             | 100   | 8+     | $220  | 201   | Tested with a 14x6 prop.(15x6 better size) Ran at 9,900 and idled at 1,900 rpm.  compression, transition, and bearings great.  Impressive engine 
 Saito             | 120   | 7      | $190  | 229   | Tested with 16x8 prop.  Ran at 7,400 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression and bearings good.
 Saito             | 120   | 7      | $195  | 228   | Tested with 16x8 prop.  Ran at 7,920 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression, and bearings good.
-YS AC             | 110   | 8      | $200  | 170   | 
+YS FZ             | 53    | 7      | $135  | 4     |
+YS FZ             | 90    | 7+     | $180  | 8     |
+YS AC             | 110   | 8      | $200  | 170   |
+YS SF             | 120   | 6+     | $160  | 7     |    
+YS SF             | 120   | 7-     | $180  | 6     | muffler and 90 degree elbow header
 YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
 YS SF             | 120   | 8      | $215  | 246   |  
 YS FS             | 120   | 7+     | $210  | 239   | 
