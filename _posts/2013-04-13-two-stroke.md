@@ -30,10 +30,8 @@ OS MAX H          | 40    | 6      | $40   | 50    | Idles at 2,300, otherwise i
 OS SF             | 46    | 7+     | $75   | 135   |
 OS SF             | 61    | 8      | $110  | 57    |
 OS SR             | 60    | 7      | $110  | 54    | My best 60 engine new or used!
-Super Tiger       | 45    | 8      | $60   | 183   |
 Super Tiger       | 61    | 7      | $75   | 182   |
 Super Tiger       | 61    | 7      | $75   | 188   |
-Super Tiger       | 75    | 7      | $80   | 127   |
 Super Tiger       | 75    | 8-     | $90   | 87    | 
 Thunder Tiger Pro | 46    | 6      | $45   | 1     |
 Tiger Shark       | 61    | 6+     | $50   | 9     |
