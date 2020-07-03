@@ -48,7 +48,7 @@ Saito             | 100   | 8+     | $220  | 201   | Tested with a 14x6 prop.(15
 Saito             | 120   | 7      | $190  | 229   | Tested with 16x8 prop.  Ran at 7,400 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression and bearings good.
 Saito             | 120   | 7      | $195  | 228   | Tested with 16x8 prop.  Ran at 7,920 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression, and bearings good.
 YS FZ             | 53    | 7      | $135  | 4     |
-YS FZ             | 53    | 7+     | $135  | 12    | 
+YS FZ             | 53    | 7+     | $145  | 12    | 
 YS FZ             | 90    | 7+     | $180  | 8     |
 YS AC             | 110   | 8      | $200  | 170   |
 YS FS             | 120   | 7      | $200  | 10    |
