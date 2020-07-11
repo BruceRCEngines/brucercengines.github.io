@@ -13,19 +13,14 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|-------------------
-FOX               | 45    | 7      | $50   | 56    |
 Fuji              | 40    | 8      | $60   | 31    | May be a 9 
 Magnum Pro        | 40    | 8      | $50   | 42    |
-Magnum XL         | 40    | 7      | $45   | 5     |
 Magnum XL         | 46    | 6      | $35   | 29    | 
 OS FP             | 40    | 7+     | $45   | 23    |
 OS FX             | 46    | 7+     | $80   | 104   |
 OS FX             | 61    | 6+     | $55   | 3     |
-OS FX             | 61    | 7      | $90   | 58    |
 OS Max H          | 20    | 9      | $50   | 15    | Not test run because it may be new.
 OS SF             | 46    | 7+     | $75   | 135   |
 OS SF             | 61    | 8      | $110  | 57    |
 Super Tiger       | 61    | 7      | $75   | 182   |
-Super Tiger       | 75    | 8-     | $90   | 87    | 
-Tiger Shark       | 61    | 6+     | $50   | 9     |
 {: .table .table-bordered .table-condensed .table-hover .footable}
