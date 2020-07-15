@@ -18,9 +18,7 @@ Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 46    | 6      | $35   | 29    | 
 OS FP             | 40    | 7+     | $45   | 23    |
 OS FX             | 46    | 7+     | $80   | 104   |
-OS FX             | 61    | 6+     | $55   | 3     |
 OS Max H          | 20    | 9      | $50   | 15    | Not test run because it may be new.
 OS SF             | 46    | 7+     | $75   | 135   |
 OS SF             | 61    | 8      | $110  | 57    |
-Super Tiger       | 61    | 7      | $75   | 182   |
 {: .table .table-bordered .table-condensed .table-hover .footable}
