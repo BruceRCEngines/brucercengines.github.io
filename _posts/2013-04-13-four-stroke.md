@@ -30,15 +30,13 @@ OS surpass        | 48    | 7-     | $85   | 28    |
 OS Surpass        | 48    | 6+     | $75   | 13    |
 OS Surpass        | 91    | 7+     | $170  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
 OS Surpass        | 91    | 7      | $165  | 111   | New bearings and new ring
-OS surpass        | 91    | 9      | $210  | 179   | Bench run once for about 2 minutes.
 OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is still perfect.
 OS Surpass        | 120   | 7      | $190  | 202   | Tested with 16x7 prop (16x6 would be better fit). Ran at 8,100 rpm and idled at 2,000.  Bearings, transition, and compression good. 
 Saito             | 45    | 7-     | $85   | 26    |
 Saito             | 65    | 7      | $140  | 19    | 
 Saito             | 72    | 7      | $150  | 177   | 
-Saito             | 80    | 7      | $150  | 159   |
-Saito             | 80    | 8-     | $180  | 156   |
-Saito             | 91    | 7+     | $170  | 146   | Tested in dark so not tach readings possible.  High and idle rpms excellent as well as transition, compression and bearings. Impressive.
+Saito             | 80    | 7-     | $150  | 159   |
+Saito             | 80    | 7-     | $150  | 156   |
 Saito             | 91    | 7+     | $170  | 103   |
 Saito             | 91    | 8      | $180  | 148   | 
 Saito             | 100   | 7+     | $190  | 167   | Runs fantastically well. tested with a 14x8 prop and got 9,000 rpm on high and idled at 1,800 rpm.
@@ -47,13 +45,13 @@ Saito             | 120   | 7      | $190  | 229   | Tested with 16x8 prop.  Ran
 Saito             | 120   | 7      | $195  | 228   | Tested with 16x8 prop.  Ran at 7,920 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression, and bearings good.
 YS FZ             | 53    | 7      | $135  | 4     |
 YS FZ             | 53    | 7+     | $145  | 12    | 
-YS AC             | 110   | 8      | $200  | 170   |
 YS FS             | 120   | 7      | $200  | 10    |
 YS FS             | 120   | 7-     | $190  | 11    |
-YS SF             | 120   | 6+     | $160  | 7     |    
-YS SF             | 120   | 7-     | $180  | 6     | muffler and 90 degree elbow header
-YS SF             | 120   | 7      | $210  | 244   | Bulb muffler
-YS SF             | 120   | 8      | $215  | 246   |  
+YS FS             | 120   | 6+     | $160  | 7     |    
+YS FS             | 120   | 7-     | $180  | 6     | muffler and 90 degree elbow header
+YS FS             | 120   | 7      | $210  | 244   | Bulb muffler
+YS FS             | 120   | 8      | $215  | 246   |
+YS FS             | 120   | 7      | $205  | 205   | MUffler on an adjustable elbow
 YS FS             | 120   | 7+     | $210  | 239   | 
 YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler                                      
 {: .table .table-bordered .table-condensed .table-hover .footable}
