@@ -30,9 +30,7 @@ OS surpass        | 48    | 7-     | $85   | 28    |
 OS Surpass        | 48    | 6+     | $75   | 13    |
 OS Surpass        | 91    | 7+     | $170  | 175   | Tested with a wood 14x6 prop and got 9,750 high and 1,740 idle. Transition and bearings good.
 OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is still perfect.
-OS Surpass        | 120   | 7      | $190  | 202   | Tested with 16x7 prop (16x6 would be better fit). Ran at 8,100 rpm and idled at 2,000.  Bearings, transition, and compression good. 
-Saito             | 65    | 7      | $140  | 19    | 
-Saito             | 72    | 7      | $150  | 177   | 
+OS Surpass        | 120   | 7      | $190  | 202   | Tested with 16x7 prop (16x6 would be better fit). Ran at 8,100 rpm and idled at 2,000.  Bearings, transition, and compression good.   
 Saito             | 80    | 7-     | $150  | 159   |
 Saito             | 80    | 7-     | $150  | 156   |
 Saito             | 91    | 8      | $180  | 148   | 
