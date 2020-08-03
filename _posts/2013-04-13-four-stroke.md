@@ -27,14 +27,10 @@ featured_engine_name: OS 91 Surpass #179
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------
 OS surpass        | 48    | 7-     | $85   | 28    | 
-OS Surpass        | 48    | 6+     | $75   | 13    |
 OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is still perfect. 
 Saito             | 80    | 7-     | $150  | 159   |
-Saito             | 80    | 7-     | $150  | 156   |
 Saito             | 91    | 8      | $180  | 148   | 
 Saito             | 100   | 8+     | $220  | 201   | Tested with a 14x6 prop.(15x6 better size) Ran at 9,900 and idled at 1,900 rpm.  compression, transition, and bearings great.  Impressive engine 
-Saito             | 120   | 7      | $195  | 228   | Tested with 16x8 prop.  Ran at 7,920 rpm and idled at 1,700.  Will get 1,000 rpm more with a 16x6 prop.  Transition, compression, and bearings good.
-YS FZ             | 53    | 7+     | $145  | 12    | 
 YS FS             | 120   | 7      | $200  | 10    |
 YS FS             | 120   | 7-     | $190  | 11    |
 YS FS             | 120   | 6+     | $160  | 7     |    
