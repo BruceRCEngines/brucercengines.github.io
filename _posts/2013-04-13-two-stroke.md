@@ -14,6 +14,5 @@ featured_engine_name: OS 61 SF
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------- 
 OS FP             | 40    | 7+     | $45   | 23    |
-OS Max H          | 20    | 9      | $50   | 15    | Not test run because it may be new.
 OS SF             | 61    | 8      | $110  | 57    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
