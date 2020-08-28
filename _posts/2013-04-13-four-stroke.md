@@ -26,16 +26,17 @@ featured_engine_name: OS 91 Surpass #179
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------
-OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but is still perfect. 
-Saito             | 91    | 8      | $180  | 148   | 
+OS Surpass        | 91    | 8      | $190  | 179   | Bench run and flown once
+OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but has never been run. 
 Saito             | 100   | 8+     | $220  | 201   | Tested with a 14x6 prop.(15x6 better size) Ran at 9,900 and idled at 1,900 rpm.  compression, transition, and bearings great.  Impressive engine 
 YS FS             | 120   | 7      | $200  | 10    |
 YS FS             | 120   | 7-     | $190  | 11    |
 YS FS             | 120   | 6+     | $160  | 7     |    
 YS FS             | 120   | 7-     | $180  | 6     | muffler and 90 degree elbow header
-YS FS             | 120   | 7      | $210  | 244   | Bulb muffler
 YS FS             | 120   | 8      | $215  | 246   |
 YS FS             | 120   | 7      | $205  | 205   | MUffler on an adjustable elbow
 YS FS             | 120   | 7+     | $210  | 239   | 
-YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler                                      
+YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler 
+YS SF             | 120   | 7      | $200  | 43    | 
+YS FS             | 120   | 7-     | $185  | 44    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
