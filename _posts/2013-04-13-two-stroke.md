@@ -13,7 +13,6 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------- 
-Fuji              | 40    | 8      | $60   | 31    | may have been only bench run
 Magnum Pro        | 40    | 8      | $50   | 42    |
 Magnum XL         | 40    | 7      | $40   | 4     | Perry carb
 OS FP             | 40    | 7+     | $45   | 23    |
