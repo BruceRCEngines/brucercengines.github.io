@@ -33,9 +33,7 @@ YS FS             | 120   | 7      | $200  | 10    |
 YS FS             | 120   | 7-     | $190  | 11    |
 YS FS             | 120   | 6+     | $160  | 7     |    
 YS FS             | 120   | 7-     | $180  | 6     | muffler and 90 degree elbow header
-YS FS             | 120   | 8      | $215  | 246   |
-YS FS             | 120   | 7      | $205  | 205   | MUffler on an adjustable elbow
-YS FS             | 120   | 7+     | $210  | 239   | 
+YS FS             | 120   | 7      | $205  | 205   | MUffler on an adjustable elbow 
 YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler 
 YS SF             | 120   | 7      | $200  | 43    | 
 YS FS             | 120   | 7-     | $185  | 44    |
