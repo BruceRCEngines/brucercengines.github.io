@@ -28,7 +28,6 @@ BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------
 OS Surpass        | 91    | 8      | $190  | 179   | Bench run and flown once
 OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but has never been run. 
-Saito             | 100   | 8+     | $220  | 201   | Tested with a 14x6 prop.(15x6 better size) Ran at 9,900 and idled at 1,900 rpm.  compression, transition, and bearings great.  Impressive engine 
 YS FS             | 120   | 7      | $200  | 10    |
 YS FS             | 120   | 7-     | $190  | 11    |
 YS FS             | 120   | 6+     | $160  | 7     |    
