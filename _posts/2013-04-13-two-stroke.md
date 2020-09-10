@@ -13,7 +13,6 @@ featured_engine_name: OS 61 SF
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------- 
-Magnum Pro        | 40    | 8      | $50   | 42    |
-Magnum XL         | 40    | 7      | $40   | 4     | Perry carb
-OS SF             | 61    | 8      | $110  | 57    |
+Magnum Pro        | 40    | 8      | $45   | 42    |
+Magnum XL         | 40    | 7      | $35   | 4     | Perry carb
 {: .table .table-bordered .table-condensed .table-hover .footable}
