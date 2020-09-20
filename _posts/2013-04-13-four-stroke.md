@@ -26,8 +26,7 @@ featured_engine_name: OS 91 Surpass #179
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------
-OS Surpass        | 91    | 8      | $190  | 179   | Bench run and flown once
-OS Surpass        | 91    | 10     | $230  | 145   | A lot of shelf time, but has never been run. 
+OS Surpass        | 91    | 8      | $190  | 179   | Bench run and flown once 
 YS FS             | 120   | 7      | $200  | 10    |
 YS FS             | 120   | 7-     | $190  | 11    |
 YS FS             | 120   | 6+     | $160  | 7     |    
