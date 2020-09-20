@@ -26,13 +26,13 @@ featured_engine_name: OS 91 Surpass #179
 
 BRAND             | SIZE  | RATING | PRICE | SKU   | DESCRIPTION
 ------------------|-------|--------|-------|-------|------------------
-OS Surpass        | 91    | 8      | $190  | 179   | Bench run and flown once 
-YS FS             | 120   | 7      | $200  | 10    |
-YS FS             | 120   | 7-     | $190  | 11    |
-YS FS             | 120   | 6+     | $160  | 7     |    
+OS Surpass        | 91    | 8      | $175  | 179   | Bench run and flown once 
+YS FS             | 120   | 7      | $180  | 10    |
+YS FS             | 120   | 7-     | $170  | 11    |
+YS FS             | 120   | 6+     | $150  | 7     |    
 YS FS             | 120   | 7-     | $180  | 6     | muffler and 90 degree elbow header
-YS FS             | 120   | 7      | $205  | 205   | MUffler on an adjustable elbow 
-YS NC             | 120   | 7      | $205  | 237   | 90 header plus a muffler 
-YS SF             | 120   | 7      | $200  | 43    | 
-YS FS             | 120   | 7-     | $185  | 44    |
+YS FS             | 120   | 7      | $185  | 205   | MUffler on an adjustable elbow 
+YS NC             | 120   | 7      | $185  | 237   | 90 header plus a muffler 
+YS SF             | 120   | 7      | $180  | 43    | 
+YS FS             | 120   | 7-     | $170  | 44    |
 {: .table .table-bordered .table-condensed .table-hover .footable}
